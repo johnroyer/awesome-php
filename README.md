@@ -6,12 +6,12 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Awesome PHP](#awesome-php)
   - [Library](#library)
     - [Router](#router)
+    - [Template](#template)
   - [Frameworks](#frameworks)
   - [Platforms](#platforms)
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [Gallery](#gallery)
   - [Components](#components)
-  - [Templating](#templating)
   - [Static Site Generators](#static-site-generators)
   - [HTTP](#http)
   - [Scraping](#scraping)
@@ -97,6 +97,16 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 - [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
 
+#### Template
+
+- [Latte](https://latte.nette.org/) - The safest and truly intuitive templates for PHP.
+- [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
+- [Mustache](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
+- [PHPTAL](https://phptal.org/) - A PHP implementation of the [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
+- [Plates](http://platesphp.com/) - A native PHP templating library.
+- [Smarty](https://www.smarty.net/) - A template engine to complement PHP.
+- [Twig](https://twig.symfony.com/) - A comprehensive templating language.
+
 ### Frameworks
 *Web development frameworks.*
 
@@ -155,17 +165,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
 - [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
 - [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
-
-### Templating
-*Libraries and tools for templating and lexing.*
-
-- [Latte](https://latte.nette.org/) - The safest and truly intuitive templates for PHP.
-- [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
-- [Mustache](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
-- [PHPTAL](https://phptal.org/) - A PHP implementation of the [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
-- [Plates](http://platesphp.com/) - A native PHP templating library.
-- [Smarty](https://www.smarty.net/) - A template engine to complement PHP.
-- [Twig](https://twig.symfony.com/) - A comprehensive templating language.
 
 ### Static Site Generators
 *Tools for pre-processing content to generate web pages.*
