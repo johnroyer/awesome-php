@@ -380,7 +380,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 - [Jobby](https://github.com/jobbyphp/jobby) - A PHP cron job manager without modifying crontab.
 - [Robo](https://github.com/consolidation/Robo) - A PHP Task runner with object-orientated configurations.
-- [Task](https://taskphp.github.io/) - A pure PHP task runner inspired by Grunt and Gulp.
+- [Task](https://github.com/taskphp/task) - A pure PHP task runner inspired by Grunt and Gulp.
 
 ### Navigation
 *Tools for building navigation structures.*
