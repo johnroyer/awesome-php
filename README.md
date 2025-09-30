@@ -742,7 +742,7 @@ Libraries to help manage database schemas and migrations.
 - [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 - [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 
-# Ecosystem
+## Ecosystem
 
 ### Build Tool
 
