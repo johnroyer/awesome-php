@@ -90,7 +90,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 ### Library
 
-### Continuous Integration (CI)
+#### Continuous Integration (CI)
 
 - [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
 - [PHPCI](https://github.com/dancryer/phpci) - An open-source continuous integration platform for PHP.
