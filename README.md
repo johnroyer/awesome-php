@@ -10,6 +10,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Email](#email)
     - [File](#File)
     - [HTTP](#http)
+    - [Image](#image)
     - [Middleware](#middleware)
     - [Router](#router)
     - [Stream](#stream)
@@ -143,6 +144,17 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Symfony HTTP Client](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
 - [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
 
+#### Image
+
+- [Color Extractor](https://github.com/thephpleague/color-extractor) - A library for extracting colours from images.
+- [Glide](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
+- [Image Hash](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
+- [Image Optimizer](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
+- [Imagine](https://imagine.readthedocs.io/en/latest/index.html) - An image manipulation library.
+- [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
+- [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
+- [PHP QR Code](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader.
+
 #### Middleware
 
 - [PSR-15 Middlewares](https://github.com/middlewares/psr15-middlewares) - Inspiring collection of handy middlewares.
@@ -246,18 +258,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
 - [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
 - [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
-
-### Imagery
-*Libraries for manipulating images.*
-
-- [Color Extractor](https://github.com/thephpleague/color-extractor) - A library for extracting colours from images.
-- [Glide](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
-- [Image Hash](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
-- [Image Optimizer](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
-- [Imagine](https://imagine.readthedocs.io/en/latest/index.html) - An image manipulation library.
-- [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
-- [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
-- [PHP QR Code](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader.
 
 ### Testing
 *Libraries for testing codebases and generating test data.*
