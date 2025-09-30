@@ -6,6 +6,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Awesome PHP](#awesome-php)
   - [Library](#library)
     - [Code Analysis](#code-analysis)
+    - [Code Quality](#code-quality)
     - [Continuous Integration (CI)](#continuous-integration-ci)
     - [Crawler](#crawler)
     - [Dependency Injection](#dependency-injection)
@@ -17,6 +18,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Middleware](#middleware)
     - [Router](#router)
     - [Security](#security)
+    - [Static Analysis](#static-analysis)
     - [Stream](#stream)
     - [Template](#template)
     - [Testing](#testing)
@@ -26,8 +28,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
-  - [Code Quality](#code-quality)
-  - [Static Analysis](#static-analysis)
   - [Architectural](#architectural)
   - [Debugging and Profiling](#debugging-and-profiling)
   - [Error Tracking and Monitoring Services](#error-tracking-and-monitoring-services)
@@ -77,7 +77,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Ecosystem](#Ecosystem)
   - [Resources](#resources)
     - [Web Service](#web-service)
-    - [PHP Websites](#php-websites)
+    - [Tutorial / Learning](#tutorial-learning)
     - [PHP Books](#php-books)
     - [PHP Videos](#php-videos)
     - [PHP Conferences](#php-conferences)
@@ -103,6 +103,17 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Rector](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
 - [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
 - [UBench](https://github.com/devster/ubench) - A simple micro-benchmark library.
+
+#### Code Quality
+
+- [CaptainHook](https://github.com/captainhook-git/captainhook) - An easy-to-use and flexible Git hook library.
+- [PHP CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
+- [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A coding standards fixer library.
+- [PHP CS Fixer Configurator](https://mlocati.github.io/php-cs-fixer-configurator/) - A web application to help configure PHP CS Fixer rule sets.
+- [PHP Mess Detector](https://github.com/phpmd/phpmd) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
+- [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
+- [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
+- [Laravel Pint](https://github.com/laravel/pint) - A coding standards fixer library for Laravel.
 
 #### Continuous Integration (CI)
 
@@ -221,6 +232,20 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [phpass](https://www.openwall.com/phpass/) - A portable password hashing framework.
 - [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
 
+#### Static Analysis
+
+- [Exakat](https://github.com/exakat/exakat) - A static analysis engine for PHP.
+- [Deptrac](https://github.com/qossmic/deptrac) - A static code analysis tool that helps to enforce rules for dependencies between software layers.
+- [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
+- [phan](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
+- [PHP Architecture Tester](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
+- [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
+- [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
+- [PHPDoc Parser](https://github.com/phpstan/phpdoc-parser) - Next-gen phpDoc parser with support for intersection types and generics
+- [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
+- [PHP Migration](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
+- [PHPStan](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
+- [Psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications.
 
 #### Stream
 
@@ -326,38 +351,9 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
 
-### Code Quality
-*Libraries for managing code quality, formatting and linting.*
-
-- [CaptainHook](https://github.com/captainhook-git/captainhook) - An easy-to-use and flexible Git hook library.
-- [PHP CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
-- [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A coding standards fixer library.
-- [PHP CS Fixer Configurator](https://mlocati.github.io/php-cs-fixer-configurator/) - A web application to help configure PHP CS Fixer rule sets.
-- [PHP Mess Detector](https://github.com/phpmd/phpmd) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
-- [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
-- [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
-- [Laravel Pint](https://github.com/laravel/pint) - A coding standards fixer library for Laravel.
-
-### Static Analysis
-*Libraries for performing static analysis of PHP code.*
-
-- [Exakat](https://github.com/exakat/exakat) - A static analysis engine for PHP.
-- [Deptrac](https://github.com/qossmic/deptrac) - A static code analysis tool that helps to enforce rules for dependencies between software layers.
-- [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
-- [phan](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
-- [PHP Architecture Tester](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
-- [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
-- [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
-- [PHPDoc Parser](https://github.com/phpstan/phpdoc-parser) - Next-gen phpDoc parser with support for intersection types and generics
-- [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
-- [PHP Migration](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
-- [PHPStan](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
-- [Psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications.
-
 ### Architectural
 *Libraries related to design patterns, programming approaches and ways to organize code.*
 
-- [Design Patterns PHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP ) - A repository of software patterns implemented in PHP.
 - [Finite](https://github.com/yohang/Finite) - A simple PHP finite state machine.
 - [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
 - [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
@@ -866,9 +862,10 @@ Various resources, such as books, websites and articles, for improving your PHP 
 - [SemaphoreCI](https://semaphore.io/)
 - [Travis CI](https://www.travis-ci.com)
 
-### PHP Websites
+### Tutorial / Learning
 *Useful PHP-related websites.*
 
+- [Design Patterns PHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP ) - A repository of software patterns implemented in PHP.
 - [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
 - [Laravel News](https://laravel-news.com/) - The official Laravel blog.
 - [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/tag/php-annotated-monthly/) - A monthly digest of PHP news.
