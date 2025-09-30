@@ -8,6 +8,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Continuous Integration (CI)](#continuous-integration-ci)
     - [Crawler](#crawler)
     - [Dependency Injection](#dependency-injection)
+    - [Documentation](#documentation)
     - [Email](#email)
     - [File](#File)
     - [HTTP](#http)
@@ -23,7 +24,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
-  - [Documentation](#documentation)
   - [Security](#security)
   - [Passwords](#passwords)
   - [Code Analysis](#code-analysis)
@@ -116,6 +116,14 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHP-DI](https://php-di.org/) - A dependency injection container that supports autowiring.
 - [Pimple](https://github.com/silexphp/Pimple) - A tiny dependency injection container.
 - [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
+
+#### Documentation
+
+- [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
+- [daux.io](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
+- [phpDocumentor](https://phpdoc.org/) - A documentation generator.
+- [phpDox](https://phpdox.net/) - A documentation generator for PHP projects (that is not limited to API documentation).
+- [zircote/swagger-php](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
 
 #### Email
 
@@ -279,15 +287,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Documentation
-*Libraries for generating project documentation.*
-
-- [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
-- [daux.io](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
-- [phpDocumentor](https://phpdoc.org/) - A documentation generator.
-- [phpDox](https://phpdox.net/) - A documentation generator for PHP projects (that is not limited to API documentation).
-- [zircote/swagger-php](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
 
 ### Security
 *Libraries for generating secure random numbers, encrypting data and scanning and testing for vulnerabilities.*
