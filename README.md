@@ -77,7 +77,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Ecosystem](#Ecosystem)
   - [Resources](#resources)
     - [Web Service](#web-service)
-      - [Continuous Integration](#continuous-integration)
     - [PHP Websites](#php-websites)
     - [PHP Books](#php-books)
     - [PHP Videos](#php-videos)
@@ -92,8 +91,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 #### Code Analysis
 
-- [Better Reflection](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
-- [Code Climate](https://codeclimate.com) - An automated code review.
 - [Editorconfig-Checker](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
 - [GrumPHP](https://github.com/phpro/grumphp) - A PHP code-quality tool.
 - [PHP AST Viewer](https://php-ast-viewer.com/) - A tool for viewing the Abstract Syntax Tree of PHP code.
@@ -264,6 +261,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHPUnit Polyfills](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
 - [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
 - [VFS Stream](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
+- [Better Reflection](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
 
 #### URL
 
@@ -861,8 +859,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 ### Web Service
 
-#### Continuous Integration
-
+- [Code Climate](https://codeclimate.com) - An automated code review.
 - [CircleCI](https://circleci.com)
 - [Gitlab CI/CD](https://about.gitlab.com/solutions/continuous-integration/)
 - [Jenkins](https://www.jenkins.io/)
