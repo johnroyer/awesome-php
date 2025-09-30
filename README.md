@@ -78,6 +78,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Infrastructure](#infrastructure)
 - [Resources](#resources)
   - [Web Service](#web-service)
+    - [Continuous Integration](#continuous-integration)
   - [PHP Websites](#php-websites)
   - [PHP Books](#php-books)
   - [PHP Videos](#php-videos)
@@ -868,6 +869,8 @@ Libraries to help manage database schemas and migrations.
 Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
 
 ### Web Service
+
+#### Continuous Integration
 
 - [CircleCI](https://circleci.com)
 - [Jenkins](https://www.jenkins.io/)
