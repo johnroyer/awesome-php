@@ -5,6 +5,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
   - [Library](#library)
+    - [HTTP](#http)
     - [Router](#router)
     - [Template](#template)
   - [Frameworks](#frameworks)
@@ -13,7 +14,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
   - [Components](#components)
-  - [HTTP](#http)
   - [Scraping](#scraping)
   - [Middlewares](#middlewares)
   - [URL](#url)
@@ -88,6 +88,18 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Repositories](#repositories)
 
 ### Library
+
+#### HTTP
+
+- [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
+- [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
+- [HTTPlug](http://httplug.io) - An HTTP client abstraction without binding to a specific implementation.
+- [Nyholm PSR-7](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation. Very strict and very fast.
+- [PHP VCR](https://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
+- [Requests](https://github.com/WordPress/Requests) - A simple HTTP library.
+- [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
+- [Symfony HTTP Client](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
+- [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
 
 #### Router
 
@@ -171,19 +183,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
 - [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
 - [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
-
-### HTTP
-*Libraries for working with HTTP.*
-
-- [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
-- [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
-- [HTTPlug](http://httplug.io) - An HTTP client abstraction without binding to a specific implementation.
-- [Nyholm PSR-7](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation. Very strict and very fast.
-- [PHP VCR](https://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
-- [Requests](https://github.com/WordPress/Requests) - A simple HTTP library.
-- [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
-- [Symfony HTTP Client](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
-- [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
 
 ### Scraping
 *Libraries for scraping websites and detecting crawlers.*
