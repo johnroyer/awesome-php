@@ -378,7 +378,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 ### Task Runners
 *Libraries for automating and running tasks.*
 
-- [Bldr](https://bldr.io/) - A PHP Task runner built on Symfony components.
 - [Jobby](https://github.com/jobbyphp/jobby) - A PHP cron job manager without modifying crontab.
 - [Robo](https://github.com/consolidation/Robo) - A PHP Task runner with object-orientated configurations.
 - [Task](https://taskphp.github.io/) - A pure PHP task runner inspired by Grunt and Gulp.
@@ -849,6 +848,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 - [Rollbar](https://rollbar.com/) - Error Logging & Tracking Service for Software Teams.
 - [Sentry](https://sentry.io/welcome/) - Application Performance Monitoring & Error Tracking Software.
 - [Tideways](https://tideways.com/) - Monitoring and profiling tool.
+- [Bldr](https://bldr.io/) - A PHP Task runner built on Symfony components.
 
 ### Tutorial / Learning
 *Useful PHP-related websites.*
