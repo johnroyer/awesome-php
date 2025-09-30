@@ -95,8 +95,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [GitlabCi](https://about.gitlab.com/solutions/continuous-integration/) - Let GitLab CI test, build, deploy your code. TravisCi like.
 - [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
 - [PHPCI](https://github.com/dancryer/phpci) - An open-source continuous integration platform for PHP.
-- [SemaphoreCI](https://semaphore.io/) - A continuous integration platform for open-source and private projects.
-- [Travis CI](https://www.travis-ci.com) - A continuous integration platform.
 - [Setup PHP](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
 
 #### Crawler
@@ -871,8 +869,10 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 ### Web Service
 
-- [CircleCI](https://circleci.com) - A continuous integration platform.
-- [Jenkins](https://www.jenkins.io/) - A continuous integration platform with [PHP support](https://www.jenkins.io/solutions/php/).
+- [CircleCI](https://circleci.com)
+- [Jenkins](https://www.jenkins.io/)
+- [SemaphoreCI](https://semaphore.io/)
+- [Travis CI](https://www.travis-ci.com)
 
 ### PHP Websites
 *Useful PHP-related websites.*
