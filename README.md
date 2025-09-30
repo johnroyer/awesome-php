@@ -87,15 +87,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [PHP Newsletters](#php-newsletters)
   - [PHP Reading](#php-reading)
   - [PHP Internals Reading](#php-internals-reading)
-
-### Composer Repositories
-*Composer Repositories.*
-
-* [Firegento](https://packages.firegento.com/) - Magento Module Composer Repository.
-* [Packagist](https://packagist.org/) - The PHP Package Repository.
-* [Packalyst](https://packalyst.com/) - The Laravel Package Repository
-* [Private Packagist](https://packagist.com/) - Composer package archive as a service for PHP.
-* [WordPress Packagist](https://wpackagist.org/) - Manage your plugins with Composer.
+  - [Repositories](#repositories)
 
 ### Dependency Management
 *Libraries for dependency and package management.*
@@ -991,3 +983,12 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Externals](https://externals.io/) - PHP internal discussions.
 * [PHP RFC Watch](https://github.com/beberlei/php-rfc-watch) - Watch the latest PHP [RFCs](https://wiki.php.net/rfc).
 * [PHP Internals Book](https://www.phpinternalsbook.com/) - An online book about PHP internals, written by three core developers.
+
+
+### Repositories
+
+* [Firegento](https://packages.firegento.com/) - Magento Module Composer Repository.
+* [Packagist](https://packagist.org/) - The PHP Package Repository.
+* [Packalyst](https://packalyst.com/) - The Laravel Package Repository
+* [Private Packagist](https://packagist.com/) - Composer package archive as a service for PHP.
+* [WordPress Packagist](https://wpackagist.org/) - Manage your plugins with Composer.
