@@ -23,7 +23,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
-  - [Continuous Integration](#continuous-integration)
   - [Documentation](#documentation)
   - [Security](#security)
   - [Passwords](#passwords)
