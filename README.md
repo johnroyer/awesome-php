@@ -16,13 +16,13 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Router](#router)
     - [Stream](#stream)
     - [Template](#template)
+    - [Testing](#testing)
     - [URL](#url)
   - [Frameworks](#frameworks)
   - [Platforms](#platforms)
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
-  - [Testing](#testing)
   - [Continuous Integration](#continuous-integration)
   - [Documentation](#documentation)
   - [Security](#security)
@@ -194,6 +194,31 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Smarty](https://www.smarty.net/) - A template engine to complement PHP.
 - [Twig](https://twig.symfony.com/) - A comprehensive templating language.
 
+#### Testing
+
+- [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
+- [Atoum](https://github.com/atoum/atoum) - A simple testing library.
+- [Behat](https://docs.behat.org/en/latest/) - A behaviour driven development (BDD) testing framework.
+- [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
+- [Faker](https://github.com/fakerphp/faker) - A fake data generator library.
+- [Foundry](https://github.com/zenstruck/foundry) - A fixture factory generation library for Doctrine.
+- [Infection](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
+- [Kahlan](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
+- [Mink](https://mink.behat.org/en/latest/) - Web acceptance testing.
+- [Mockery](https://github.com/mockery/mockery) - A mock object library for testing.
+- [Nette Tester](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
+- [ParaTest](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
+- [Pest](https://pestphp.com/) - A testing framework with a focus on simplicity.
+- [Phake](https://github.com/phake/phake) - Another mock object library for testing.
+- [PHP-Mock](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
+- [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
+- [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
+- [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
+- [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
+- [PHPUnit Polyfills](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
+- [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
+- [VFS Stream](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
+
 #### URL
 
 - [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
@@ -256,32 +281,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Testing
-*Libraries for testing codebases and generating test data.*
-
-- [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
-- [Atoum](https://github.com/atoum/atoum) - A simple testing library.
-- [Behat](https://docs.behat.org/en/latest/) - A behaviour driven development (BDD) testing framework.
-- [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
-- [Faker](https://github.com/fakerphp/faker) - A fake data generator library.
-- [Foundry](https://github.com/zenstruck/foundry) - A fixture factory generation library for Doctrine.
-- [Infection](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
-- [Kahlan](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
-- [Mink](https://mink.behat.org/en/latest/) - Web acceptance testing.
-- [Mockery](https://github.com/mockery/mockery) - A mock object library for testing.
-- [Nette Tester](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
-- [ParaTest](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
-- [Pest](https://pestphp.com/) - A testing framework with a focus on simplicity.
-- [Phake](https://github.com/phake/phake) - Another mock object library for testing.
-- [PHP-Mock](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
-- [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
-- [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
-- [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
-- [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
-- [PHPUnit Polyfills](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
-- [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
-- [VFS Stream](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
 
 ### Documentation
 *Libraries for generating project documentation.*
