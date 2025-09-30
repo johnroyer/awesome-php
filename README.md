@@ -21,7 +21,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
-  - [Components](#components)
   - [Imagery](#imagery)
   - [Testing](#testing)
   - [Continuous Integration](#continuous-integration)
@@ -247,17 +246,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Components
-*Standalone components from web development frameworks and development groups.*
-
-- [Aura](https://auraphp.com/) - Independent components, fully decoupled from each other and from any framework.
-- [CakePHP Plugins](https://plugins.cakephp.org/) - A directory of CakePHP plugins.
-- [Laravel Components](https://github.com/illuminate) - The Laravel Framework components.
-- [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
-- [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
-- [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
-- [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
 
 ### Testing
 *Libraries for testing codebases and generating test data.*
