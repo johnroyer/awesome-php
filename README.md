@@ -9,7 +9,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Framework Extras](#framework-extras)
   - [Content Management Systems](#content-management-systems-cms)
   - [Components](#components)
-  - [Micro Frameworks](#micro-frameworks)
   - [Micro Framework Extras](#micro-framework-extras)
   - [Routers](#routers)
   - [Templating](#templating)
@@ -102,6 +101,11 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Spiral](https://spiral.dev/) - A high-performance PHP/Go framework.
 - [Symfony](https://symfony.com/) - A set of reusable components and a web framework.
 - [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
+- [Laravel Zero](https://laravel-zero.com) - A micro-framework for console applications.
+- [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
+- [Minicli](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
+- [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
+- [Slim](https://www.slimframework.com/) - Another simple micro framework.
 
 ### Framework Extras
 *Extras related to web development frameworks.*
@@ -139,15 +143,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
 - [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
 - [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
-
-### Micro Frameworks
-*Micro frameworks and routers.*
-
-- [Laravel Zero](https://laravel-zero.com) - A micro-framework for console applications.
-- [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
-- [Minicli](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
-- [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
-- [Slim](https://www.slimframework.com/) - Another simple micro framework.
 
 ### Micro Framework Extras
 *Extras related to micro frameworks and routers.*
