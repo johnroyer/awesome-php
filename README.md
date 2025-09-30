@@ -77,7 +77,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Ecosystem](#Ecosystem)
   - [Resources](#resources)
     - [Web Service](#web-service)
-    - [Tutorial / Learning](#tutorial--learning)
+    - [Tutorial / Learning](#tutorial-learning)
     - [PHP Books](#php-books)
     - [PHP Videos](#php-videos)
     - [PHP Conferences](#php-conferences)
