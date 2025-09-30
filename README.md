@@ -68,7 +68,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Text Editors and IDEs](#text-editors-and-ides)
   - [Web Applications](#web-applications)
   - [Infrastructure](#infrastructure)
-  - [Ecosystem](#Ecosystem)
+  - [Ecosystem](#ecosystem)
     - [Build Tool](#build-tool)
     - [Dependency Management](#dependency-management)
     - [PHP Installation](#php-installation)
