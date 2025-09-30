@@ -385,7 +385,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 #### Photo and Video
 
-- [Immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution (AGPLv3)
 - [Lychee](https://github.com/LycheeOrg/Lychee) - Great looking and easy-to-use photo-management-system (MIT)
 
 ### Static Site Generators
