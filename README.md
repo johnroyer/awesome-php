@@ -6,6 +6,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Awesome PHP](#awesome-php)
   - [Library](#library)
     - [Crawler](#crawler)
+    - [Email](#email)
     - [HTTP](#http)
     - [Middleware](#middleware)
     - [Router](#router)
@@ -17,7 +18,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
   - [Components](#components)
-  - [Email](#email)
   - [Files](#Files)
   - [Streams](#streams)
   - [Dependency Injection](#dependency-injection)
@@ -97,6 +97,19 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Embed](https://github.com/php-embed/Embed) - An information extractor from any web service or page.
 - [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 - [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
+
+#### Email
+
+- [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
+- [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
+- [Email Validator](https://github.com/nojacko/email-validator) - A small email address validation library.
+- [Fetch](https://github.com/tedious/Fetch) - An IMAP library.
+- [Mautic](https://github.com/mautic/mautic) - Email marketing automation
+- [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
+- [PHP IMAP](https://github.com/barbushin/php-imap) - A library to access mailboxes via POP3, IMAP and NNTP.
+- [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/en-us), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
+- [SwiftMailer](https://swiftmailer.symfony.com/docs/introduction.html) - A mailer solution.
+- [Symfony Mailer](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
 
 #### HTTP
 
@@ -208,20 +221,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
 - [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
 - [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
-
-### Email
-*Libraries for sending and parsing email.*
-
-- [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
-- [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
-- [Email Validator](https://github.com/nojacko/email-validator) - A small email address validation library.
-- [Fetch](https://github.com/tedious/Fetch) - An IMAP library.
-- [Mautic](https://github.com/mautic/mautic) - Email marketing automation
-- [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
-- [PHP IMAP](https://github.com/barbushin/php-imap) - A library to access mailboxes via POP3, IMAP and NNTP.
-- [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/en-us), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
-- [SwiftMailer](https://swiftmailer.symfony.com/docs/introduction.html) - A mailer solution.
-- [Symfony Mailer](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
 
 ### Files
 *Libraries for file manipulation and MIME type detection.*
