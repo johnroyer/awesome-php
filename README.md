@@ -5,6 +5,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
   - [Library](#library)
+    - [Code Analysis](#code-analysis)
     - [Continuous Integration (CI)](#continuous-integration-ci)
     - [Crawler](#crawler)
     - [Dependency Injection](#dependency-injection)
@@ -25,7 +26,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
-  - [Code Analysis](#code-analysis)
   - [Code Quality](#code-quality)
   - [Static Analysis](#static-analysis)
   - [Architectural](#architectural)
