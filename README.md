@@ -5,12 +5,12 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
   - [Library](#library)
+    - [Router](#router)
   - [Frameworks](#frameworks)
   - [Platforms](#platforms)
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [Gallery](#gallery)
   - [Components](#components)
-  - [Routers](#routers)
   - [Templating](#templating)
   - [Static Site Generators](#static-site-generators)
   - [HTTP](#http)
@@ -89,6 +89,14 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 ### Library
 
+#### Router
+
+- [Aura.Router](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
+- [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
+- [Klein](https://github.com/klein/klein.php) - A flexible router.
+- [Pux](https://github.com/c9s/Pux) - Another fast routing library.
+- [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
+
 ### Frameworks
 *Web development frameworks.*
 
@@ -147,15 +155,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
 - [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
 - [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
-
-### Routers
-*Libraries for handling application routing.*
-
-- [Aura.Router](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
-- [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
-- [Klein](https://github.com/klein/klein.php) - A flexible router.
-- [Pux](https://github.com/c9s/Pux) - Another fast routing library.
-- [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
 
 ### Templating
 *Libraries and tools for templating and lexing.*
