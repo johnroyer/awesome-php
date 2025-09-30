@@ -7,7 +7,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Libraries](#libraries)
   - [Frameworks](#frameworks)
   - [Platforms](#platforms)
-    - [Content Management Systems](#content-management-systems-cms)
+    - [Content Management Systems (CMS)](#content-management-systems-cms)
   - [Components](#components)
   - [Routers](#routers)
   - [Templating](#templating)
