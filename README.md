@@ -78,13 +78,13 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Resources](#resources)
     - [Web Service](#web-service)
     - [Tutorial / Learning](#tutorial-learning)
-    - [PHP Books](#php-books)
-    - [PHP Videos](#php-videos)
-    - [PHP Conferences](#php-conferences)
-    - [PHP Podcasts](#php-podcasts)
-    - [PHP Newsletters](#php-newsletters)
-    - [PHP Reading](#php-reading)
-    - [PHP Internals Reading](#php-internals-reading)
+    - [Books](#books)
+    - [Videos](#videos)
+    - [Conferences](#conferences)
+    - [Podcasts](#podcasts)
+    - [Newsletters](#newsletters)
+    - [Reading](#reading)
+    - [Internals Reading](#internals-reading)
     - [Repositories](#repositories)
 
 ### Library
@@ -878,7 +878,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 - [Unit Testing Tips](https://testing-tips.sarvendev.com/) - Unit Testing Tips by examples in PHP.
 - [PHP Internals Book](https://www.phpinternalsbook.com/) - An online book about PHP internals, written by three core developers.
 
-### PHP Books
+### Books
 *Fantastic PHP-related books.*
 
 - [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Real examples written in PHP showcasing DDD Architectural Styles.
@@ -892,7 +892,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 - [Signaling PHP](https://leanpub.com/signalingphp) - A book about catching PCNTL signals in CLI scripts by Cal Evans.
 - [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) - This book covers parsing and validating XML documents, leveraging XPath expressions, and working with namespaces as well as how to create and modify XML files programmatically.
 
-### PHP Videos
+### Videos
 *Fantastic PHP-related videos.*
 
 - [Laracasts](https://laracasts.com) - Screencasts about Laravel, Vue JS and more.
@@ -901,14 +901,14 @@ Various resources, such as books, websites and articles, for improving your PHP 
 - [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 - [SymfonyCasts](https://symfonycasts.com/) - Screencasts and tutorials about PHP and Symfony.
 
-### PHP Conferences
+### Conferences
 *PHP conferences.*
 
 - [Laracon EU](https://www.youtube.com/@LaraconEU) - Laracon EU is a 2-day event for people who are interested in learning Laravel and related technologies, or who want to share their knowledge with others.
 - [PHP[TEK]](https://phptek.io/) - The longest-running web developer conference in the United States that has a focus on the PHP programming language.
 - [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
 
-### PHP Podcasts
+### Podcasts
 *Podcasts with a focus on PHP topics.*
 
 - [Laravel News Podcast](https://podcast.laravel-news.com/) - The Laravel News Podcast brings you all the latest news and events related to the Laravel PHP Framework.
@@ -924,17 +924,17 @@ Various resources, such as books, websites and articles, for improving your PHP 
 - [The Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
 - [The PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 
-### PHP Newsletters
+### Newsletters
 *PHP-related news directly to your inbox.*
 
 - [PHP Weekly](https://www.phpweekly.com/) - A weekly newsletter about PHP.
 
-### PHP Reading
+### Reading
 *PHP-related reading materials.*
 
 - [php[architect]](https://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.
 
-### PHP Internals Reading
+### Internals Reading
 *Reading materials related to the PHP internals or performance.*
 
 - [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (Request for Comments).
