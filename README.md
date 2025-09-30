@@ -7,6 +7,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Library](#library)
     - [Crawler](#crawler)
     - [Email](#email)
+    - [Files](#Files)
     - [HTTP](#http)
     - [Middleware](#middleware)
     - [Router](#router)
@@ -18,7 +19,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
   - [Components](#components)
-  - [Files](#Files)
   - [Streams](#streams)
   - [Dependency Injection](#dependency-injection)
   - [Imagery](#imagery)
@@ -110,6 +110,15 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/en-us), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
 - [SwiftMailer](https://swiftmailer.symfony.com/docs/introduction.html) - A mailer solution.
 - [Symfony Mailer](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
+
+#### File
+
+- [CSV](https://github.com/thephpleague/csv) - A CSV data manipulation library.
+- [Flysystem](https://github.com/thephpleague/Flysystem) - Abstraction for local and remote filesystems.
+- [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
+- [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
+- [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
+- [Parquet](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
 
 #### HTTP
 
@@ -221,16 +230,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
 - [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
 - [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
-
-### Files
-*Libraries for file manipulation and MIME type detection.*
-
-- [CSV](https://github.com/thephpleague/csv) - A CSV data manipulation library.
-- [Flysystem](https://github.com/thephpleague/Flysystem) - Abstraction for local and remote filesystems.
-- [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
-- [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
-- [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
-- [Parquet](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
 
 ### Streams
 *Libraries for working with streams.*
