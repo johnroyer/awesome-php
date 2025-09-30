@@ -4,24 +4,24 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
+  - [Library](#library)
+    - [Continuous Integration (CI)](#continuous-integration-ci)
+    - [Crawler](#crawler)
+    - [Dependency Injection](#dependency-injection)
+    - [Email](#email)
+    - [File](#File)
+    - [HTTP](#http)
+    - [Image](#image)
+    - [Middleware](#middleware)
+    - [Router](#router)
+    - [Stream](#stream)
+    - [Template](#template)
+    - [URL](#url)
   - [Frameworks](#frameworks)
-  - [Framework Extras](#framework-extras)
-  - [Content Management Systems](#content-management-systems-cms)
-  - [Components](#components)
-  - [Micro Frameworks](#micro-frameworks)
-  - [Micro Framework Extras](#micro-framework-extras)
-  - [Routers](#routers)
-  - [Templating](#templating)
-  - [Static Site Generators](#static-site-generators)
-  - [HTTP](#http)
-  - [Scraping](#scraping)
-  - [Middlewares](#middlewares)
-  - [URL](#url)
-  - [Email](#email)
-  - [Files](#Files)
-  - [Streams](#streams)
-  - [Dependency Injection](#dependency-injection)
-  - [Imagery](#imagery)
+  - [Platforms](#platforms)
+    - [Content Management Systems (CMS)](#content-management-systems-cms)
+    - [Gallery](#gallery)
+    - [Static Site Generators](#static-site-generators)
   - [Testing](#testing)
   - [Continuous Integration](#continuous-integration)
   - [Documentation](#documentation)
@@ -77,6 +77,8 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Web Applications](#web-applications)
   - [Infrastructure](#infrastructure)
 - [Resources](#resources)
+  - [Web Service](#web-service)
+    - [Continuous Integration](#continuous-integration)
   - [PHP Websites](#php-websites)
   - [PHP Books](#php-books)
   - [PHP Videos](#php-videos)
@@ -86,6 +88,119 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [PHP Reading](#php-reading)
   - [PHP Internals Reading](#php-internals-reading)
   - [Repositories](#repositories)
+
+### Library
+
+### Continuous Integration (CI)
+
+- [GitlabCi](https://about.gitlab.com/solutions/continuous-integration/) - Let GitLab CI test, build, deploy your code. TravisCi like.
+- [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
+- [PHPCI](https://github.com/dancryer/phpci) - An open-source continuous integration platform for PHP.
+- [Setup PHP](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
+
+#### Crawler
+
+- [Chrome PHP](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
+- [CrawlerDetect](https://github.com/JayBizzle/Crawler-Detect) - A PHP class for detecting bots/crawlers/spiders via the user agent.
+- [DiDOM](https://github.com/Imangazaliev/DiDOM) - A super-fast HTML scrapper and parser.
+- [Embed](https://github.com/php-embed/Embed) - An information extractor from any web service or page.
+- [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
+- [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
+
+#### Dependency Injection
+
+- [Aura.Di](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
+- [Acclimate](https://github.com/AcclimateContainer/acclimate-container) - A common interface to dependency injection containers and service locators.
+- [Auryn](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
+- [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
+- [Disco](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
+- [PHP-DI](https://php-di.org/) - A dependency injection container that supports autowiring.
+- [Pimple](https://github.com/silexphp/Pimple) - A tiny dependency injection container.
+- [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
+
+#### Email
+
+- [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
+- [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
+- [Email Validator](https://github.com/nojacko/email-validator) - A small email address validation library.
+- [Fetch](https://github.com/tedious/Fetch) - An IMAP library.
+- [Mautic](https://github.com/mautic/mautic) - Email marketing automation
+- [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
+- [PHP IMAP](https://github.com/barbushin/php-imap) - A library to access mailboxes via POP3, IMAP and NNTP.
+- [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/en-us), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
+- [SwiftMailer](https://swiftmailer.symfony.com/docs/introduction.html) - A mailer solution.
+- [Symfony Mailer](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
+
+#### File
+
+- [CSV](https://github.com/thephpleague/csv) - A CSV data manipulation library.
+- [Flysystem](https://github.com/thephpleague/Flysystem) - Abstraction for local and remote filesystems.
+- [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
+- [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
+- [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
+- [Parquet](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
+
+#### HTTP
+
+- [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
+- [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
+- [HTTPlug](http://httplug.io) - An HTTP client abstraction without binding to a specific implementation.
+- [Nyholm PSR-7](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation. Very strict and very fast.
+- [PHP VCR](https://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
+- [Requests](https://github.com/WordPress/Requests) - A simple HTTP library.
+- [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
+- [Symfony HTTP Client](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
+- [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
+
+#### Image
+
+- [Color Extractor](https://github.com/thephpleague/color-extractor) - A library for extracting colours from images.
+- [Glide](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
+- [Image Hash](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
+- [Image Optimizer](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
+- [Imagine](https://imagine.readthedocs.io/en/latest/index.html) - An image manipulation library.
+- [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
+- [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
+- [PHP QR Code](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader.
+
+#### Middleware
+
+- [PSR-15 Middlewares](https://github.com/middlewares/psr15-middlewares) - Inspiring collection of handy middlewares.
+- [Relay](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
+- [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
+- [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
+
+#### Router
+
+- [Aura.Router](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
+- [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
+- [Klein](https://github.com/klein/klein.php) - A flexible router.
+- [Pux](https://github.com/c9s/Pux) - Another fast routing library.
+- [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
+
+#### Stream
+
+- [ByteStream](https://amphp.org/byte-stream) - An asynchronous stream abstraction.
+- [Streamer](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
+
+#### Template
+
+- [Latte](https://latte.nette.org/) - The safest and truly intuitive templates for PHP.
+- [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
+- [Mustache](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
+- [PHPTAL](https://phptal.org/) - A PHP implementation of the [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
+- [Plates](http://platesphp.com/) - A native PHP templating library.
+- [Smarty](https://www.smarty.net/) - A template engine to complement PHP.
+- [Twig](https://twig.symfony.com/) - A comprehensive templating language.
+
+#### URL
+
+- [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
+- [Purl](https://github.com/jwage/purl) - A URL manipulation library.
+- [sabre/uri](https://github.com/sabre-io/uri) - A functional URI manipulation library.
+- [Uri](https://github.com/thephpleague/uri) - Another URL manipulation library.
+- [glenscott/url-normalizer](https://github.com/glenscott/url-normalizer) - Syntax based normalization of URI's (MIT)
+
 
 ### Frameworks
 *Web development frameworks.*
@@ -99,16 +214,21 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Spiral](https://spiral.dev/) - A high-performance PHP/Go framework.
 - [Symfony](https://symfony.com/) - A set of reusable components and a web framework.
 - [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
-
-### Framework Extras
-*Extras related to web development frameworks.*
-
+- [Laravel Zero](https://laravel-zero.com) - A micro-framework for console applications.
+- [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
+- [Minicli](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
+- [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
+- [Slim](https://www.slimframework.com/) - Another simple micro framework.
+- [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - A skeleton for Slim.
+- [Slim Twig View](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
+- [Slim PHP View](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
 - [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 - [LaravelS](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
 - [Livewire](https://livewire.laravel.com/) - Powerful, dynamic, front-end UIs without leaving PHP.
 
-### Content Management Systems (CMS)
-*Tools for managing digital content.*
+### Platforms
+
+#### Content Management Systems (CMS)
 
 - [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal).
 - [Concrete5](https://www.concretecms.com/) - A CMS targeting users with a minimum of technical skills.
@@ -126,152 +246,15 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [TYPO3](https://typo3.org) - An enterprise level CMS.
 - [WordPress](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
 
-### Components
-*Standalone components from web development frameworks and development groups.*
+#### Gallery
 
-- [Aura](https://auraphp.com/) - Independent components, fully decoupled from each other and from any framework.
-- [CakePHP Plugins](https://plugins.cakephp.org/) - A directory of CakePHP plugins.
-- [Laravel Components](https://github.com/illuminate) - The Laravel Framework components.
-- [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
-- [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
-- [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
-- [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
-
-### Micro Frameworks
-*Micro frameworks and routers.*
-
-- [Laravel Zero](https://laravel-zero.com) - A micro-framework for console applications.
-- [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
-- [Minicli](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
-- [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
-- [Slim](https://www.slimframework.com/) - Another simple micro framework.
-
-### Micro Framework Extras
-*Extras related to micro frameworks and routers.*
-
-- [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - A skeleton for Slim.
-- [Slim Twig View](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
-- [Slim PHP View](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
-
-### Routers
-*Libraries for handling application routing.*
-
-- [Aura.Router](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
-- [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
-- [Klein](https://github.com/klein/klein.php) - A flexible router.
-- [Pux](https://github.com/c9s/Pux) - Another fast routing library.
-- [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
-
-### Templating
-*Libraries and tools for templating and lexing.*
-
-- [Latte](https://latte.nette.org/) - The safest and truly intuitive templates for PHP.
-- [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
-- [Mustache](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
-- [PHPTAL](https://phptal.org/) - A PHP implementation of the [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
-- [Plates](http://platesphp.com/) - A native PHP templating library.
-- [Smarty](https://www.smarty.net/) - A template engine to complement PHP.
-- [Twig](https://twig.symfony.com/) - A comprehensive templating language.
+- [Immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution (AGPLv3)
 
 ### Static Site Generators
-*Tools for pre-processing content to generate web pages.*
 
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### HTTP
-*Libraries for working with HTTP.*
-
-- [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
-- [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
-- [HTTPlug](http://httplug.io) - An HTTP client abstraction without binding to a specific implementation.
-- [Nyholm PSR-7](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation. Very strict and very fast.
-- [PHP VCR](https://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
-- [Requests](https://github.com/WordPress/Requests) - A simple HTTP library.
-- [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
-- [Symfony HTTP Client](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
-- [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
-
-### Scraping
-*Libraries for scraping websites and detecting crawlers.*
-
-- [Chrome PHP](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
-- [CrawlerDetect](https://github.com/JayBizzle/Crawler-Detect) - A PHP class for detecting bots/crawlers/spiders via the user agent.
-- [DiDOM](https://github.com/Imangazaliev/DiDOM) - A super-fast HTML scrapper and parser.
-- [Embed](https://github.com/php-embed/Embed) - An information extractor from any web service or page.
-- [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
-- [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
-
-### Middlewares
-*Libraries for building application using middlewares.*
-
-- [PSR-15 Middlewares](https://github.com/middlewares/psr15-middlewares) - Inspiring collection of handy middlewares.
-- [Relay](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
-- [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
-- [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
-
-### URL
-*Libraries for parsing URLs.*
-
-- [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
-- [Purl](https://github.com/jwage/purl) - A URL manipulation library.
-- [sabre/uri](https://github.com/sabre-io/uri) - A functional URI manipulation library.
-- [Uri](https://github.com/thephpleague/uri) - Another URL manipulation library.
-
-### Email
-*Libraries for sending and parsing email.*
-
-- [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
-- [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
-- [Email Validator](https://github.com/nojacko/email-validator) - A small email address validation library.
-- [Fetch](https://github.com/tedious/Fetch) - An IMAP library.
-- [Mautic](https://github.com/mautic/mautic) - Email marketing automation
-- [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
-- [PHP IMAP](https://github.com/barbushin/php-imap) - A library to access mailboxes via POP3, IMAP and NNTP.
-- [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/en-us), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
-- [SwiftMailer](https://swiftmailer.symfony.com/docs/introduction.html) - A mailer solution.
-- [Symfony Mailer](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
-
-### Files
-*Libraries for file manipulation and MIME type detection.*
-
-- [CSV](https://github.com/thephpleague/csv) - A CSV data manipulation library.
-- [Flysystem](https://github.com/thephpleague/Flysystem) - Abstraction for local and remote filesystems.
-- [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
-- [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
-- [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
-- [Parquet](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
-
-### Streams
-*Libraries for working with streams.*
-
-- [ByteStream](https://amphp.org/byte-stream) - An asynchronous stream abstraction.
-- [Streamer](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
-
-### Dependency Injection
-*Libraries that implement the dependency injection design pattern.*
-
-- [Aura.Di](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
-- [Acclimate](https://github.com/AcclimateContainer/acclimate-container) - A common interface to dependency injection containers and service locators.
-- [Auryn](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
-- [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
-- [Disco](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
-- [PHP-DI](https://php-di.org/) - A dependency injection container that supports autowiring.
-- [Pimple](https://github.com/silexphp/Pimple) - A tiny dependency injection container.
-- [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
-
-### Imagery
-*Libraries for manipulating images.*
-
-- [Color Extractor](https://github.com/thephpleague/color-extractor) - A library for extracting colours from images.
-- [Glide](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
-- [Image Hash](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
-- [Image Optimizer](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
-- [Imagine](https://imagine.readthedocs.io/en/latest/index.html) - An image manipulation library.
-- [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
-- [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
-- [PHP QR Code](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader.
 
 ### Testing
 *Libraries for testing codebases and generating test data.*
@@ -298,18 +281,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHPUnit Polyfills](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
 - [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
 - [VFS Stream](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
-
-### Continuous Integration
-*Libraries and applications for continuous integration.*
-
-- [CircleCI](https://circleci.com) - A continuous integration platform.
-- [GitlabCi](https://about.gitlab.com/solutions/continuous-integration/) - Let GitLab CI test, build, deploy your code. TravisCi like.
-- [Jenkins](https://www.jenkins.io/) - A continuous integration platform with [PHP support](https://www.jenkins.io/solutions/php/).
-- [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
-- [PHPCI](https://github.com/dancryer/phpci) - An open-source continuous integration platform for PHP.
-- [SemaphoreCI](https://semaphore.io/) - A continuous integration platform for open-source and private projects.
-- [Travis CI](https://www.travis-ci.com) - A continuous integration platform.
-- [Setup PHP](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
 
 ### Documentation
 *Libraries for generating project documentation.*
@@ -896,6 +867,15 @@ Libraries to help manage database schemas and migrations.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
+
+### Web Service
+
+#### Continuous Integration
+
+- [CircleCI](https://circleci.com)
+- [Jenkins](https://www.jenkins.io/)
+- [SemaphoreCI](https://semaphore.io/)
+- [Travis CI](https://www.travis-ci.com)
 
 ### PHP Websites
 *Useful PHP-related websites.*
