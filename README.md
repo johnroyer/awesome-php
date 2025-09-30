@@ -6,7 +6,8 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Awesome PHP](#awesome-php)
   - [Libraries](#libraries)
   - [Frameworks](#frameworks)
-  - [Content Management Systems](#content-management-systems-cms)
+  - [Platforms](#platforms)
+    - [Content Management Systems](#content-management-systems-cms)
   - [Components](#components)
   - [Routers](#routers)
   - [Templating](#templating)
@@ -111,8 +112,9 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [LaravelS](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
 - [Livewire](https://livewire.laravel.com/) - Powerful, dynamic, front-end UIs without leaving PHP.
 
-### Content Management Systems (CMS)
-*Tools for managing digital content.*
+### Platforms
+
+#### Content Management Systems (CMS)
 
 - [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal).
 - [Concrete5](https://www.concretecms.com/) - A CMS targeting users with a minimum of technical skills.
