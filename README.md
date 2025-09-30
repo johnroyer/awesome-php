@@ -90,6 +90,23 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 ### Library
 
+#### Code Analysis
+
+- [Better Reflection](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
+- [Code Climate](https://codeclimate.com) - An automated code review.
+- [Editorconfig-Checker](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
+- [GrumPHP](https://github.com/phpro/grumphp) - A PHP code-quality tool.
+- [PHP AST Viewer](https://php-ast-viewer.com/) - A tool for viewing the Abstract Syntax Tree of PHP code.
+- [PHP Magic Number Detector](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
+- [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
+- [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
+- [Phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
+- [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
+- [PHPQA](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
+- [Rector](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
+- [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
+- [UBench](https://github.com/devster/ubench) - A simple micro-benchmark library.
+
 #### Continuous Integration (CI)
 
 - [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
@@ -310,24 +327,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Code Analysis
-*Libraries and tools for analysing, parsing and manipulating codebases.*
-
-- [Better Reflection](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
-- [Code Climate](https://codeclimate.com) - An automated code review.
-- [Editorconfig-Checker](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
-- [GrumPHP](https://github.com/phpro/grumphp) - A PHP code-quality tool.
-- [PHP AST Viewer](https://php-ast-viewer.com/) - A tool for viewing the Abstract Syntax Tree of PHP code.
-- [PHP Magic Number Detector](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
-- [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
-- [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
-- [Phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
-- [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
-- [PHPQA](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
-- [Rector](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
-- [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
-- [UBench](https://github.com/devster/ubench) - A simple micro-benchmark library.
 
 ### Code Quality
 *Libraries for managing code quality, formatting and linting.*
