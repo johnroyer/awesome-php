@@ -5,6 +5,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
   - [Library](#library)
+    - [Crawler](#crawler)
     - [HTTP](#http)
     - [Router](#router)
     - [Template](#template)
@@ -14,7 +15,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
   - [Components](#components)
-  - [Scraping](#scraping)
   - [Middlewares](#middlewares)
   - [URL](#url)
   - [Email](#email)
@@ -88,6 +88,15 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Repositories](#repositories)
 
 ### Library
+
+#### Crawler
+
+- [Chrome PHP](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
+- [CrawlerDetect](https://github.com/JayBizzle/Crawler-Detect) - A PHP class for detecting bots/crawlers/spiders via the user agent.
+- [DiDOM](https://github.com/Imangazaliev/DiDOM) - A super-fast HTML scrapper and parser.
+- [Embed](https://github.com/php-embed/Embed) - An information extractor from any web service or page.
+- [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
+- [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
 
 #### HTTP
 
@@ -183,16 +192,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
 - [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
 - [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
-
-### Scraping
-*Libraries for scraping websites and detecting crawlers.*
-
-- [Chrome PHP](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
-- [CrawlerDetect](https://github.com/JayBizzle/Crawler-Detect) - A PHP class for detecting bots/crawlers/spiders via the user agent.
-- [DiDOM](https://github.com/Imangazaliev/DiDOM) - A super-fast HTML scrapper and parser.
-- [Embed](https://github.com/php-embed/Embed) - An information extractor from any web service or page.
-- [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
-- [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
 
 ### Middlewares
 *Libraries for building application using middlewares.*
