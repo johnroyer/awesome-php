@@ -10,13 +10,13 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Middleware](#middleware)
     - [Router](#router)
     - [Template](#template)
+    - [URL](#url)
   - [Frameworks](#frameworks)
   - [Platforms](#platforms)
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
   - [Components](#components)
-  - [URL](#url)
   - [Email](#email)
   - [Files](#Files)
   - [Streams](#streams)
@@ -135,6 +135,14 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Smarty](https://www.smarty.net/) - A template engine to complement PHP.
 - [Twig](https://twig.symfony.com/) - A comprehensive templating language.
 
+#### URL
+
+- [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
+- [Purl](https://github.com/jwage/purl) - A URL manipulation library.
+- [sabre/uri](https://github.com/sabre-io/uri) - A functional URI manipulation library.
+- [Uri](https://github.com/thephpleague/uri) - Another URL manipulation library.
+
+
 ### Frameworks
 *Web development frameworks.*
 
@@ -199,14 +207,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
 - [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
 - [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
-
-### URL
-*Libraries for parsing URLs.*
-
-- [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
-- [Purl](https://github.com/jwage/purl) - A URL manipulation library.
-- [sabre/uri](https://github.com/sabre-io/uri) - A functional URI manipulation library.
-- [Uri](https://github.com/thephpleague/uri) - Another URL manipulation library.
 
 ### Email
 *Libraries for sending and parsing email.*
