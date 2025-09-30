@@ -876,6 +876,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 - [PHP UG](https://php.ug) - A website to help people locate their nearest PHP user group (UG).
 - [PHP Watch](https://php.watch/) - PHP articles, news, upcoming changes, RFCs and more.
 - [Unit Testing Tips](https://testing-tips.sarvendev.com/) - Unit Testing Tips by examples in PHP.
+- [PHP Internals Book](https://www.phpinternalsbook.com/) - An online book about PHP internals, written by three core developers.
 
 ### PHP Books
 *Fantastic PHP-related books.*
@@ -939,7 +940,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 - [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (Request for Comments).
 - [Externals](https://externals.io/) - PHP internal discussions.
 - [PHP RFC Watch](https://github.com/beberlei/php-rfc-watch) - Watch the latest PHP [RFCs](https://wiki.php.net/rfc).
-- [PHP Internals Book](https://www.phpinternalsbook.com/) - An online book about PHP internals, written by three core developers.
+
 
 
 ### Repositories
