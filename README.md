@@ -5,8 +5,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
   - [Library](#library)
-    - [Architectural](#architectural)
-    - [Code Analysis](#code-analysis)
     - [Code Quality](#code-quality)
     - [Continuous Integration (CI)](#continuous-integration-ci)
     - [Crawler](#crawler)
@@ -25,6 +23,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Template](#template)
     - [Testing](#testing)
     - [URL](#url)
+    - [Misc](#misc)
   - [Frameworks](#frameworks)
   - [Platforms](#platforms)
     - [Content Management Systems (CMS)](#content-management-systems-cms)
@@ -88,19 +87,16 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 ### Library
 
-#### Architectural
-*Libraries related to design patterns, programming approaches and ways to organize code.*
+#### Code Quality
 
-- [Finite](https://github.com/yohang/Finite) - A simple PHP finite state machine.
-- [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
-- [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
-- [IterTools PHP](https://github.com/markrogoyski/itertools-php) - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
-- [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
-- [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
-- [RulerZ](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
-
-#### Code Analysis
-
+- [CaptainHook](https://github.com/captainhook-git/captainhook) - An easy-to-use and flexible Git hook library.
+- [PHP CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
+- [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A coding standards fixer library.
+- [PHP CS Fixer Configurator](https://mlocati.github.io/php-cs-fixer-configurator/) - A web application to help configure PHP CS Fixer rule sets.
+- [PHP Mess Detector](https://github.com/phpmd/phpmd) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
+- [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
+- [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
+- [Laravel Pint](https://github.com/laravel/pint) - A coding standards fixer library for Laravel.
 - [Editorconfig-Checker](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
 - [GrumPHP](https://github.com/phpro/grumphp) - A PHP code-quality tool.
 - [PHP AST Viewer](https://php-ast-viewer.com/) - A tool for viewing the Abstract Syntax Tree of PHP code.
@@ -114,16 +110,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
 - [UBench](https://github.com/devster/ubench) - A simple micro-benchmark library.
 
-#### Code Quality
-
-- [CaptainHook](https://github.com/captainhook-git/captainhook) - An easy-to-use and flexible Git hook library.
-- [PHP CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
-- [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A coding standards fixer library.
-- [PHP CS Fixer Configurator](https://mlocati.github.io/php-cs-fixer-configurator/) - A web application to help configure PHP CS Fixer rule sets.
-- [PHP Mess Detector](https://github.com/phpmd/phpmd) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
-- [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
-- [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
-- [Laravel Pint](https://github.com/laravel/pint) - A coding standards fixer library for Laravel.
 
 #### Continuous Integration (CI)
 
@@ -325,6 +311,15 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Uri](https://github.com/thephpleague/uri) - Another URL manipulation library.
 - [glenscott/url-normalizer](https://github.com/glenscott/url-normalizer) - Syntax based normalization of URI's (MIT)
 
+#### Misc
+
+- [Finite](https://github.com/yohang/Finite) - A simple PHP finite state machine.
+- [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
+- [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
+- [IterTools PHP](https://github.com/markrogoyski/itertools-php) - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
+- [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
+- [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
+- [RulerZ](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
 
 ### Frameworks
 *Web development frameworks.*
