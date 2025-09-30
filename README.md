@@ -85,7 +85,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Newsletters](#newsletters)
     - [Reading](#reading)
     - [Internals Reading](#internals-reading)
-    - [Repositories](#repositories)
+  - [Repositories](#repositories)
 
 ### Library
 
