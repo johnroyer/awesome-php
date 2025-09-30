@@ -20,6 +20,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Security](#security)
     - [Static Analysis](#static-analysis)
     - [Stream](#stream)
+    - [Task Runner and Scheduler](#task-runner-and-scheduler)
     - [Template](#template)
     - [Testing](#testing)
     - [URL](#url)
@@ -29,7 +30,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
-  - [Task Runners](#task-runners)
   - [Navigation](#navigation)
   - [Asset Management](#asset-management)
   - [Geolocation](#geolocation)
@@ -267,6 +267,13 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [ByteStream](https://amphp.org/byte-stream) - An asynchronous stream abstraction.
 - [Streamer](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
 
+#### Task Runner and Scheduler
+*Libraries for automating and running tasks.*
+
+- [Jobby](https://github.com/jobbyphp/jobby) - A PHP cron job manager without modifying crontab.
+- [Robo](https://github.com/consolidation/Robo) - A PHP Task runner with object-orientated configurations.
+- [Task](https://github.com/taskphp/task) - A pure PHP task runner inspired by Grunt and Gulp.
+
 #### Template
 
 - [Latte](https://latte.nette.org/) - The safest and truly intuitive templates for PHP.
@@ -374,13 +381,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Task Runners
-*Libraries for automating and running tasks.*
-
-- [Jobby](https://github.com/jobbyphp/jobby) - A PHP cron job manager without modifying crontab.
-- [Robo](https://github.com/consolidation/Robo) - A PHP Task runner with object-orientated configurations.
-- [Task](https://github.com/taskphp/task) - A pure PHP task runner inspired by Grunt and Gulp.
 
 ### Navigation
 *Tools for building navigation structures.*
