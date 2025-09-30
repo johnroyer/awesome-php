@@ -29,7 +29,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
-  - [Error Tracking and Monitoring Services](#error-tracking-and-monitoring-services)
   - [Build Tools](#build-tools)
   - [Task Runners](#task-runners)
   - [Navigation](#navigation)
@@ -375,16 +374,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Error Tracking and Monitoring Services
-*Self-hosted or cloud-based application performance monitoring & error tracking tools*
-
-
-- [BugSnag](https://www.bugsnag.com/) - Error and Real User Monitoring.
-- [Honeybadger](https://www.honeybadger.io/) - Error Tracking & Application Monitoring for Developers.
-- [Rollbar](https://rollbar.com/) - Error Logging & Tracking Service for Software Teams.
-- [Sentry](https://sentry.io/welcome/) - Application Performance Monitoring & Error Tracking Software.
-- [Tideways](https://tideways.com/) - Monitoring and profiling tool.
 
 ### Build Tools
 *Project build and automation tools.*
@@ -856,6 +845,11 @@ Various resources, such as books, websites and articles, for improving your PHP 
 - [Jenkins](https://www.jenkins.io/)
 - [SemaphoreCI](https://semaphore.io/)
 - [Travis CI](https://www.travis-ci.com)
+- [BugSnag](https://www.bugsnag.com/) - Error and Real User Monitoring.
+- [Honeybadger](https://www.honeybadger.io/) - Error Tracking & Application Monitoring for Developers.
+- [Rollbar](https://rollbar.com/) - Error Logging & Tracking Service for Software Teams.
+- [Sentry](https://sentry.io/welcome/) - Application Performance Monitoring & Error Tracking Software.
+- [Tideways](https://tideways.com/) - Monitoring and profiling tool.
 
 ### Tutorial / Learning
 *Useful PHP-related websites.*
