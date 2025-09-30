@@ -5,6 +5,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
   - [Library](#library)
+    - [Architectural](#architectural)
     - [Code Analysis](#code-analysis)
     - [Code Quality](#code-quality)
     - [Continuous Integration (CI)](#continuous-integration-ci)
@@ -28,7 +29,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
-  - [Architectural](#architectural)
   - [Debugging and Profiling](#debugging-and-profiling)
   - [Error Tracking and Monitoring Services](#error-tracking-and-monitoring-services)
   - [Build Tools](#build-tools)
@@ -87,6 +87,17 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Package Repository](#package-repository)
 
 ### Library
+
+#### Architectural
+*Libraries related to design patterns, programming approaches and ways to organize code.*
+
+- [Finite](https://github.com/yohang/Finite) - A simple PHP finite state machine.
+- [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
+- [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
+- [IterTools PHP](https://github.com/markrogoyski/itertools-php) - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
+- [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
+- [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
+- [RulerZ](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
 
 #### Code Analysis
 
@@ -349,17 +360,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Architectural
-*Libraries related to design patterns, programming approaches and ways to organize code.*
-
-- [Finite](https://github.com/yohang/Finite) - A simple PHP finite state machine.
-- [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
-- [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
-- [IterTools PHP](https://github.com/markrogoyski/itertools-php) - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
-- [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
-- [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
-- [RulerZ](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
 
 ### Debugging and Profiling
 *Libraries and tools for debugging errors and profiling code.*
