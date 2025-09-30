@@ -77,7 +77,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Ecosystem](#Ecosystem)
   - [Resources](#resources)
     - [Web Service](#web-service)
-    - [PHP Websites](#php-websites)
+    - [Tutorial / Learning](#tutorial--learning)
     - [PHP Books](#php-books)
     - [PHP Videos](#php-videos)
     - [PHP Conferences](#php-conferences)
@@ -354,7 +354,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 ### Architectural
 *Libraries related to design patterns, programming approaches and ways to organize code.*
 
-- [Design Patterns PHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP ) - A repository of software patterns implemented in PHP.
 - [Finite](https://github.com/yohang/Finite) - A simple PHP finite state machine.
 - [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
 - [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
@@ -863,9 +862,10 @@ Various resources, such as books, websites and articles, for improving your PHP 
 - [SemaphoreCI](https://semaphore.io/)
 - [Travis CI](https://www.travis-ci.com)
 
-### PHP Websites
+### Tutorial / Learning
 *Useful PHP-related websites.*
 
+- [Design Patterns PHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP ) - A repository of software patterns implemented in PHP.
 - [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
 - [Laravel News](https://laravel-news.com/) - The official Laravel blog.
 - [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/tag/php-annotated-monthly/) - A monthly digest of PHP news.
