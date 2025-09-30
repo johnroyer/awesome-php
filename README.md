@@ -4,7 +4,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
-  - [Dependency Management Extras](#dependency-management-extras)
   - [Frameworks](#frameworks)
   - [Framework Extras](#framework-extras)
   - [Content Management Systems](#content-management-systems-cms)
@@ -87,21 +86,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [PHP Reading](#php-reading)
   - [PHP Internals Reading](#php-internals-reading)
   - [Repositories](#repositories)
-
-### Dependency Management Extras
-*Extras related to dependency management.*
-
-* [Composed](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
-* [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
-* [Composer Normalize](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
-* [Composer Patches](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
-* [Composer Prefer Lowest Validator](https://github.com/dereuromark/composer-prefer-lowest) - A plugin to check if minimum dependencies can be installed and tested.
-* [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
-* [Composer Unused](https://github.com/composer-unused/composer-unused) - A CLI Tool to scan for unused composer packages.
-* [Repman](https://repman.io) - A private PHP package repository manager and Packagist proxy.
-* [Satis](https://github.com/composer/satis) - A static Composer repository generator.
-* [Tooly](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in a project using Composer.
-* [Toran Proxy](https://toranproxy.com) - A Composer proxy for speed and reliability. (:warning: Toran Proxy is being phased out.)
 
 ### Frameworks
 *Web development frameworks.*
@@ -834,7 +818,17 @@ Libraries to help manage database schemas and migrations.
 * [Composer](https://getcomposer.org/) - A package and dependency manager.
 * [Pie](https://github.com/php/pie) - The official PHP installer for extensions.
 * [Phive](https://phar.io/) - A PHAR manager.
-* [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
+* [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.* [Composed](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
+* [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
+* [Composer Normalize](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
+* [Composer Patches](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
+* [Composer Prefer Lowest Validator](https://github.com/dereuromark/composer-prefer-lowest) - A plugin to check if minimum dependencies can be installed and tested.
+* [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
+* [Composer Unused](https://github.com/composer-unused/composer-unused) - A CLI Tool to scan for unused composer packages.
+* [Repman](https://repman.io) - A private PHP package repository manager and Packagist proxy.
+* [Satis](https://github.com/composer/satis) - A static Composer repository generator.
+* [Tooly](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in a project using Composer.
+* [Toran Proxy](https://toranproxy.com) - A Composer proxy for speed and reliability. (:warning: Toran Proxy is being phased out.)
 
 ### PHP Installation
 *Tools to help install and manage PHP on your computer.*
