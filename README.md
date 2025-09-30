@@ -144,6 +144,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 - [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 - [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
+- [Blackfire](https://www.blackfire.io) - A low-overhead code profiler.
 
 #### Dependency Injection
 
@@ -378,7 +379,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 ### Error Tracking and Monitoring Services
 *Self-hosted or cloud-based application performance monitoring & error tracking tools*
 
-- [Blackfire](https://www.blackfire.io) - A low-overhead code profiler.
+
 - [BugSnag](https://www.bugsnag.com/) - Error and Real User Monitoring.
 - [Honeybadger](https://www.honeybadger.io/) - Error Tracking & Application Monitoring for Developers.
 - [Rollbar](https://rollbar.com/) - Error Logging & Tracking Service for Software Teams.
