@@ -18,6 +18,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Middleware](#middleware)
     - [Router](#router)
     - [Security](#security)
+    - [Static Analysis](#static-analysis)
     - [Stream](#stream)
     - [Template](#template)
     - [Testing](#testing)
@@ -27,7 +28,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
-  - [Static Analysis](#static-analysis)
   - [Architectural](#architectural)
   - [Debugging and Profiling](#debugging-and-profiling)
   - [Error Tracking and Monitoring Services](#error-tracking-and-monitoring-services)
@@ -232,6 +232,20 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [phpass](https://www.openwall.com/phpass/) - A portable password hashing framework.
 - [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
 
+#### Static Analysis
+
+- [Exakat](https://github.com/exakat/exakat) - A static analysis engine for PHP.
+- [Deptrac](https://github.com/qossmic/deptrac) - A static code analysis tool that helps to enforce rules for dependencies between software layers.
+- [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
+- [phan](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
+- [PHP Architecture Tester](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
+- [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
+- [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
+- [PHPDoc Parser](https://github.com/phpstan/phpdoc-parser) - Next-gen phpDoc parser with support for intersection types and generics
+- [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
+- [PHP Migration](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
+- [PHPStan](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
+- [Psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications.
 
 #### Stream
 
@@ -336,22 +350,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Static Analysis
-*Libraries for performing static analysis of PHP code.*
-
-- [Exakat](https://github.com/exakat/exakat) - A static analysis engine for PHP.
-- [Deptrac](https://github.com/qossmic/deptrac) - A static code analysis tool that helps to enforce rules for dependencies between software layers.
-- [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
-- [phan](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
-- [PHP Architecture Tester](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
-- [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
-- [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
-- [PHPDoc Parser](https://github.com/phpstan/phpdoc-parser) - Next-gen phpDoc parser with support for intersection types and generics
-- [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
-- [PHP Migration](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
-- [PHPStan](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
-- [Psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications.
 
 ### Architectural
 *Libraries related to design patterns, programming approaches and ways to organize code.*
