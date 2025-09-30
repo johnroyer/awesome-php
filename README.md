@@ -4,7 +4,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
-  - [Dependency Management](#dependency-management)
   - [Dependency Management Extras](#dependency-management-extras)
   - [Frameworks](#frameworks)
   - [Framework Extras](#framework-extras)
@@ -71,6 +70,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Extensions](#extensions)
   - [Miscellaneous](#miscellaneous)
 - [Ecosystem](#Ecosystem)
+  - [Dependency Management](#dependency-management)
   - [PHP Installation](#php-installation)
   - [Development Environment](#development-environment)
   - [Virtual Machines](#virtual-machines)
@@ -87,15 +87,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [PHP Reading](#php-reading)
   - [PHP Internals Reading](#php-internals-reading)
   - [Repositories](#repositories)
-
-### Dependency Management
-*Libraries for dependency and package management.*
-
-* [Composer Installers](https://github.com/composer/installers) - A  multi-framework Composer library installer.
-* [Composer](https://getcomposer.org/) - A package and dependency manager.
-* [Pie](https://github.com/php/pie) - The official PHP installer for extensions.
-* [Phive](https://phar.io/) - A PHAR manager.
-* [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
 
 ### Dependency Management Extras
 *Extras related to dependency management.*
@@ -836,6 +827,14 @@ Libraries to help manage database schemas and migrations.
 * [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 
 # Ecosystem
+
+### Dependency Management
+
+* [Composer Installers](https://github.com/composer/installers) - A  multi-framework Composer library installer.
+* [Composer](https://getcomposer.org/) - A package and dependency manager.
+* [Pie](https://github.com/php/pie) - The official PHP installer for extensions.
+* [Phive](https://phar.io/) - A PHAR manager.
+* [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
 
 ### PHP Installation
 *Tools to help install and manage PHP on your computer.*
