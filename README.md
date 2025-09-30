@@ -70,7 +70,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Third Party APIs](#third-party-apis)
   - [Extensions](#extensions)
   - [Miscellaneous](#miscellaneous)
-- [Software](#software)
+- [ecosystem](#ecosystem)
   - [PHP Installation](#php-installation)
   - [Development Environment](#development-environment)
   - [Virtual Machines](#virtual-machines)
@@ -835,8 +835,7 @@ Libraries to help manage database schemas and migrations.
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 
-# Software
-*Software for creating a development environment.*
+# Ecosystem
 
 ### PHP Installation
 *Tools to help install and manage PHP on your computer.*
