@@ -29,6 +29,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Platforms](#platforms)
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [E-commerce](#e-commerce)
+    - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
   - [Navigation](#navigation)
@@ -382,6 +383,10 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
 - [Swap](https://github.com/florianv/swap) - An exchange rates library.
 - [Sylius](https://sylius.com/) - An open source e-commerce solution.
+
+#### Forum
+
+- [Flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities (MIT)
 
 #### Photo and Video
 
