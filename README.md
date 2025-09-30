@@ -6,6 +6,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Awesome PHP](#awesome-php)
   - [Library](#library)
     - [Crawler](#crawler)
+    - [Dependency Injection](#dependency-injection)
     - [Email](#email)
     - [Files](#Files)
     - [HTTP](#http)
@@ -20,7 +21,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
   - [Components](#components)
-  - [Dependency Injection](#dependency-injection)
   - [Imagery](#imagery)
   - [Testing](#testing)
   - [Continuous Integration](#continuous-integration)
@@ -97,6 +97,17 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Embed](https://github.com/php-embed/Embed) - An information extractor from any web service or page.
 - [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 - [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
+
+#### Dependency Injection
+
+- [Aura.Di](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
+- [Acclimate](https://github.com/AcclimateContainer/acclimate-container) - A common interface to dependency injection containers and service locators.
+- [Auryn](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
+- [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
+- [Disco](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
+- [PHP-DI](https://php-di.org/) - A dependency injection container that supports autowiring.
+- [Pimple](https://github.com/silexphp/Pimple) - A tiny dependency injection container.
+- [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
 
 #### Email
 
@@ -235,18 +246,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
 - [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
 - [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
-
-### Dependency Injection
-*Libraries that implement the dependency injection design pattern.*
-
-- [Aura.Di](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
-- [Acclimate](https://github.com/AcclimateContainer/acclimate-container) - A common interface to dependency injection containers and service locators.
-- [Auryn](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
-- [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
-- [Disco](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
-- [PHP-DI](https://php-di.org/) - A dependency injection container that supports autowiring.
-- [Pimple](https://github.com/silexphp/Pimple) - A tiny dependency injection container.
-- [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
 
 ### Imagery
 *Libraries for manipulating images.*
