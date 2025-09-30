@@ -141,7 +141,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Purl](https://github.com/jwage/purl) - A URL manipulation library.
 - [sabre/uri](https://github.com/sabre-io/uri) - A functional URI manipulation library.
 - [Uri](https://github.com/thephpleague/uri) - Another URL manipulation library.
-- [url-normalizer](https://github.com/glenscott/url-normalizer) - Syntax based normalization of URI's (MIT)
+- [glenscott/url-normalizer](https://github.com/glenscott/url-normalizer) - Syntax based normalization of URI's (MIT)
 
 
 ### Frameworks
