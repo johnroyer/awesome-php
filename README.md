@@ -5,29 +5,27 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
   - [Library](#library)
+    - [Code Analysis](#code-analysis)
     - [Continuous Integration (CI)](#continuous-integration-ci)
     - [Crawler](#crawler)
     - [Dependency Injection](#dependency-injection)
+    - [Documentation](#documentation)
     - [Email](#email)
     - [File](#File)
     - [HTTP](#http)
     - [Image](#image)
     - [Middleware](#middleware)
     - [Router](#router)
+    - [Security](#security)
     - [Stream](#stream)
     - [Template](#template)
+    - [Testing](#testing)
     - [URL](#url)
   - [Frameworks](#frameworks)
   - [Platforms](#platforms)
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
-  - [Testing](#testing)
-  - [Continuous Integration](#continuous-integration)
-  - [Documentation](#documentation)
-  - [Security](#security)
-  - [Passwords](#passwords)
-  - [Code Analysis](#code-analysis)
   - [Code Quality](#code-quality)
   - [Static Analysis](#static-analysis)
   - [Architectural](#architectural)
@@ -79,7 +77,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Ecosystem](#Ecosystem)
   - [Resources](#resources)
     - [Web Service](#web-service)
-      - [Continuous Integration](#continuous-integration)
     - [PHP Websites](#php-websites)
     - [PHP Books](#php-books)
     - [PHP Videos](#php-videos)
@@ -92,9 +89,23 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 ### Library
 
-### Continuous Integration (CI)
+#### Code Analysis
 
-- [GitlabCi](https://about.gitlab.com/solutions/continuous-integration/) - Let GitLab CI test, build, deploy your code. TravisCi like.
+- [Editorconfig-Checker](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
+- [GrumPHP](https://github.com/phpro/grumphp) - A PHP code-quality tool.
+- [PHP AST Viewer](https://php-ast-viewer.com/) - A tool for viewing the Abstract Syntax Tree of PHP code.
+- [PHP Magic Number Detector](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
+- [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
+- [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
+- [Phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
+- [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
+- [PHPQA](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
+- [Rector](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
+- [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
+- [UBench](https://github.com/devster/ubench) - A simple micro-benchmark library.
+
+#### Continuous Integration (CI)
+
 - [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
 - [PHPCI](https://github.com/dancryer/phpci) - An open-source continuous integration platform for PHP.
 - [Setup PHP](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
@@ -118,6 +129,14 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHP-DI](https://php-di.org/) - A dependency injection container that supports autowiring.
 - [Pimple](https://github.com/silexphp/Pimple) - A tiny dependency injection container.
 - [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
+
+#### Documentation
+
+- [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
+- [daux.io](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
+- [phpDocumentor](https://phpdoc.org/) - A documentation generator.
+- [phpDox](https://phpdox.net/) - A documentation generator for PHP projects (that is not limited to API documentation).
+- [zircote/swagger-php](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
 
 #### Email
 
@@ -179,6 +198,30 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 - [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
 
+#### Security
+
+- [AntiXSS](https://github.com/voku/anti-xss) - A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting.
+- [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium).
+- [Optimus](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
+- [OWASP](https://owasp.org/) - Explore the world of cyber security.
+- [PHPGGC](https://github.com/ambionics/phpggc) - A library of PHP unserializable payloads along with a tool to generate them.
+- [PHP Encryption](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
+- [PHPSecLib](https://phpseclib.sourceforge.net) - A pure PHP secure communications library.
+- [random_compat](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
+- [Roave Security Advisories](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
+- [Secure Headers](https://github.com/BePsvPT/secure-headers) - A package that adds security related headers to HTTP response.
+- [SQLMap](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
+- [Zap](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
+- [GenPhrase](https://github.com/timoh6/GenPhrase) - A library for generating secure random passphrases.
+- [Password Compat](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
+- [Password Policy](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
+- [Password Validator](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
+- [Password-Generator](https://github.com/hackzilla/password-generator) - PHP library to generate random passwords.
+- [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
+- [phpass](https://www.openwall.com/phpass/) - A portable password hashing framework.
+- [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
+
+
 #### Stream
 
 - [ByteStream](https://amphp.org/byte-stream) - An asynchronous stream abstraction.
@@ -193,6 +236,32 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Plates](http://platesphp.com/) - A native PHP templating library.
 - [Smarty](https://www.smarty.net/) - A template engine to complement PHP.
 - [Twig](https://twig.symfony.com/) - A comprehensive templating language.
+
+#### Testing
+
+- [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
+- [Atoum](https://github.com/atoum/atoum) - A simple testing library.
+- [Behat](https://docs.behat.org/en/latest/) - A behaviour driven development (BDD) testing framework.
+- [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
+- [Faker](https://github.com/fakerphp/faker) - A fake data generator library.
+- [Foundry](https://github.com/zenstruck/foundry) - A fixture factory generation library for Doctrine.
+- [Infection](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
+- [Kahlan](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
+- [Mink](https://mink.behat.org/en/latest/) - Web acceptance testing.
+- [Mockery](https://github.com/mockery/mockery) - A mock object library for testing.
+- [Nette Tester](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
+- [ParaTest](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
+- [Pest](https://pestphp.com/) - A testing framework with a focus on simplicity.
+- [Phake](https://github.com/phake/phake) - Another mock object library for testing.
+- [PHP-Mock](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
+- [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
+- [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
+- [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
+- [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
+- [PHPUnit Polyfills](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
+- [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
+- [VFS Stream](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
+- [Better Reflection](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
 
 #### URL
 
@@ -256,87 +325,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Testing
-*Libraries for testing codebases and generating test data.*
-
-- [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
-- [Atoum](https://github.com/atoum/atoum) - A simple testing library.
-- [Behat](https://docs.behat.org/en/latest/) - A behaviour driven development (BDD) testing framework.
-- [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
-- [Faker](https://github.com/fakerphp/faker) - A fake data generator library.
-- [Foundry](https://github.com/zenstruck/foundry) - A fixture factory generation library for Doctrine.
-- [Infection](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
-- [Kahlan](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
-- [Mink](https://mink.behat.org/en/latest/) - Web acceptance testing.
-- [Mockery](https://github.com/mockery/mockery) - A mock object library for testing.
-- [Nette Tester](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
-- [ParaTest](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
-- [Pest](https://pestphp.com/) - A testing framework with a focus on simplicity.
-- [Phake](https://github.com/phake/phake) - Another mock object library for testing.
-- [PHP-Mock](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
-- [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
-- [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
-- [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
-- [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
-- [PHPUnit Polyfills](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
-- [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
-- [VFS Stream](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
-
-### Documentation
-*Libraries for generating project documentation.*
-
-- [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
-- [daux.io](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
-- [phpDocumentor](https://phpdoc.org/) - A documentation generator.
-- [phpDox](https://phpdox.net/) - A documentation generator for PHP projects (that is not limited to API documentation).
-- [zircote/swagger-php](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
-
-### Security
-*Libraries for generating secure random numbers, encrypting data and scanning and testing for vulnerabilities.*
-
-- [AntiXSS](https://github.com/voku/anti-xss) - A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting.
-- [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium).
-- [Optimus](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
-- [OWASP](https://owasp.org/) - Explore the world of cyber security.
-- [PHPGGC](https://github.com/ambionics/phpggc) - A library of PHP unserializable payloads along with a tool to generate them.
-- [PHP Encryption](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
-- [PHPSecLib](https://phpseclib.sourceforge.net) - A pure PHP secure communications library.
-- [random_compat](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
-- [Roave Security Advisories](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
-- [Secure Headers](https://github.com/BePsvPT/secure-headers) - A package that adds security related headers to HTTP response.
-- [SQLMap](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
-- [Zap](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
-
-### Passwords
-*Libraries and tools for working with and storing passwords.*
-
-- [GenPhrase](https://github.com/timoh6/GenPhrase) - A library for generating secure random passphrases.
-- [Password Compat](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
-- [Password Policy](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
-- [Password Validator](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
-- [Password-Generator](https://github.com/hackzilla/password-generator) - PHP library to generate random passwords.
-- [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
-- [phpass](https://www.openwall.com/phpass/) - A portable password hashing framework.
-- [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
-
-### Code Analysis
-*Libraries and tools for analysing, parsing and manipulating codebases.*
-
-- [Better Reflection](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
-- [Code Climate](https://codeclimate.com) - An automated code review.
-- [Editorconfig-Checker](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
-- [GrumPHP](https://github.com/phpro/grumphp) - A PHP code-quality tool.
-- [PHP AST Viewer](https://php-ast-viewer.com/) - A tool for viewing the Abstract Syntax Tree of PHP code.
-- [PHP Magic Number Detector](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
-- [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
-- [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
-- [Phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
-- [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
-- [PHPQA](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
-- [Rector](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
-- [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
-- [UBench](https://github.com/devster/ubench) - A simple micro-benchmark library.
 
 ### Code Quality
 *Libraries for managing code quality, formatting and linting.*
@@ -871,9 +859,9 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 ### Web Service
 
-#### Continuous Integration
-
+- [Code Climate](https://codeclimate.com) - An automated code review.
 - [CircleCI](https://circleci.com)
+- [Gitlab CI/CD](https://about.gitlab.com/solutions/continuous-integration/)
 - [Jenkins](https://www.jenkins.io/)
 - [SemaphoreCI](https://semaphore.io/)
 - [Travis CI](https://www.travis-ci.com)
