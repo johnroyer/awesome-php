@@ -5,6 +5,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
   - [Library](#library)
+    - [Continuous Integration (CI)](#continuous-integration-ci)
     - [Crawler](#crawler)
     - [Dependency Injection](#dependency-injection)
     - [Email](#email)
@@ -88,6 +89,16 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Repositories](#repositories)
 
 ### Library
+
+### Continuous Integration (CI)
+
+- [GitlabCi](https://about.gitlab.com/solutions/continuous-integration/) - Let GitLab CI test, build, deploy your code. TravisCi like.
+- [Jenkins](https://www.jenkins.io/) - A continuous integration platform with [PHP support](https://www.jenkins.io/solutions/php/).
+- [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
+- [PHPCI](https://github.com/dancryer/phpci) - An open-source continuous integration platform for PHP.
+- [SemaphoreCI](https://semaphore.io/) - A continuous integration platform for open-source and private projects.
+- [Travis CI](https://www.travis-ci.com) - A continuous integration platform.
+- [Setup PHP](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
 
 #### Crawler
 
@@ -272,18 +283,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHPUnit Polyfills](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
 - [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
 - [VFS Stream](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
-
-### Continuous Integration
-*Libraries and applications for continuous integration.*
-
-
-- [GitlabCi](https://about.gitlab.com/solutions/continuous-integration/) - Let GitLab CI test, build, deploy your code. TravisCi like.
-- [Jenkins](https://www.jenkins.io/) - A continuous integration platform with [PHP support](https://www.jenkins.io/solutions/php/).
-- [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
-- [PHPCI](https://github.com/dancryer/phpci) - An open-source continuous integration platform for PHP.
-- [SemaphoreCI](https://semaphore.io/) - A continuous integration platform for open-source and private projects.
-- [Travis CI](https://www.travis-ci.com) - A continuous integration platform.
-- [Setup PHP](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
 
 ### Documentation
 *Libraries for generating project documentation.*
