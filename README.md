@@ -4,7 +4,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
-  - [Libraries](#libraries)
+  - [Library](#library)
   - [Frameworks](#frameworks)
   - [Platforms](#platforms)
     - [Content Management Systems (CMS)](#content-management-systems-cms)
@@ -87,7 +87,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [PHP Internals Reading](#php-internals-reading)
   - [Repositories](#repositories)
 
-### Libraries
+### Library
 
 ### Frameworks
 *Web development frameworks.*
