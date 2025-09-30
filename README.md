@@ -76,6 +76,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Web Applications](#web-applications)
   - [Infrastructure](#infrastructure)
 - [Resources](#resources)
+  - [Web Service](#web-service)
   - [PHP Websites](#php-websites)
   - [PHP Books](#php-books)
   - [PHP Videos](#php-videos)
@@ -275,7 +276,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 ### Continuous Integration
 *Libraries and applications for continuous integration.*
 
-- [CircleCI](https://circleci.com) - A continuous integration platform.
+
 - [GitlabCi](https://about.gitlab.com/solutions/continuous-integration/) - Let GitLab CI test, build, deploy your code. TravisCi like.
 - [Jenkins](https://www.jenkins.io/) - A continuous integration platform with [PHP support](https://www.jenkins.io/solutions/php/).
 - [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
@@ -869,6 +870,10 @@ Libraries to help manage database schemas and migrations.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
+
+### Web Service
+
+- [CircleCI](https://circleci.com) - A continuous integration platform.
 
 ### PHP Websites
 *Useful PHP-related websites.*
