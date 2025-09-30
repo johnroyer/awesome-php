@@ -29,7 +29,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Platforms](#platforms)
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [E-commerce](#e-commerce)
-    - [Gallery](#gallery)
+    - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
   - [Navigation](#navigation)
   - [Asset Management](#asset-management)
@@ -383,7 +383,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Swap](https://github.com/florianv/swap) - An exchange rates library.
 - [Sylius](https://sylius.com/) - An open source e-commerce solution.
 
-#### Gallery
+#### Photo and Video
 
 - [Immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution (AGPLv3)
 
