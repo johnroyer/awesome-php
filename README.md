@@ -29,7 +29,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
-  - [Build Tools](#build-tools)
   - [Task Runners](#task-runners)
   - [Navigation](#navigation)
   - [Asset Management](#asset-management)
@@ -70,6 +69,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Web Applications](#web-applications)
   - [Infrastructure](#infrastructure)
   - [Ecosystem](#Ecosystem)
+    - [Build Tool](#build-tool)
     - [Dependency Management](#dependency-management)
     - [PHP Installation](#php-installation)
   - [Resources](#resources)
@@ -374,14 +374,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Build Tools
-*Project build and automation tools.*
-
-- [Box](https://github.com/box-project/box) - A utility to build PHAR files.
-- [Construct](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
-- [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
-- [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
 
 ### Task Runners
 *Libraries for automating and running tasks.*
@@ -751,6 +743,13 @@ Libraries to help manage database schemas and migrations.
 - [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 
 # Ecosystem
+
+### Build Tool
+
+- [Box](https://github.com/box-project/box) - A utility to build PHAR files.
+- [Construct](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
+- [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
+- [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
 
 ### Dependency Management
 
