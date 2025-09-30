@@ -8,7 +8,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Crawler](#crawler)
     - [Dependency Injection](#dependency-injection)
     - [Email](#email)
-    - [Files](#Files)
+    - [File](#File)
     - [HTTP](#http)
     - [Middleware](#middleware)
     - [Router](#router)
