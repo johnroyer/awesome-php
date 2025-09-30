@@ -8,7 +8,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Code Quality](#code-quality)
     - [Continuous Integration (CI)](#continuous-integration-ci)
     - [Crawler](#crawler)
-    - [Debugging and Profiling](#debugging-and-profiling)
     - [Dependency Injection](#dependency-injection)
     - [Documentation](#documentation)
     - [Email](#email)
@@ -16,6 +15,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [HTTP](#http)
     - [Image](#image)
     - [Middleware](#middleware)
+    - [Profiling](#profiling)
     - [Router](#router)
     - [Security](#security)
     - [Static Analysis](#static-analysis)
@@ -126,26 +126,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 - [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
 
-### Debugging and Profiling
-*Libraries and tools for debugging errors and profiling code.*
-
-- [APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
-- [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
-- [Kint](https://github.com/kint-php/kint) - A debugging and profiling tool.
-- [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
-- [PCOV](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
-- [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
-- [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
-- [PHPBench](https://github.com/phpbench/phpbench) - A benchmarking Framework.
-- [PHPSpy](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
-- [Symfony VarDumper](https://github.com/symfony/var-dumper) - A variable dumper component.
-- [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
-- [Whoops](https://github.com/filp/whoops) - A pretty error-handling library.
-- [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
-- [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
-- [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
-- [Blackfire](https://www.blackfire.io) - A low-overhead code profiler.
-
 #### Dependency Injection
 
 - [Aura.Di](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
@@ -216,6 +196,26 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Relay](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
 - [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
 - [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
+
+#### Profiling
+
+- [APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
+- [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
+- [Kint](https://github.com/kint-php/kint) - A debugging and profiling tool.
+- [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
+- [PCOV](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
+- [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
+- [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
+- [PHPBench](https://github.com/phpbench/phpbench) - A benchmarking Framework.
+- [PHPSpy](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
+- [Symfony VarDumper](https://github.com/symfony/var-dumper) - A variable dumper component.
+- [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
+- [Whoops](https://github.com/filp/whoops) - A pretty error-handling library.
+- [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
+- [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
+- [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
+- [Blackfire](https://www.blackfire.io) - A low-overhead code profiler.
+
 
 #### Router
 
