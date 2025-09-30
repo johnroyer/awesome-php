@@ -28,7 +28,8 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Frameworks](#frameworks)
   - [Platforms](#platforms)
     - [Content Management Systems (CMS)](#content-management-systems-cms)
-    - [Gallery](#gallery)
+    - [E-commerce](#e-commerce)
+    - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
   - [Navigation](#navigation)
   - [Asset Management](#asset-management)
@@ -36,7 +37,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Date and Time](#date-and-time)
   - [Event](#event)
   - [Logging](#logging)
-  - [E-commerce](#e-commerce)
   - [PDF](#pdf)
   - [Office](#office)
   - [Database](#database)
@@ -372,9 +372,21 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [TYPO3](https://typo3.org) - An enterprise level CMS.
 - [WordPress](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
 
-#### Gallery
+#### E-commerce
+
+- [Money](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
+- [Brick Money](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
+- [OmniPay](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
+- [Payum](https://github.com/payum/payum) - A payment abstraction library.
+- [Shopsys Framework](https://github.com/shopsys/shopsys/) - An open source e-commerce platform for in-house development teams.
+- [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
+- [Swap](https://github.com/florianv/swap) - An exchange rates library.
+- [Sylius](https://sylius.com/) - An open source e-commerce solution.
+
+#### Photo and Video
 
 - [Immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution (AGPLv3)
+- [Lychee](https://github.com/LycheeOrg/Lychee) - Great looking and easy-to-use photo-management-system (MIT)
 
 ### Static Site Generators
 
@@ -437,18 +449,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 *Libraries for generating and working with log files.*
 
 - [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
-
-### E-commerce
-*Libraries and applications for taking payments and building online e-commerce stores.*
-
-- [Money](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
-- [Brick Money](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
-- [OmniPay](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
-- [Payum](https://github.com/payum/payum) - A payment abstraction library.
-- [Shopsys Framework](https://github.com/shopsys/shopsys/) - An open source e-commerce platform for in-house development teams.
-- [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
-- [Swap](https://github.com/florianv/swap) - An exchange rates library.
-- [Sylius](https://sylius.com/) - An open source e-commerce solution.
 
 ### PDF
 *Libraries and software for working with PDF files.*
