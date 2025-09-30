@@ -85,7 +85,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Newsletters](#newsletters)
     - [Reading](#reading)
     - [Internals Reading](#internals-reading)
-  - [Repositories](#repositories)
+  - [Package Repository](#package-repository)
 
 ### Library
 
@@ -943,7 +943,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 
 
-### Repositories
+### Package Repository
 
 - [Firegento](https://packages.firegento.com/) - Magento Module Composer Repository.
 - [Packagist](https://packagist.org/) - The PHP Package Repository.
