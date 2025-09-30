@@ -5,7 +5,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
   - [Library](#library)
-    - [Code Analysis](#code-analysis)
     - [Code Quality](#code-quality)
     - [Continuous Integration (CI)](#continuous-integration-ci)
     - [Crawler](#crawler)
@@ -16,6 +15,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [HTTP](#http)
     - [Image](#image)
     - [Middleware](#middleware)
+    - [Profiling](#profiling)
     - [Router](#router)
     - [Security](#security)
     - [Static Analysis](#static-analysis)
@@ -23,13 +23,12 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Template](#template)
     - [Testing](#testing)
     - [URL](#url)
+    - [Misc](#misc)
   - [Frameworks](#frameworks)
   - [Platforms](#platforms)
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
-  - [Architectural](#architectural)
-  - [Debugging and Profiling](#debugging-and-profiling)
   - [Error Tracking and Monitoring Services](#error-tracking-and-monitoring-services)
   - [Build Tools](#build-tools)
   - [Task Runners](#task-runners)
@@ -88,8 +87,16 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 ### Library
 
-#### Code Analysis
+#### Code Quality
 
+- [CaptainHook](https://github.com/captainhook-git/captainhook) - An easy-to-use and flexible Git hook library.
+- [PHP CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
+- [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A coding standards fixer library.
+- [PHP CS Fixer Configurator](https://mlocati.github.io/php-cs-fixer-configurator/) - A web application to help configure PHP CS Fixer rule sets.
+- [PHP Mess Detector](https://github.com/phpmd/phpmd) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
+- [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
+- [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
+- [Laravel Pint](https://github.com/laravel/pint) - A coding standards fixer library for Laravel.
 - [Editorconfig-Checker](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
 - [GrumPHP](https://github.com/phpro/grumphp) - A PHP code-quality tool.
 - [PHP AST Viewer](https://php-ast-viewer.com/) - A tool for viewing the Abstract Syntax Tree of PHP code.
@@ -103,16 +110,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
 - [UBench](https://github.com/devster/ubench) - A simple micro-benchmark library.
 
-#### Code Quality
-
-- [CaptainHook](https://github.com/captainhook-git/captainhook) - An easy-to-use and flexible Git hook library.
-- [PHP CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
-- [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A coding standards fixer library.
-- [PHP CS Fixer Configurator](https://mlocati.github.io/php-cs-fixer-configurator/) - A web application to help configure PHP CS Fixer rule sets.
-- [PHP Mess Detector](https://github.com/phpmd/phpmd) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
-- [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
-- [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
-- [Laravel Pint](https://github.com/laravel/pint) - A coding standards fixer library for Laravel.
 
 #### Continuous Integration (CI)
 
@@ -199,6 +196,26 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Relay](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
 - [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
 - [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
+
+#### Profiling
+
+- [APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
+- [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
+- [Kint](https://github.com/kint-php/kint) - A debugging and profiling tool.
+- [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
+- [PCOV](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
+- [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
+- [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
+- [PHPBench](https://github.com/phpbench/phpbench) - A benchmarking Framework.
+- [PHPSpy](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
+- [Symfony VarDumper](https://github.com/symfony/var-dumper) - A variable dumper component.
+- [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
+- [Whoops](https://github.com/filp/whoops) - A pretty error-handling library.
+- [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
+- [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
+- [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
+- [Blackfire](https://www.blackfire.io) - A low-overhead code profiler.
+
 
 #### Router
 
@@ -295,6 +312,15 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Uri](https://github.com/thephpleague/uri) - Another URL manipulation library.
 - [glenscott/url-normalizer](https://github.com/glenscott/url-normalizer) - Syntax based normalization of URI's (MIT)
 
+#### Misc
+
+- [Finite](https://github.com/yohang/Finite) - A simple PHP finite state machine.
+- [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
+- [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
+- [IterTools PHP](https://github.com/markrogoyski/itertools-php) - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
+- [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
+- [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
+- [RulerZ](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
 
 ### Frameworks
 *Web development frameworks.*
@@ -350,40 +376,10 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
 
-### Architectural
-*Libraries related to design patterns, programming approaches and ways to organize code.*
-
-- [Finite](https://github.com/yohang/Finite) - A simple PHP finite state machine.
-- [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
-- [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
-- [IterTools PHP](https://github.com/markrogoyski/itertools-php) - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
-- [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
-- [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
-- [RulerZ](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
-
-### Debugging and Profiling
-*Libraries and tools for debugging errors and profiling code.*
-
-- [APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
-- [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
-- [Kint](https://github.com/kint-php/kint) - A debugging and profiling tool.
-- [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
-- [PCOV](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
-- [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
-- [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
-- [PHPBench](https://github.com/phpbench/phpbench) - A benchmarking Framework.
-- [PHPSpy](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
-- [Symfony VarDumper](https://github.com/symfony/var-dumper) - A variable dumper component.
-- [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
-- [Whoops](https://github.com/filp/whoops) - A pretty error-handling library.
-- [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
-- [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
-- [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
-
 ### Error Tracking and Monitoring Services
 *Self-hosted or cloud-based application performance monitoring & error tracking tools*
 
-- [Blackfire](https://www.blackfire.io) - A low-overhead code profiler.
+
 - [BugSnag](https://www.bugsnag.com/) - Error and Real User Monitoring.
 - [Honeybadger](https://www.honeybadger.io/) - Error Tracking & Application Monitoring for Developers.
 - [Rollbar](https://rollbar.com/) - Error Logging & Tracking Service for Software Teams.
