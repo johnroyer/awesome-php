@@ -4,7 +4,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
-  - [Composer Repositories](#composer-repositories)
   - [Dependency Management](#dependency-management)
   - [Dependency Management Extras](#dependency-management-extras)
   - [Frameworks](#frameworks)
