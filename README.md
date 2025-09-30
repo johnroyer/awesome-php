@@ -11,6 +11,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [HTTP](#http)
     - [Middleware](#middleware)
     - [Router](#router)
+    - [Stream](#stream)
     - [Template](#template)
     - [URL](#url)
   - [Frameworks](#frameworks)
@@ -19,7 +20,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
   - [Components](#components)
-  - [Streams](#streams)
   - [Dependency Injection](#dependency-injection)
   - [Imagery](#imagery)
   - [Testing](#testing)
@@ -147,6 +147,11 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 - [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
 
+#### Stream
+
+- [ByteStream](https://amphp.org/byte-stream) - An asynchronous stream abstraction.
+- [Streamer](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
+
 #### Template
 
 - [Latte](https://latte.nette.org/) - The safest and truly intuitive templates for PHP.
@@ -230,12 +235,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
 - [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
 - [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
-
-### Streams
-*Libraries for working with streams.*
-
-- [ByteStream](https://amphp.org/byte-stream) - An asynchronous stream abstraction.
-- [Streamer](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
 
 ### Dependency Injection
 *Libraries that implement the dependency injection design pattern.*
