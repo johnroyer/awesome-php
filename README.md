@@ -70,7 +70,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Third Party APIs](#third-party-apis)
   - [Extensions](#extensions)
   - [Miscellaneous](#miscellaneous)
-- [ecosystem](#ecosystem)
+- [Ecosystem](#Ecosystem)
   - [PHP Installation](#php-installation)
   - [Development Environment](#development-environment)
   - [Virtual Machines](#virtual-machines)
