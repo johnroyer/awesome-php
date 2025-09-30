@@ -11,8 +11,8 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Platforms](#platforms)
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [Gallery](#gallery)
+    - [Static Site Generators](#static-site-generators)
   - [Components](#components)
-  - [Static Site Generators](#static-site-generators)
   - [HTTP](#http)
   - [Scraping](#scraping)
   - [Middlewares](#middlewares)
@@ -155,6 +155,12 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 - [Immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution (AGPLv3)
 
+### Static Site Generators
+
+- [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
+- [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
+- [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
+
 ### Components
 *Standalone components from web development frameworks and development groups.*
 
@@ -165,13 +171,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
 - [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
 - [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
-
-### Static Site Generators
-*Tools for pre-processing content to generate web pages.*
-
-- [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
-- [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
-- [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
 
 ### HTTP
 *Libraries for working with HTTP.*
