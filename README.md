@@ -6,10 +6,8 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Awesome PHP](#awesome-php)
   - [Libraries](#libraries)
   - [Frameworks](#frameworks)
-  - [Framework Extras](#framework-extras)
   - [Content Management Systems](#content-management-systems-cms)
   - [Components](#components)
-  - [Micro Framework Extras](#micro-framework-extras)
   - [Routers](#routers)
   - [Templating](#templating)
   - [Static Site Generators](#static-site-generators)
@@ -106,10 +104,9 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Minicli](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
 - [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 - [Slim](https://www.slimframework.com/) - Another simple micro framework.
-
-### Framework Extras
-*Extras related to web development frameworks.*
-
+- [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - A skeleton for Slim.
+- [Slim Twig View](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
+- [Slim PHP View](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
 - [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 - [LaravelS](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
 - [Livewire](https://livewire.laravel.com/) - Powerful, dynamic, front-end UIs without leaving PHP.
@@ -143,13 +140,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
 - [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
 - [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
-
-### Micro Framework Extras
-*Extras related to micro frameworks and routers.*
-
-- [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - A skeleton for Slim.
-- [Slim Twig View](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
-- [Slim PHP View](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
 
 ### Routers
 *Libraries for handling application routing.*
