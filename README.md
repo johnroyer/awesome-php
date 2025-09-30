@@ -7,6 +7,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Library](#library)
     - [Crawler](#crawler)
     - [HTTP](#http)
+    - [Middleware](#middleware)
     - [Router](#router)
     - [Template](#template)
   - [Frameworks](#frameworks)
@@ -15,7 +16,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Gallery](#gallery)
     - [Static Site Generators](#static-site-generators)
   - [Components](#components)
-  - [Middlewares](#middlewares)
   - [URL](#url)
   - [Email](#email)
   - [Files](#Files)
@@ -110,6 +110,13 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Symfony HTTP Client](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
 - [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
 
+#### Middleware
+
+- [PSR-15 Middlewares](https://github.com/middlewares/psr15-middlewares) - Inspiring collection of handy middlewares.
+- [Relay](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
+- [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
+- [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
+
 #### Router
 
 - [Aura.Router](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
@@ -192,14 +199,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
 - [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
 - [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
-
-### Middlewares
-*Libraries for building application using middlewares.*
-
-- [PSR-15 Middlewares](https://github.com/middlewares/psr15-middlewares) - Inspiring collection of handy middlewares.
-- [Relay](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
-- [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
-- [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
 
 ### URL
 *Libraries for parsing URLs.*
