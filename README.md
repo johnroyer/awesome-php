@@ -8,6 +8,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Frameworks](#frameworks)
   - [Platforms](#platforms)
     - [Content Management Systems (CMS)](#content-management-systems-cms)
+    - [Gallery](#gallery)
   - [Components](#components)
   - [Routers](#routers)
   - [Templating](#templating)
@@ -131,6 +132,10 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Sulu](https://sulu.io/) - A user and developer friendly focused CMS and Platform based on the Symfony Framework.
 - [TYPO3](https://typo3.org) - An enterprise level CMS.
 - [WordPress](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
+
+#### Gallery
+
+- [Immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution (AGPLv3)
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
