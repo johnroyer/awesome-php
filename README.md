@@ -12,6 +12,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Dependency Injection](#dependency-injection)
     - [Documentation](#documentation)
     - [Email](#email)
+    - [Event](#event)
     - [File](#File)
     - [Geolocation](#geolocation)
     - [HTTP](#http)
@@ -35,7 +36,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Event](#event)
   - [Logging](#logging)
   - [PDF](#pdf)
   - [Office](#office)
@@ -164,6 +164,25 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/en-us), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
 - [SwiftMailer](https://swiftmailer.symfony.com/docs/introduction.html) - A mailer solution.
 - [Symfony Mailer](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
+
+#### Event
+
+- [Amp](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
+- [Broadway](https://github.com/broadway/broadway) - An event source and CQRS library.
+- [CakePHP Event](https://github.com/cakephp/event) - An event dispatcher library.
+- [Elephant.io](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
+- [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
+- [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
+- [Fast CGI Client](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket.
+- [FrankenPHP](https://frankenphp.dev/) - A modern PHP app server written in Go.
+- [Pawl](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
+- [Prooph Event Store](https://github.com/prooph/event-store) - An event source component to persist event messages
+- [PHP Defer](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
+- [Ratchet](https://github.com/ratchetphp/Ratchet) - A web socket library.
+- [ReactPHP](https://github.com/reactphp/reactphp) - An event driven non-blocking I/O library.
+- [RxPHP](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
+- [Swoole](https://github.com/swoole/swoole-src) - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
+- [Workerman](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
 
 #### File
 
@@ -420,25 +439,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Event
-*Libraries that are event-driven or implement non-blocking event loops.*
-- [Amp](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
-- [Broadway](https://github.com/broadway/broadway) - An event source and CQRS library.
-- [CakePHP Event](https://github.com/cakephp/event) - An event dispatcher library.
-- [Elephant.io](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
-- [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
-- [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
-- [Fast CGI Client](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket.
-- [FrankenPHP](https://frankenphp.dev/) - A modern PHP app server written in Go.
-- [Pawl](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
-- [Prooph Event Store](https://github.com/prooph/event-store) - An event source component to persist event messages
-- [PHP Defer](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
-- [Ratchet](https://github.com/ratchetphp/Ratchet) - A web socket library.
-- [ReactPHP](https://github.com/reactphp/reactphp) - An event driven non-blocking I/O library.
-- [RxPHP](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
-- [Swoole](https://github.com/swoole/swoole-src) - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
-- [Workerman](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
 
 ### Logging
 *Libraries for generating and working with log files.*
