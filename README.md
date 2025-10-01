@@ -125,7 +125,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 - [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
 
-### Date and Time
+#### Date and Time
 
 - [CalendR](https://github.com/yohang/CalendR) - A calendar management library.
 - [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
