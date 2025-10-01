@@ -8,6 +8,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Code Quality](#code-quality)
     - [Continuous Integration (CI)](#continuous-integration-ci)
     - [Crawler](#crawler)
+    - [Database](#database)
     - [Date and Time](#date-and-time)
     - [Dependency Injection](#dependency-injection)
     - [Documentation](#documentation)
@@ -39,7 +40,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Database](#database)
   - [Migrations](#migrations)
   - [NoSQL](#nosql)
   - [Queue](#queue)
@@ -129,6 +129,23 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Embed](https://github.com/php-embed/Embed) - An information extractor from any web service or page.
 - [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 - [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
+
+#### Database
+
+- [Atlas.Orm](https://github.com/atlasphp/Atlas.Orm) - A data mapper implementation for your persistence model in PHP.
+- [Aura.Sql](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
+- [Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
+- [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
+- [CakePHP ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern.
+- [Cycle ORM](https://github.com/cycle/orm) - PHP DataMapper, ORM.
+- [Doctrine Extensions](https://github.com/doctrine-extensions/DoctrineExtensions ) - A collection of Doctrine behavioural extensions.
+- [Doctrine](https://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
+- [Laravel Eloquent](https://github.com/illuminate/database) - A simple ORM.
+- [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
+- [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
+- [RedBean](https://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
+- [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
+- [Spot2](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
 
 #### Date and Time
 
@@ -463,24 +480,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Database
-*Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
-
-- [Atlas.Orm](https://github.com/atlasphp/Atlas.Orm) - A data mapper implementation for your persistence model in PHP.
-- [Aura.Sql](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
-- [Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
-- [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
-- [CakePHP ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern.
-- [Cycle ORM](https://github.com/cycle/orm) - PHP DataMapper, ORM.
-- [Doctrine Extensions](https://github.com/doctrine-extensions/DoctrineExtensions ) - A collection of Doctrine behavioural extensions.
-- [Doctrine](https://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
-- [Laravel Eloquent](https://github.com/illuminate/database) - A simple ORM.
-- [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
-- [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
-- [RedBean](https://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
-- [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
-- [Spot2](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
 
 ### Migrations
 Libraries to help manage database schemas and migrations.
