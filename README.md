@@ -14,6 +14,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [File](#File)
     - [HTTP](#http)
     - [Image](#image)
+    - [Navigation](#navigation)
     - [Middleware](#middleware)
     - [Profiling](#profiling)
     - [Router](#router)
@@ -32,8 +33,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Navigation](#navigation)
-  - [Asset Management](#asset-management)
   - [Geolocation](#geolocation)
   - [Date and Time](#date-and-time)
   - [Event](#event)
@@ -190,6 +189,11 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
 - [PHP QR Code](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader.
 
+### Navigation
+
+- [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
+- [Menu](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
+
 #### Middleware
 
 - [PSR-15 Middlewares](https://github.com/middlewares/psr15-middlewares) - Inspiring collection of handy middlewares.
@@ -284,6 +288,9 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Plates](http://platesphp.com/) - A native PHP templating library.
 - [Smarty](https://www.smarty.net/) - A template engine to complement PHP.
 - [Twig](https://twig.symfony.com/) - A comprehensive templating language.
+- [Laravel Mix](https://github.com/laravel-mix/laravel-mix ) - An elegant wrapper around Webpack for the 80% use case.
+- [Symfony Asset](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets.
+- [Symfony Encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing and compiling assets built around Webpack.
 
 #### Testing
 
@@ -397,20 +404,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Navigation
-*Tools for building navigation structures.*
-
-- [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
-- [Menu](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
-
-### Asset Management
-*Tools for managing, compressing and minifying website assets.*
-
-- [JShrink](https://github.com/tedious/JShrink) - A JavaScript minifier library.
-- [Laravel Mix](https://github.com/laravel-mix/laravel-mix ) - An elegant wrapper around Webpack for the 80% use case.
-- [Symfony Asset](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets.
-- [Symfony Encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing and compiling assets built around Webpack.
 
 ### Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
