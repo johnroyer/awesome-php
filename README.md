@@ -70,8 +70,13 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Infrastructure](#infrastructure)
   - [Ecosystem](#ecosystem)
     - [Build Tool](#build-tool)
+    - [Development Environment](#development-environment)
     - [Dependency Management](#dependency-management)
     - [PHP Installation](#php-installation)
+    - [Server](#Server)
+    - [Editor and IDE](#editor-and-ide)
+    - [Virtual Machines](#virtual-machines)
+    - [Web Application](#web-aplication)
   - [Resources](#resources)
     - [Web Service](#web-service)
     - [Tutorial / Learning](#tutorial-learning)
@@ -743,6 +748,23 @@ Libraries to help manage database schemas and migrations.
 - [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
 - [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
 
+### Development Environment
+
+- [Ansible](https://www.redhat.com/en/ansible-collaborative) - A radically simple orchestration framework.
+- [DDEV](https://github.com/ddev/ddev) - a local web development environment system for PHP.
+- [Docker](https://www.docker.com/) - A containerization platform.
+- [Docker PHP Extension Installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
+- [Docksal](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
+- [Expose](https://github.com/exposedev/expose) - An open-source PHP tunneling service.
+- [Lando](https://lando.dev/) - Push-button development environments.
+- [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
+- [Laravel Herd](https://herd.laravel.com/windows) - A one click PHP development environment for macOS and Windows.
+- [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
+- [PHPMon](https://phpmon.app/) - A macOS menu bar app for managing PHP installations (works with [Laravel Valet](https://laravel.com/docs/master/valet)).
+- [Puppet](https://www.puppet.com) - A server automation framework and application.
+- [Takeout](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
+- [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
+
 ### Dependency Management
 
 - [Composer Installers](https://github.com/composer/installers) - A  multi-framework Composer library installer.
@@ -770,33 +792,13 @@ Libraries to help manage database schemas and migrations.
 - [PHP Build](https://github.com/php-build/php-build) - Another PHP version installer.
 - [Static PHP CLI](https://github.com/crazywhalecc/static-php-cli) - Build or [download](https://dl.static-php.dev/static-php-cli/) static versions of PHP CLI and FPM.
 
-### Development Environment
-*Software and tools for creating and sharing a development environment.*
+### Server
 
-- [Ansible](https://www.redhat.com/en/ansible-collaborative) - A radically simple orchestration framework.
-- [DDEV](https://github.com/ddev/ddev) - a local web development environment system for PHP.
-- [Docker](https://www.docker.com/) - A containerization platform.
-- [Docker PHP Extension Installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
-- [Docksal](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
-- [Expose](https://github.com/exposedev/expose) - An open-source PHP tunneling service.
-- [Lando](https://lando.dev/) - Push-button development environments.
-- [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
-- [Laravel Herd](https://herd.laravel.com/windows) - A one click PHP development environment for macOS and Windows.
-- [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
-- [PHPMon](https://phpmon.app/) - A macOS menu bar app for managing PHP installations (works with [Laravel Valet](https://laravel.com/docs/master/valet)).
-- [Puppet](https://www.puppet.com) - A server automation framework and application.
-- [Takeout](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
-- [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
+- [appserver.io](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
+- [php-pm](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
+- [RoadRunner](https://github.com/roadrunner-server/roadrunner) - High-performance PHP application server, load-balancer and process manager.
 
-### Virtual Machines
-*Alternative PHP virtual machines.*
-
-- [Hack](https://hacklang.org/) - A programming language for HHVM.
-- [HHVM](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
-- [PeachPie](https://github.com/peachpiecompiler/peachpie) - PHP compiler and runtime for .NET and .NET Core.
-
-### Text Editors and IDEs
-*Text Editors and Integrated Development Environments (IDE) with support for PHP.*
+### Editor and IDE
 
 - [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - A PHP IDE based on the Eclipse platform.
 - [Apache NetBeans](https://netbeans.apache.org/front/main/index.html) - An IDE with support for PHP and HTML5.
@@ -804,8 +806,13 @@ Libraries to help manage database schemas and migrations.
 - [PhpStorm](https://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
 - [VS Code](https://code.visualstudio.com/) - An open source code editor.
 
-### Web Applications
-*Web-based applications and tools.*
+### Virtual Machines
+
+- [Hack](https://hacklang.org/) - A programming language for HHVM.
+- [HHVM](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
+- [PeachPie](https://github.com/peachpiecompiler/peachpie) - PHP compiler and runtime for .NET and .NET Core.
+
+### Web Application
 
 - [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
 - [Adminer](https://www.adminer.org/en/) - Database management in a single PHP file.
@@ -817,13 +824,6 @@ Libraries to help manage database schemas and migrations.
 - [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 - [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - A simple web interface to manage [Redis](https://redis.io/) databases.
 - [PHPSandbox](https://phpsandbox.io) - An online IDE for PHP in the browser.
-
-### Infrastructure
-*Infrastructure for providing PHP applications and services.*
-
-- [appserver.io](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
-- [php-pm](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
-- [RoadRunner](https://github.com/roadrunner-server/roadrunner) - High-performance PHP application server, load-balancer and process manager.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
