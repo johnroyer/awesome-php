@@ -20,6 +20,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Geolocation](#geolocation)
     - [HTTP](#http)
     - [Image](#image)
+    - [JSON](#json)
     - [Logging](#logging)
     - [Middleware](#middleware)
     - [Navigation](#navigation)
@@ -44,8 +45,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Markup and CSS](#markup-and-css)
-  - [JSON](#json)
   - [Strings](#strings)
   - [Numbers](#numbers)
   - [Filtering, Sanitizing and Validation](#filtering-sanitizing-and-validation)
@@ -281,6 +280,11 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
 - [PHP QR Code](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader.
 
+#### JSON
+
+- [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
+- [JSONMapper](https://github.com/JsonMapper/JsonMapper) - A library for mapping JSON to PHP objects.
+
 #### Logging
 
 - [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
@@ -303,6 +307,23 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHPWord](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
 - [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).
 - [OpenSpout](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
+
+#### Parser
+
+Parser and renderer for HTML, CSS, Markdown
+
+- [Cebe Markdown](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
+- [CommonMark PHP](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
+- [Decoda](https://github.com/milesj/decoda) - A lightweight markup parser library.
+- [Essence](https://github.com/essence/essence) - A library for extracting web media.
+- [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
+- [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
+- [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
+- [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
+- [PHP CSS Parser](https://github.com/MyIntervals/PHP-CSS-Parser) - A Parser for CSS Files written in PHP.
+- [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
+- [Shiki PHP](https://github.com/spatie/shiki-php) - A [Shiki](https://github.com/shikijs/shiki) code highlighting package in PHP.
+- [VObject](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 
 #### PDF
 
@@ -532,28 +553,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Markup and CSS
-*Libraries for working with markup and CSS formats.*
-
-- [Cebe Markdown](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
-- [CommonMark PHP](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
-- [Decoda](https://github.com/milesj/decoda) - A lightweight markup parser library.
-- [Essence](https://github.com/essence/essence) - A library for extracting web media.
-- [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
-- [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
-- [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
-- [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
-- [PHP CSS Parser](https://github.com/MyIntervals/PHP-CSS-Parser) - A Parser for CSS Files written in PHP.
-- [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
-- [Shiki PHP](https://github.com/spatie/shiki-php) - A [Shiki](https://github.com/shikijs/shiki) code highlighting package in PHP.
-- [VObject](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
-
-### JSON
-*Libraries for working with JSON.*
-
-- [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
-- [JSONMapper](https://github.com/JsonMapper/JsonMapper) - A library for mapping JSON to PHP objects.
 
 ### Strings
 *Libraries for parsing and manipulating strings.*
