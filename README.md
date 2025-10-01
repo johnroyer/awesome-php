@@ -12,6 +12,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Documentation](#documentation)
     - [Email](#email)
     - [File](#File)
+    - [Geolocation](#geolocation)
     - [HTTP](#http)
     - [Image](#image)
     - [Navigation](#navigation)
@@ -33,7 +34,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Geolocation](#geolocation)
   - [Date and Time](#date-and-time)
   - [Event](#event)
   - [Logging](#logging)
@@ -165,6 +165,14 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
 - [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 - [Parquet](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
+
+### Geolocation
+
+- [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
+- [GeoCoder](https://geocoder-php.org/) - A geocoding library.
+- [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
+- [GeoTools](https://github.com/thephpleague/geotools) - A library of geo-related tools.
+- [PHPGeo](https://github.com/mjaschen/phpgeo) - A simple geo library.
 
 #### HTTP
 
@@ -404,15 +412,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Geolocation
-*Libraries for geocoding addresses and working with latitudes and longitudes.*
-
-- [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
-- [GeoCoder](https://geocoder-php.org/) - A geocoding library.
-- [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
-- [GeoTools](https://github.com/thephpleague/geotools) - A library of geo-related tools.
-- [PHPGeo](https://github.com/mjaschen/phpgeo) - A simple geo library.
 
 ### Date and Time
 *Libraries for working with dates and times.*
