@@ -18,8 +18,8 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [HTTP](#http)
     - [Image](#image)
     - [Logging](#logging)
-    - [Navigation](#navigation)
     - [Middleware](#middleware)
+    - [Navigation](#navigation)
     - [PDF](#pdf)
     - [Profiling](#profiling)
     - [Router](#router)
@@ -228,17 +228,17 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 - [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
 
-### Navigation
-
-- [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
-- [Menu](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
-
 #### Middleware
 
 - [PSR-15 Middlewares](https://github.com/middlewares/psr15-middlewares) - Inspiring collection of handy middlewares.
 - [Relay](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
 - [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
 - [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
+
+### Navigation
+
+- [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
+- [Menu](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
 
 #### PDF
 
