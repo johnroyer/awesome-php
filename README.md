@@ -20,6 +20,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Logging](#logging)
     - [Navigation](#navigation)
     - [Middleware](#middleware)
+    - [PDF](#pdf)
     - [Profiling](#profiling)
     - [Router](#router)
     - [Security](#security)
@@ -37,7 +38,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [PDF](#pdf)
   - [Office](#office)
   - [Database](#database)
   - [Migrations](#migrations)
@@ -239,6 +239,14 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Relay](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
 - [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
 - [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
+
+#### PDF
+
+- [Browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string.
+- [Dompdf](https://github.com/dompdf/dompdf) - A HTML to PDF converter.
+- [Gotenberg](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
+- [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
+- [TCPDF](https://tcpdf.org/) - An open source PHP class for generating PDF documents.
 
 #### Profiling
 
@@ -443,15 +451,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### PDF
-*Libraries and software for working with PDF files.*
-
-- [Browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string.
-- [Dompdf](https://github.com/dompdf/dompdf) - A HTML to PDF converter.
-- [Gotenberg](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
-- [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
-- [TCPDF](https://tcpdf.org/) - An open source PHP class for generating PDF documents.
 
 ### Office
 *Libraries for working with office suite documents.*
