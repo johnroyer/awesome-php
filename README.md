@@ -73,7 +73,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Development Environment](#development-environment)
     - [Dependency Management](#dependency-management)
     - [PHP Installation](#php-installation)
-    - [Server](#Server)
+    - [Server](#server)
     - [Editor and IDE](#editor-and-ide)
     - [Virtual Machines](#virtual-machines)
     - [Web Application](#web-aplication)
