@@ -9,12 +9,14 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Code Quality](#code-quality)
     - [Console Tool](#console-tool)
     - [Continuous Integration (CI)](#continuous-integration-ci)
+    - [Convertor](#convertor)
     - [Crawler](#crawler)
     - [Database](#database)
     - [Date and Time](#date-and-time)
     - [Dependency Injection](#dependency-injection)
     - [Documentation](#documentation)
     - [Email](#email)
+    - [Encode Decode](#encode-decode)
     - [Event](#event)
     - [File](#File)
     - [Geolocation](#geolocation)
@@ -45,7 +47,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Strings](#strings)
   - [Numbers](#numbers)
   - [Filtering, Sanitizing and Validation](#filtering-sanitizing-and-validation)
   - [API](#api)
@@ -156,6 +157,13 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 - [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
 
+#### Convertor
+
+- [Hyphenation](https://github.com/heiglandreas/Org_Heigl_Hyphenator) - Text-Hyphenation based on the TeX-hyphenation Algorithm
+- [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
+- [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
+- [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colors.
+
 #### Database
 
 - [Atlas.Orm](https://github.com/atlasphp/Atlas.Orm) - A data mapper implementation for your persistence model in PHP.
@@ -220,6 +228,12 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/en-us), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
 - [SwiftMailer](https://swiftmailer.symfony.com/docs/introduction.html) - A mailer solution.
 - [Symfony Mailer](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
+
+#### Encode Decode
+
+- [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
+- [Portable ASCII](https://github.com/voku/portable-ascii) - A library to convert strings to ASCII.
+- [Portable UTF-8](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
 
 #### Event
 
@@ -324,6 +338,10 @@ Parser and renderer for HTML, CSS, Markdown
 - [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
 - [Shiki PHP](https://github.com/spatie/shiki-php) - A [Shiki](https://github.com/shikijs/shiki) code highlighting package in PHP.
 - [VObject](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
+- [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
+- [Stringy](https://github.com/voku/Stringy) - A string manipulation library with multibyte support.
+- [Agent](https://github.com/jenssegers/agent) - A PHP desktop/mobile user agent parser, based on Mobiledetect.
+- [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
 
 #### PDF
 
@@ -484,6 +502,11 @@ Parser and renderer for HTML, CSS, Markdown
 - [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 - [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
 - [RulerZ](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
+- [UUID](https://github.com/ramsey/uuid) - A library for generating UUIDs.
+- [Url highlight](https://github.com/vstelmakh/url-highlight) - A library for parsing URLs from text and converting them into clickable links.
+- [URLify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
+- [Device Detector](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
+- [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
 
 ### Frameworks
 *Web development frameworks.*
@@ -553,27 +576,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Strings
-*Libraries for parsing and manipulating strings.*
-
-- [Agent](https://github.com/jenssegers/agent) - A PHP desktop/mobile user agent parser, based on Mobiledetect.
-- [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
-- [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colors.
-- [Device Detector](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
-- [Hyphenation](https://github.com/heiglandreas/Org_Heigl_Hyphenator) - Text-Hyphenation based on the TeX-hyphenation Algorithm
-- [Jieba-PHP](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
-- [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
-- [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
-- [Portable ASCII](https://github.com/voku/portable-ascii) - A library to convert strings to ASCII.
-- [Portable UTF-8](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
-- [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
-- [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
-- [Stringy](https://github.com/voku/Stringy) - A string manipulation library with multibyte support.
-- [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
-- [Url highlight](https://github.com/vstelmakh/url-highlight) - A library for parsing URLs from text and converting them into clickable links.
-- [URLify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
-- [UUID](https://github.com/ramsey/uuid) - A library for generating UUIDs.
 
 ### Numbers
 *Libraries for working with numbers.*
@@ -690,6 +692,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [OpenAI Client](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [OpenAI Client for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
 - [PHP Mistral AI SDK](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
+- [Jieba-PHP](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
 
 ### Third Party APIs
 *Libraries for accessing third party APIs.*
