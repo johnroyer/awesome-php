@@ -20,6 +20,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Logging](#logging)
     - [Middleware](#middleware)
     - [Navigation](#navigation)
+    - [Office](#office)
     - [PDF](#pdf)
     - [Profiling](#profiling)
     - [Router](#router)
@@ -38,7 +39,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Office](#office)
   - [Database](#database)
   - [Migrations](#migrations)
   - [NoSQL](#nosql)
@@ -239,6 +239,13 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 - [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
 - [Menu](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
+
+#### Office
+
+- [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation) - A library for working with Microsoft PowerPoint Presentations.
+- [PHPWord](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
+- [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).
+- [OpenSpout](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
 
 #### PDF
 
@@ -452,13 +459,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
 
-### Office
-*Libraries for working with office suite documents.*
-
-- [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation) - A library for working with Microsoft PowerPoint Presentations.
-- [PHPWord](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
-- [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).
-- [OpenSpout](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
 ### Database
 *Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
 
