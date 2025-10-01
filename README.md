@@ -8,6 +8,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Code Quality](#code-quality)
     - [Continuous Integration (CI)](#continuous-integration-ci)
     - [Crawler](#crawler)
+    - [Date and Time](#date-and-time)
     - [Dependency Injection](#dependency-injection)
     - [Documentation](#documentation)
     - [Email](#email)
@@ -34,7 +35,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Date and Time](#date-and-time)
   - [Event](#event)
   - [Logging](#logging)
   - [PDF](#pdf)
@@ -124,6 +124,14 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Embed](https://github.com/php-embed/Embed) - An information extractor from any web service or page.
 - [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 - [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
+
+### Date and Time
+
+- [CalendR](https://github.com/yohang/CalendR) - A calendar management library.
+- [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
+- [Chronos](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
+- [Moment.php](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
+- [Yasumi](https://github.com/azuyalabs/yasumi) - A library to help you calculate the dates and names of holidays.
 
 #### Dependency Injection
 
@@ -412,15 +420,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Date and Time
-*Libraries for working with dates and times.*
-
-- [CalendR](https://github.com/yohang/CalendR) - A calendar management library.
-- [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
-- [Chronos](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
-- [Moment.php](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
-- [Yasumi](https://github.com/azuyalabs/yasumi) - A library to help you calculate the dates and names of holidays.
 
 ### Event
 *Libraries that are event-driven or implement non-blocking event loops.*
