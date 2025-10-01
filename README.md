@@ -26,6 +26,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Queue](#queue)
     - [Profiling](#profiling)
     - [Router](#router)
+    - [Search](#search)
     - [Security](#security)
     - [Static Analysis](#static-analysis)
     - [Stream](#stream)
@@ -41,7 +42,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Search](#search)
   - [Command Line](#command-line)
   - [Authentication and Authorization](#authentication-and-authorization)
   - [Markup and CSS](#markup-and-css)
@@ -320,6 +320,13 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 - [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
 
+#### Search
+
+- [Elastica](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.
+- [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - The official client library for [ElasticSearch](https://www.elastic.co/).
+- [Solarium](https://www.solarium-project.org/) - A client library for [Solr](https://solr.apache.org/).
+- [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](https://sphinxsearch.com/) and [Manticore](https://manticoresearch.com/) search engines.
+
 #### Security
 
 - [AntiXSS](https://github.com/voku/anti-xss) - A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting.
@@ -495,14 +502,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Search
-*Libraries and software for indexing and performing search queries on data.*
-
-- [Elastica](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.
-- [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - The official client library for [ElasticSearch](https://www.elastic.co/).
-- [Solarium](https://www.solarium-project.org/) - A client library for [Solr](https://solr.apache.org/).
-- [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](https://sphinxsearch.com/) and [Manticore](https://manticoresearch.com/) search engines.
 
 ### Command Line
 *Libraries related to the command line.*
