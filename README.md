@@ -324,6 +324,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 - [Elastica](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.
 - [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - The official client library for [ElasticSearch](https://www.elastic.co/).
+- [meilisearch-php](https://github.com/meilisearch/meilisearch-php) - PHP client for Meilisearch (MIT)
 - [Solarium](https://www.solarium-project.org/) - A client library for [Solr](https://solr.apache.org/).
 - [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](https://sphinxsearch.com/) and [Manticore](https://manticoresearch.com/) search engines.
 
