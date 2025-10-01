@@ -40,6 +40,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Template](#template)
     - [Testing](#testing)
     - [URL](#url)
+    - [Validator](#validator)
     - [Misc](#misc)
   - [Frameworks](#frameworks)
   - [Platforms](#platforms)
@@ -48,7 +49,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Filtering, Sanitizing and Validation](#filtering-sanitizing-and-validation)
   - [API](#api)
   - [Caching and Locking](#caching-and-locking)
   - [Data Structure and Storage](#data-structure-and-storage)
@@ -356,6 +356,8 @@ Parser and renderer for HTML, CSS, Markdown
 - [Stringy](https://github.com/voku/Stringy) - A string manipulation library with multibyte support.
 - [Agent](https://github.com/jenssegers/agent) - A PHP desktop/mobile user agent parser, based on Mobiledetect.
 - [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
+- [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
+- [Symfony HTML Sanitizer](https://github.com/symfony/html-sanitizer) - An HTML sanitizer library.
 
 #### PDF
 
@@ -487,7 +489,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Mockery](https://github.com/mockery/mockery) - A mock object library for testing.
 - [Nette Tester](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
 - [ParaTest](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
-- [Pest](https://pestphp.com/) - A testing framework with a focus on simplicity.
 - [Phake](https://github.com/phake/phake) - Another mock object library for testing.
 - [PHP-Mock](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
 - [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
@@ -498,6 +499,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
 - [VFS Stream](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
 - [Better Reflection](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
+- [Assert](https://github.com/beberlei/assert) - A validation library with a rich set of assertions. Supports assertion chaining and lazy assertions.
 
 #### URL
 
@@ -506,6 +508,19 @@ Parser and renderer for HTML, CSS, Markdown
 - [sabre/uri](https://github.com/sabre-io/uri) - A functional URI manipulation library.
 - [Uri](https://github.com/thephpleague/uri) - Another URL manipulation library.
 - [glenscott/url-normalizer](https://github.com/glenscott/url-normalizer) - Syntax based normalization of URI's (MIT)
+
+#### Validator
+
+- [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
+- [Aura.Filter](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
+- [CakePHP Validation](https://github.com/cakephp/validation) - Another validation library.
+- [Upload](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
+- [Valitron](https://github.com/vlucas/valitron) - Another validation library.
+- [Volan](https://github.com/serkin/Volan) - Another simplified validation library.
+- [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
+- [JSON Schema](https://github.com/jsonrainbow/json-schema) - A [JSON Schema](https://json-schema.org/) validation library.
+- [Respect Validation](https://github.com/Respect/Validation) - A simple validation library.
+- [Valinor](https://github.com/CuyZ/Valinor) - A library for mapping to strongly typed value objects.
 
 #### Misc
 
@@ -521,6 +536,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [URLify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
 - [Device Detector](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
 - [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
+- [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
 
 ### Frameworks
 *Web development frameworks.*
@@ -590,24 +606,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Filtering, Sanitizing and Validation
-*Libraries for filtering, sanitizing and validating data.*
-
-- [Assert](https://github.com/beberlei/assert) - A validation library with a rich set of assertions. Supports assertion chaining and lazy assertions.
-- [Aura.Filter](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
-- [CakePHP Validation](https://github.com/cakephp/validation) - Another validation library.
-- [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
-- [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
-- [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
-- [JSON Schema](https://github.com/jsonrainbow/json-schema) - A [JSON Schema](https://json-schema.org/) validation library.
-- [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
-- [Respect Validation](https://github.com/Respect/Validation) - A simple validation library.
-- [Symfony HTML Sanitizer](https://github.com/symfony/html-sanitizer) - An HTML sanitizer library.
-- [Upload](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
-- [Valitron](https://github.com/vlucas/valitron) - Another validation library.
-- [Valinor](https://github.com/CuyZ/Valinor) - A library for mapping to strongly typed value objects.
-- [Volan](https://github.com/serkin/Volan) - Another simplified validation library.
 
 ### API
 *Libraries and web tools for developing APIs.*
