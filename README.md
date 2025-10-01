@@ -17,6 +17,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Geolocation](#geolocation)
     - [HTTP](#http)
     - [Image](#image)
+    - [Logging](#logging)
     - [Navigation](#navigation)
     - [Middleware](#middleware)
     - [Profiling](#profiling)
@@ -36,7 +37,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Logging](#logging)
   - [PDF](#pdf)
   - [Office](#office)
   - [Database](#database)
@@ -223,6 +223,10 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
 - [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
 - [PHP QR Code](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader.
+
+#### Logging
+
+- [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
 
 ### Navigation
 
@@ -439,11 +443,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Logging
-*Libraries for generating and working with log files.*
-
-- [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
 
 ### PDF
 *Libraries and software for working with PDF files.*
