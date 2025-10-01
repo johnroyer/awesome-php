@@ -23,6 +23,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Navigation](#navigation)
     - [Office](#office)
     - [PDF](#pdf)
+    - [Queue](#queue)
     - [Profiling](#profiling)
     - [Router](#router)
     - [Security](#security)
@@ -40,7 +41,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Queue](#queue)
   - [Search](#search)
   - [Command Line](#command-line)
   - [Authentication and Authorization](#authentication-and-authorization)
@@ -302,6 +302,15 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
 - [Blackfire](https://www.blackfire.io) - A low-overhead code profiler.
 
+#### Queue
+
+- [Bernard](https://github.com/bernardphp/bernard) - A multibackend abstraction library.
+- [BunnyPHP](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
+- [Pheanstalk](https://github.com/pheanstalk/pheanstalk) - A Beanstalkd client library.
+- [PHP AMQP](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
+- [Tarantool Queue](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
+- [Thumper](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
+- [Enqueue](https://github.com/php-enqueue/enqueue-dev) - A message queue packages for PHP that supports RabbitMQ, AMQP, STOMP, Amazon SQS, Redis and Doctrine transports.
 
 #### Router
 
@@ -486,17 +495,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Queue
-*Libraries for working with event and task queues.*
-
-- [Bernard](https://github.com/bernardphp/bernard) - A multibackend abstraction library.
-- [BunnyPHP](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
-- [Pheanstalk](https://github.com/pheanstalk/pheanstalk) - A Beanstalkd client library.
-- [PHP AMQP](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
-- [Tarantool Queue](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
-- [Thumper](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
-- [Enqueue](https://github.com/php-enqueue/enqueue-dev) - A message queue packages for PHP that supports RabbitMQ, AMQP, STOMP, Amazon SQS, Redis and Doctrine transports.
 
 ### Search
 *Libraries and software for indexing and performing search queries on data.*
