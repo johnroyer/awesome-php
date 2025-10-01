@@ -40,7 +40,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Migrations](#migrations)
   - [NoSQL](#nosql)
   - [Queue](#queue)
   - [Search](#search)
@@ -146,6 +145,11 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [RedBean](https://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
 - [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 - [Spot2](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
+- [Doctrine Migrations](https://www.doctrine-project.org/projects/migrations.html) - A migration library for Doctrine.
+- [Migrations](https://github.com/icomefromthenet/Migrations) - A migration management library.
+- [Phinx](https://github.com/cakephp/phinx) - Another database migration library.
+- [PHPMig](https://github.com/davedevelopment/phpmig) - Another migration management library.
+- [Ruckusing](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
 
 #### Date and Time
 
@@ -480,15 +484,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Migrations
-Libraries to help manage database schemas and migrations.
-
-- [Doctrine Migrations](https://www.doctrine-project.org/projects/migrations.html) - A migration library for Doctrine.
-- [Migrations](https://github.com/icomefromthenet/Migrations) - A migration management library.
-- [Phinx](https://github.com/cakephp/phinx) - Another database migration library.
-- [PHPMig](https://github.com/davedevelopment/phpmig) - Another migration management library.
-- [Ruckusing](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
 
 ### NoSQL
 *Libraries for working with "NoSQL" backends.*
