@@ -24,6 +24,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Image](#image)
     - [JSON](#json)
     - [Logging](#logging)
+    - [Math](#math)
     - [Middleware](#middleware)
     - [Navigation](#navigation)
     - [Office](#office)
@@ -47,7 +48,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Numbers](#numbers)
   - [Filtering, Sanitizing and Validation](#filtering-sanitizing-and-validation)
   - [API](#api)
   - [Caching and Locking](#caching-and-locking)
@@ -163,6 +163,9 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 - [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
 - [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colors.
+- [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
+- [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
+- [ByteUnits](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
 
 #### Database
 
@@ -303,6 +306,12 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 - [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
 
+#### Math
+
+- [Brick Math](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
+- [MathPHP](https://github.com/markrogoyski/math-php) - A math library for PHP.
+- [DecimalObject](https://github.com/php-collective/decimal-object) - A value object to handle decimals/floats easily and more precisely.
+
 #### Middleware
 
 - [PSR-15 Middlewares](https://github.com/middlewares/psr15-middlewares) - Inspiring collection of handy middlewares.
@@ -310,10 +319,15 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
 - [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
 
-### Navigation
+#### Navigation
 
 - [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
 - [Menu](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
+
+#### Network
+
+- [IP](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
+- [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
 
 #### Office
 
@@ -576,18 +590,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Numbers
-*Libraries for working with numbers.*
-
-- [Brick Math](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
-- [ByteUnits](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
-- [DecimalObject](https://github.com/php-collective/decimal-object) - A value object to handle decimals/floats easily and more precisely.
-- [IP](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
-- [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
-- [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
-- [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
-- [MathPHP](https://github.com/markrogoyski/math-php) - A math library for PHP.
 
 ### Filtering, Sanitizing and Validation
 *Libraries for filtering, sanitizing and validating data.*
