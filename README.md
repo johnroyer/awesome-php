@@ -5,6 +5,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
   - [Library](#library)
+    - [Authentication](#authentication)
     - [Code Quality](#code-quality)
     - [Console Tool](#console-tool)
     - [Continuous Integration (CI)](#continuous-integration-ci)
@@ -43,7 +44,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Authentication and Authorization](#authentication-and-authorization)
   - [Markup and CSS](#markup-and-css)
   - [JSON](#json)
   - [Strings](#strings)
@@ -88,6 +88,22 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Package Repository](#package-repository)
 
 ### Library
+
+#### Authentication
+
+- [Aura.Auth](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
+- [SocialConnect Auth](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
+- [Json Web Token](https://github.com/lcobucci/jwt) - Json Tokens to authenticate and transmit information.
+- [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
+- [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
+- [OAuth2 Server](https://bshaffer.github.io/oauth2-server-php-docs/) - Another OAuth2 server implementation.
+- [OAuth2 Server](https://oauth2.thephpleague.com/) - An OAuth2 authentication server, resource server and client library.
+- [Opauth](https://github.com/opauth/opauth) - A multi-provider authentication framework.
+- [Paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens.
+- [PHP oAuthLib](https://github.com/daviddesberg/PHPoAuthLib) - Another OAuth library.
+- [Sentinel Social](https://cartalyst.com/manual/sentinel-social/2.0) - A library for social network authentication.
+- [Sentinel](https://cartalyst.com/manual/sentinel/2.0) - A framework agnostic authentication & authorisation library.
+- [TwitterOAuth](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
 
 #### Code Quality
 
@@ -516,23 +532,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Authentication and Authorization
-*Libraries for implementing user authentication and authorization.*
-
-- [Aura.Auth](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
-- [SocialConnect Auth](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
-- [Json Web Token](https://github.com/lcobucci/jwt) - Json Tokens to authenticate and transmit information.
-- [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
-- [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
-- [OAuth2 Server](https://bshaffer.github.io/oauth2-server-php-docs/) - Another OAuth2 server implementation.
-- [OAuth2 Server](https://oauth2.thephpleague.com/) - An OAuth2 authentication server, resource server and client library.
-- [Opauth](https://github.com/opauth/opauth) - A multi-provider authentication framework.
-- [Paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens.
-- [PHP oAuthLib](https://github.com/daviddesberg/PHPoAuthLib) - Another OAuth library.
-- [Sentinel Social](https://cartalyst.com/manual/sentinel-social/2.0) - A library for social network authentication.
-- [Sentinel](https://cartalyst.com/manual/sentinel/2.0) - A framework agnostic authentication & authorisation library.
-- [TwitterOAuth](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
 
 ### Markup and CSS
 *Libraries for working with markup and CSS formats.*
