@@ -6,6 +6,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Awesome PHP](#awesome-php)
   - [Library](#library)
     - [Code Quality](#code-quality)
+    - [Console](#console)
     - [Continuous Integration (CI)](#continuous-integration-ci)
     - [Crawler](#crawler)
     - [Database](#database)
@@ -42,7 +43,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Command Line](#command-line)
   - [Authentication and Authorization](#authentication-and-authorization)
   - [Markup and CSS](#markup-and-css)
   - [JSON](#json)
@@ -112,6 +112,19 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
 - [UBench](https://github.com/devster/ubench) - A simple micro-benchmark library.
 
+#### Console
+
+- [Aura.Cli](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
+- [Cilex](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
+- [CLI Menu](https://github.com/php-school/cli-menu) - A library for building CLI menus.
+- [CLIFramework](https://github.com/c9s/CLIFramework) - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
+- [CLImate](https://github.com/thephpleague/climate) - A library for outputting colors and special formatting.
+- [Commando](https://github.com/nategood/commando) - Another simple command line opt parser.
+- [Cron Expression](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
+- [GetOpt](https://github.com/getopt-php/getopt-php) - A command line opt parser.
+- [GetOptionKit](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
+- [PsySH](https://github.com/bobthecow/psysh) - Another PHP REPL.
+- [ShellWrap](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
 
 #### Continuous Integration (CI)
 
@@ -503,21 +516,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Command Line
-*Libraries related to the command line.*
-
-- [Aura.Cli](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
-- [Cilex](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
-- [CLI Menu](https://github.com/php-school/cli-menu) - A library for building CLI menus.
-- [CLIFramework](https://github.com/c9s/CLIFramework) - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
-- [CLImate](https://github.com/thephpleague/climate) - A library for outputting colors and special formatting.
-- [Commando](https://github.com/nategood/commando) - Another simple command line opt parser.
-- [Cron Expression](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
-- [GetOpt](https://github.com/getopt-php/getopt-php) - A command line opt parser.
-- [GetOptionKit](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
-- [PsySH](https://github.com/bobthecow/psysh) - Another PHP REPL.
-- [ShellWrap](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
 
 ### Authentication and Authorization
 *Libraries for implementing user authentication and authorization.*
