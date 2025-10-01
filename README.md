@@ -75,6 +75,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Editor and IDE](#editor-and-ide)
     - [Virtual Machines](#virtual-machines)
     - [Web Application](#web-aplication)
+    - [Utility](#utility)
   - [Resources](#resources)
     - [Web Service](#web-service)
     - [Tutorial / Learning](#tutorial-learning)
@@ -166,6 +167,8 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 - [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
 - [ByteUnits](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
+- [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
+- [Jane](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
 
 #### Database
 
@@ -218,6 +221,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [phpDocumentor](https://phpdoc.org/) - A documentation generator.
 - [phpDox](https://phpdox.net/) - A documentation generator for PHP projects (that is not limited to API documentation).
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
+- [Drest](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
 
 #### Email
 
@@ -301,6 +305,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 - [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 - [JSONMapper](https://github.com/JsonMapper/JsonMapper) - A library for mapping JSON to PHP objects.
+- [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
 
 #### Logging
 
@@ -358,6 +363,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
 - [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 - [Symfony HTML Sanitizer](https://github.com/symfony/html-sanitizer) - An HTML sanitizer library.
+- [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
 
 #### PDF
 
@@ -607,19 +613,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
 
-### API
-*Libraries and web tools for developing APIs.*
-
-- [API Platform](https://api-platform.com ) - Expose in minutes a hypermedia REST API that embraces JSON-LD, Hydra format.
-- [Laminas API Tool Skeleton](https://github.com/laminas-api-tools/api-tools-skeleton) - An API builder built with the Laminas Framework.
-- [Drest](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
-- [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
-- [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
-- [Jane](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
-- [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
-- [Restler](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
-- [PackageGenerator](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
-
 ### Caching and Locking
 *Libraries for caching data and acquiring locks.*
 
@@ -784,6 +777,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [php-pm](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
 - [RoadRunner](https://github.com/roadrunner-server/roadrunner) - High-performance PHP application server, load-balancer and process manager.
 - [FrankenPHP](https://github.com/php/frankenphp) - The modern PHP app server written in Golang (MIT)
+- [Restler](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
 
 ### Editor and IDE
 
@@ -792,6 +786,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [PhpEd](https://www.nusphere.com/products/phped.htm) - An IDE with professional commercial debugger.
 - [PhpStorm](https://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
 - [VS Code](https://code.visualstudio.com/) - An open source code editor.
+- [Laminas API Tool Skeleton](https://github.com/laminas-api-tools/api-tools-skeleton) - An API builder built with the Laminas Framework.
 
 ### Virtual Machines
 
@@ -812,7 +807,11 @@ Parser and renderer for HTML, CSS, Markdown
 - [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - A simple web interface to manage [Redis](https://redis.io/) databases.
 - [PHPSandbox](https://phpsandbox.io) - An online IDE for PHP in the browser.
 
-# Resources
+### Utility
+
+- [PackageGenerator](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
+
+## Resources
 Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
 
 ### Web Service
@@ -829,6 +828,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 - [Sentry](https://sentry.io/welcome/) - Application Performance Monitoring & Error Tracking Software.
 - [Tideways](https://tideways.com/) - Monitoring and profiling tool.
 - [Bldr](https://bldr.io/) - A PHP Task runner built on Symfony components.
+- [API Platform](https://api-platform.com ) - Expose in minutes a hypermedia REST API that embraces JSON-LD, Hydra format.
 
 ### Tutorial / Learning
 *Useful PHP-related websites.*
