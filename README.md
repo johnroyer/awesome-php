@@ -40,7 +40,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [NoSQL](#nosql)
   - [Queue](#queue)
   - [Search](#search)
   - [Command Line](#command-line)
@@ -150,6 +149,9 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Phinx](https://github.com/cakephp/phinx) - Another database migration library.
 - [PHPMig](https://github.com/davedevelopment/phpmig) - Another migration management library.
 - [Ruckusing](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
+- [MongoDB](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
+- [PHPMongo](https://github.com/sokil/php-mongo) - A MongoDB ORM.
+- [Predis](https://github.com/predis/predis) - A feature-complete Redis library.
 
 #### Date and Time
 
@@ -484,13 +486,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### NoSQL
-*Libraries for working with "NoSQL" backends.*
-
-- [MongoDB](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
-- [PHPMongo](https://github.com/sokil/php-mongo) - A MongoDB ORM.
-- [Predis](https://github.com/predis/predis) - A feature-complete Redis library.
 
 ### Queue
 *Libraries for working with event and task queues.*
