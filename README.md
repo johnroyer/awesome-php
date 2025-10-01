@@ -6,7 +6,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Awesome PHP](#awesome-php)
   - [Library](#library)
     - [Code Quality](#code-quality)
-    - [Console](#console)
+    - [Console Tool](#console-tool)
     - [Continuous Integration (CI)](#continuous-integration-ci)
     - [Crawler](#crawler)
     - [Database](#database)
@@ -112,7 +112,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
 - [UBench](https://github.com/devster/ubench) - A simple micro-benchmark library.
 
-#### Console
+#### Console Tool
 
 - [Aura.Cli](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
 - [Cilex](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
