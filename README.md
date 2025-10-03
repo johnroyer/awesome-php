@@ -29,6 +29,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Math](#math)
     - [Middleware](#middleware)
     - [Navigation](#navigation)
+    - [Notifications](#notifications)
     - [Office](#office)
     - [PDF](#pdf)
     - [Queue](#queue)
@@ -51,7 +52,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Notifications](#notifications)
   - [Deployment](#deployment)
   - [Internationalisation and Localisation](#internationalisation-and-localisation)
   - [Serverless](#serverless)
@@ -105,7 +105,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Sentinel](https://cartalyst.com/manual/sentinel/2.0) - A framework agnostic authentication & authorisation library.
 - [TwitterOAuth](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
 
-### Cache
+#### Cache
 
 - [APIx Cache](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasizing cache tagging and indexing.
 - [CacheTool](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
@@ -352,6 +352,15 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 - [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
 - [Menu](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
+
+#### Notifications
+*Libraries for working with notification software.*
+
+- [JoliNotif](https://github.com/jolicode/JoliNotif) - A cross-platform library for desktop notification (support for Growl, notify-send, toaster, etc)
+- [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - A standalone library for device push notifications.
+- [Notificato](https://github.com/mac-cain13/notificato) - A library for handling push notifications.
+- [Notificator](https://github.com/namshi/notificator) - A lightweight notification library.
+- [Php-pushwoosh](https://github.com/gomoob/php-pushwoosh) - A PHP Library to easily send push notifications with the Pushwoosh REST Web Services.
 
 #### Network
 
@@ -637,15 +646,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Notifications
-*Libraries for working with notification software.*
-
-- [JoliNotif](https://github.com/jolicode/JoliNotif) - A cross-platform library for desktop notification (support for Growl, notify-send, toaster, etc)
-- [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - A standalone library for device push notifications.
-- [Notificato](https://github.com/mac-cain13/notificato) - A library for handling push notifications.
-- [Notificator](https://github.com/namshi/notificator) - A lightweight notification library.
-- [Php-pushwoosh](https://github.com/gomoob/php-pushwoosh) - A PHP Library to easily send push notifications with the Pushwoosh REST Web Services.
 
 ### Deployment
 *Libraries for project deployment.*
