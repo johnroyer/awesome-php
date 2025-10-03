@@ -48,6 +48,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Testing](#testing)
     - [URL](#url)
     - [Validator](#validator)
+    - [Video](#video)
     - [Misc](#misc)
   - [Frameworks](#frameworks)
   - [Extensions](#extensions)
@@ -297,7 +298,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [CSV](https://github.com/thephpleague/csv) - A CSV data manipulation library.
 - [Flysystem](https://github.com/thephpleague/Flysystem) - Abstraction for local and remote filesystems.
 - [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
-- [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
 - [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 - [Parquet](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
 
@@ -582,6 +582,10 @@ Parser and renderer for HTML, CSS, Markdown
 - [JSON Schema](https://github.com/jsonrainbow/json-schema) - A [JSON Schema](https://json-schema.org/) validation library.
 - [Respect Validation](https://github.com/Respect/Validation) - A simple validation library.
 - [Valinor](https://github.com/CuyZ/Valinor) - A library for mapping to strongly typed value objects.
+
+#### Video
+
+- [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
 
 #### Misc
 
