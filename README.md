@@ -672,6 +672,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Sulu](https://sulu.io/) - A user and developer friendly focused CMS and Platform based on the Symfony Framework.
 - [TYPO3](https://typo3.org) - An enterprise level CMS.
 - [WordPress](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
+- [MediaWiki](https://github.com/wikimedia/mediawiki) - collaborative editing software that runs Wikipedia (GPLv2)
 
 #### E-commerce
 
