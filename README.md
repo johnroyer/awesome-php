@@ -619,7 +619,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
 - [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 
-### Frameworks
+### Framework
 *Web development frameworks.*
 
 - [CakePHP](https://cakephp.org/) - A rapid application development framework.
