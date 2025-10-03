@@ -50,13 +50,13 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Validator](#validator)
     - [Misc](#misc)
   - [Frameworks](#frameworks)
+  - [Extensions](#extensions)
   - [Platforms](#platforms)
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [E-commerce](#e-commerce)
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Extensions](#extensions)
   - [Miscellaneous](#miscellaneous)
   - [Development Environment](#development-environment)
   - [Virtual Machines](#virtual-machines)
@@ -641,6 +641,12 @@ Parser and renderer for HTML, CSS, Markdown
 - [LaravelS](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
 - [Livewire](https://livewire.laravel.com/) - Powerful, dynamic, front-end UIs without leaving PHP.
 
+### Extensions
+*Libraries to help build PHP extensions.*
+
+- [PHP CPP](https://www.php-cpp.com/) - A C++ library for developing PHP extensions.
+- [Zephir](https://github.com/zephir-lang/zephir ) - A compiled language between PHP and C++ for developing PHP extensions.
+
 ### Platforms
 
 #### Content Management Systems (CMS)
@@ -685,12 +691,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Extensions
-*Libraries to help build PHP extensions.*
-
-- [PHP CPP](https://www.php-cpp.com/) - A C++ library for developing PHP extensions.
-- [Zephir](https://github.com/zephir-lang/zephir ) - A compiled language between PHP and C++ for developing PHP extensions.
 
 ### Miscellaneous
 *Useful libraries or utilities that don't fit into the categories above.*
