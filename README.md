@@ -28,7 +28,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [HTTP](#http)
     - [Image](#image)
     - [JSON](#json)
-    - [LLM](#llm)
     - [Logging](#logging)
     - [Math](#math)
     - [Middleware](#middleware)
@@ -57,7 +56,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Third Party APIs](#third-party-apis)
   - [Extensions](#extensions)
   - [Miscellaneous](#miscellaneous)
   - [Development Environment](#development-environment)
@@ -333,7 +331,6 @@ Include internationalization (I18n), localization (L10n) and translation
 - [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
 - [Symfony HTTP Client](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
 - [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
-
 #### Image
 
 - [Color Extractor](https://github.com/thephpleague/color-extractor) - A library for extracting colours from images.
@@ -350,15 +347,6 @@ Include internationalization (I18n), localization (L10n) and translation
 - [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 - [JSONMapper](https://github.com/JsonMapper/JsonMapper) - A library for mapping JSON to PHP objects.
 - [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
-
-### LLM
-
-- [Instructor for PHP](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
-- [LLPhant](https://github.com/LLPhant/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
-- [OpenAI Client](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
-- [OpenAI Client for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
-- [PHP Mistral AI SDK](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
-- [Jieba-PHP](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
 
 #### Logging
 
@@ -614,6 +602,20 @@ Parser and renderer for HTML, CSS, Markdown
 - [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
 - [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
 - [Lock](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
+- [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
+- [AsyncAWS](https://async-aws.com/) - An unofficial asynchronous PHP AWS SDK.
+- [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
+- [Github](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
+- [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
+- [Square](https://github.com/square/connect-php-sdk) - The official Square PHP SDK for payments and other Square APIs.
+- [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
+- [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
+- [Instructor for PHP](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
+- [LLPhant](https://github.com/LLPhant/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
+- [OpenAI Client](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
+- [OpenAI Client for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
+- [PHP Mistral AI SDK](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
+- [Jieba-PHP](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
 
 ### Frameworks
 *Web development frameworks.*
@@ -683,18 +685,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Third Party APIs
-*Libraries for accessing third party APIs.*
-
-- [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
-- [AsyncAWS](https://async-aws.com/) - An unofficial asynchronous PHP AWS SDK.
-- [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
-- [Github](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
-- [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
-- [Square](https://github.com/square/connect-php-sdk) - The official Square PHP SDK for payments and other Square APIs.
-- [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
-- [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
 
 ### Extensions
 *Libraries to help build PHP extensions.*
