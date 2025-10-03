@@ -659,6 +659,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal).
 - [Concrete5](https://www.concretecms.com/) - A CMS targeting users with a minimum of technical skills.
 - [CraftCMS](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
+- [Dolibarr](https://github.com/Dolibarr/dolibarr) - a modern software package to manage your company or foundation's activity (GPLv3)
 - [Drupal](https://new.drupal.org/home) - An enterprise level CMS.
 - [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 - [Joomla](https://www.joomla.org/) - Another leading CMS.
