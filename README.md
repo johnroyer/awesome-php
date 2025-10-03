@@ -54,6 +54,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Platforms](#platforms)
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [E-commerce](#e-commerce)
+    - [ERP / CRM](#erp--crm)
     - [File Server](#file-server)
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
@@ -664,7 +665,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal).
 - [Concrete5](https://www.concretecms.com/) - A CMS targeting users with a minimum of technical skills.
 - [CraftCMS](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
-- [Dolibarr](https://github.com/Dolibarr/dolibarr) - a modern software package to manage your company or foundation's activity (GPLv3)
 - [Drupal](https://new.drupal.org/home) - An enterprise level CMS.
 - [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 - [Joomla](https://www.joomla.org/) - Another leading CMS.
@@ -689,6 +689,11 @@ Parser and renderer for HTML, CSS, Markdown
 - [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
 - [Swap](https://github.com/florianv/swap) - An exchange rates library.
 - [Sylius](https://sylius.com/) - An open source e-commerce solution.
+
+#### ERP / CRM
+
+- [Dolibarr](https://github.com/Dolibarr/dolibarr) - a modern software package to manage your company or foundation's activity (GPLv3)
+- [Monica](https://github.com/monicahq/monica) - personal CRM. Remember everything about your friends, family and business relationships (AGPLv3)
 
 #### File Server
 
