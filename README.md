@@ -134,7 +134,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [UBench](https://github.com/devster/ubench) - A simple micro-benchmark library.
 
 ## Configuration
-*Libraries and tools for configuration.*
 
 - [PHP Dotenv](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
 - [Symfony Dotenv](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
@@ -182,7 +181,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Jane](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
 
 ### Data Structure and Storage
-*Libraries that implement data structure or storage techniques.*
 
 - [CakePHP Collection](https://github.com/cakephp/collection) - A simple collections library.
 - [Fractal](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
@@ -231,7 +229,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Yasumi](https://github.com/azuyalabs/yasumi) - A library to help you calculate the dates and names of holidays.
 
 #### Deployment
-*Libraries for project deployment.*
 
 - [Deployer](https://github.com/deployphp/deployer) - A deployment tool.
 - [Rocketeer](https://github.com/rocketeers/rocketeer) - A fast and easy deployer for the PHP world.
@@ -371,7 +368,6 @@ Include internationalization (I18n), localization (L10n) and translation
 - [Menu](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
 
 #### Notifications
-*Libraries for working with notification software.*
 
 - [JoliNotif](https://github.com/jolicode/JoliNotif) - A cross-platform library for desktop notification (support for Growl, notify-send, toaster, etc)
 - [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - A standalone library for device push notifications.
@@ -521,7 +517,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Streamer](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
 
 #### Task Runner and Scheduler
-*Libraries for automating and running tasks.*
 
 - [Jobby](https://github.com/jobbyphp/jobby) - A PHP cron job manager without modifying crontab.
 - [Robo](https://github.com/consolidation/Robo) - A PHP Task runner with object-orientated configurations.
@@ -765,7 +760,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Toran Proxy](https://toranproxy.com) - A Composer proxy for speed and reliability. (:warning: Toran Proxy is being phased out.)
 
 ### PHP Installation
-*Tools to help install and manage PHP on your computer.*
 
 - [Brew PHP Switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher.
 - [HomeBrew](https://brew.sh/) - A package manager for OSX.
@@ -815,7 +809,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [PackageGenerator](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
 
 ## Resources
-Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
 
 ### Web Service
 
@@ -834,7 +827,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 - [API Platform](https://api-platform.com ) - Expose in minutes a hypermedia REST API that embraces JSON-LD, Hydra format.
 
 ### Tutorial / Learning
-*Useful PHP-related websites.*
 
 - [Design Patterns PHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP ) - A repository of software patterns implemented in PHP.
 - [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
@@ -850,7 +842,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 - [PHP Internals Book](https://www.phpinternalsbook.com/) - An online book about PHP internals, written by three core developers.
 
 ### Books
-*Fantastic PHP-related books.*
 
 - [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Real examples written in PHP showcasing DDD Architectural Styles.
 - [Functional Programming in PHP](https://www.functionalphp.com/) - This book will show you how to leverage these new PHP5.3+ features by understanding functional programming principles
@@ -864,7 +855,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 - [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) - This book covers parsing and validating XML documents, leveraging XPath expressions, and working with namespaces as well as how to create and modify XML files programmatically.
 
 ### Videos
-*Fantastic PHP-related videos.*
 
 - [Laracasts](https://laracasts.com) - Screencasts about Laravel, Vue JS and more.
 - [Laravel YouTube Channel](https://www.youtube.com/channel/UCfO2GiQwb-cwJTb1CuRSkwg) - The official Laravel YouTube channel.
@@ -873,14 +863,12 @@ Various resources, such as books, websites and articles, for improving your PHP 
 - [SymfonyCasts](https://symfonycasts.com/) - Screencasts and tutorials about PHP and Symfony.
 
 ### Conferences
-*PHP conferences.*
 
 - [Laracon EU](https://www.youtube.com/@LaraconEU) - Laracon EU is a 2-day event for people who are interested in learning Laravel and related technologies, or who want to share their knowledge with others.
 - [PHP[TEK]](https://phptek.io/) - The longest-running web developer conference in the United States that has a focus on the PHP programming language.
 - [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
 
 ### Podcasts
-*Podcasts with a focus on PHP topics.*
 
 - [Laravel News Podcast](https://podcast.laravel-news.com/) - The Laravel News Podcast brings you all the latest news and events related to the Laravel PHP Framework.
 - [Mostly Technical](https://mostlytechnical.com/) - Hosted by Ian Landsman and Aaron Francis, Mostly Technical is a lively discussion on Laravel, business, and an eclectic mix of related topics.
@@ -896,17 +884,14 @@ Various resources, such as books, websites and articles, for improving your PHP 
 - [The PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 
 ### Newsletters
-*PHP-related news directly to your inbox.*
 
 - [PHP Weekly](https://www.phpweekly.com/) - A weekly newsletter about PHP.
 
 ### Reading
-*PHP-related reading materials.*
 
 - [php[architect]](https://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.
 
 ### Internals Reading
-*Reading materials related to the PHP internals or performance.*
 
 - [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (Request for Comments).
 - [Externals](https://externals.io/) - PHP internal discussions.
