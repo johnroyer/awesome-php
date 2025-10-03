@@ -649,6 +649,7 @@ Parser and renderer for HTML, CSS, Markdown
 ### Extensions
 
 - [PHP CPP](https://www.php-cpp.com/) - A C++ library for developing PHP extensions.
+- [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension. (MIT)
 - [Zephir](https://github.com/zephir-lang/zephir ) - A compiled language between PHP and C++ for developing PHP extensions.
 - [Swoole](https://github.com/swoole/swoole-src) - Coroutine-based concurrency library for PHP (Apache)
 - [ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust (Apache / MIT)
