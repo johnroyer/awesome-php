@@ -52,6 +52,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Frameworks](#frameworks)
   - [Extensions](#extensions)
   - [Platforms](#platforms)
+    - [Analytics](#analytics)
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [E-commerce](#e-commerce)
     - [ERP / CRM](#erp--crm)
@@ -659,6 +660,10 @@ Parser and renderer for HTML, CSS, Markdown
 - [ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust (Apache / MIT)
 
 ### Platforms
+
+#### Analytics
+
+- [Matomo](https://github.com/matomo-org/matomo) - leading open-source alternative to Google Analytics (GPLv3)
 
 #### Content Management Systems (CMS)
 
