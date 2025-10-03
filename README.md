@@ -6,6 +6,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Awesome PHP](#awesome-php)
   - [Library](#library)
     - [Authentication](#authentication)
+    - [Cache](#cache)
     - [Code Quality](#code-quality)
     - [Console Tool](#console-tool)
     - [Continuous Integration (CI)](#continuous-integration-ci)
@@ -49,7 +50,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Caching and Locking](#caching-and-locking)
   - [Data Structure and Storage](#data-structure-and-storage)
   - [Notifications](#notifications)
   - [Deployment](#deployment)
@@ -104,6 +104,17 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Sentinel Social](https://cartalyst.com/manual/sentinel-social/2.0) - A library for social network authentication.
 - [Sentinel](https://cartalyst.com/manual/sentinel/2.0) - A framework agnostic authentication & authorisation library.
 - [TwitterOAuth](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
+
+### Cache
+
+- [APIx Cache](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasizing cache tagging and indexing.
+- [CacheTool](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
+- [CakePHP Cache](https://github.com/cakephp/cache) - A caching library.
+- [Doctrine Cache](https://github.com/doctrine/cache) - A caching library.
+- [Metaphore](https://github.com/sobstel/metaphore) - Cache slam defense using a semaphore to prevent dogpile effect.
+- [Stash](https://github.com/tedious/Stash) - Another library for caching.
+- [Laminas Cache](https://github.com/laminas/laminas-cache) - Another caching library.
+- [Lock](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
 
 #### Code Quality
 
@@ -611,18 +622,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Caching and Locking
-*Libraries for caching data and acquiring locks.*
-
-- [APIx Cache](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasizing cache tagging and indexing.
-- [CacheTool](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
-- [CakePHP Cache](https://github.com/cakephp/cache) - A caching library.
-- [Doctrine Cache](https://github.com/doctrine/cache) - A caching library.
-- [Metaphore](https://github.com/sobstel/metaphore) - Cache slam defense using a semaphore to prevent dogpile effect.
-- [Stash](https://github.com/tedious/Stash) - Another library for caching.
-- [Laminas Cache](https://github.com/laminas/laminas-cache) - Another caching library.
-- [Lock](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
 
 ### Data Structure and Storage
 *Libraries that implement data structure or storage techniques.*
