@@ -639,6 +639,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - A skeleton for Slim.
 - [Slim Twig View](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
 - [Slim PHP View](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
+- [Symfony](https://github.com/symfony/symfony) - for web and console applications and a set of reusable PHP components (MIT)
 - [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 - [LaravelS](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
 - [Livewire](https://livewire.laravel.com/) - Powerful, dynamic, front-end UIs without leaving PHP.
