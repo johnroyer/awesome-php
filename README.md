@@ -620,7 +620,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 
 ### Framework
-*Web development frameworks.*
 
 - [CakePHP](https://cakephp.org/) - A rapid application development framework.
 - [CodeIgniter](https://codeigniter.com/) - A powerful PHP framework with a very small footprint.
