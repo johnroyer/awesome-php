@@ -708,6 +708,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities (MIT)
 - [MyBB](https://github.com/mybb/mybb) - free and open source forum software (LGPLv3)
 - [phpBB](https://github.com/phpbb/phpbb) - a popular open-source bulletin board (GPLv2)
+- [Vanilla](https://github.com/vanilla/vanilla) - powerfully simple discussion forum you can easily customize to make as unique as your community (GPLv2)
 
 #### Photo and Video
 
