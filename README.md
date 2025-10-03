@@ -49,7 +49,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [API](#api)
   - [Caching and Locking](#caching-and-locking)
   - [Data Structure and Storage](#data-structure-and-storage)
   - [Notifications](#notifications)
