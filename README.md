@@ -640,12 +640,13 @@ Parser and renderer for HTML, CSS, Markdown
 - [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 - [LaravelS](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
 - [Livewire](https://livewire.laravel.com/) - Powerful, dynamic, front-end UIs without leaving PHP.
+- [Swoole](https://github.com/swoole/swoole-src) - Coroutine-based concurrency library for PHP (Apache)
 
 ### Extensions
-*Libraries to help build PHP extensions.*
 
 - [PHP CPP](https://www.php-cpp.com/) - A C++ library for developing PHP extensions.
 - [Zephir](https://github.com/zephir-lang/zephir ) - A compiled language between PHP and C++ for developing PHP extensions.
+- [Swoole](https://github.com/swoole/swoole-src) - Coroutine-based concurrency library for PHP (Apache)
 
 ### Platforms
 
