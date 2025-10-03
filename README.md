@@ -772,6 +772,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [PHP Brew](https://github.com/phpbrew/phpbrew) - A PHP version manager and installer.
 - [PHP Build](https://github.com/php-build/php-build) - Another PHP version installer.
 - [Static PHP CLI](https://github.com/crazywhalecc/static-php-cli) - Build or [download](https://dl.static-php.dev/static-php-cli/) static versions of PHP CLI and FPM.
+- [PCEL](https://pecl.php.net/) - repository for PHP Extensions, providing a directory of all known extensions
 
 ### Server
 
