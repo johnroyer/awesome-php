@@ -114,7 +114,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Metaphore](https://github.com/sobstel/metaphore) - Cache slam defense using a semaphore to prevent dogpile effect.
 - [Stash](https://github.com/tedious/Stash) - Another library for caching.
 - [Laminas Cache](https://github.com/laminas/laminas-cache) - Another caching library.
-- [Lock](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
 
 #### Code Quality
 
@@ -553,6 +552,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Device Detector](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
 - [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
 - [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
+- [Lock](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
 
 ### Frameworks
 *Web development frameworks.*
