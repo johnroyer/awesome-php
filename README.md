@@ -8,6 +8,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Authentication](#authentication)
     - [Cache](#cache)
     - [Code Quality](#code-quality)
+    - [Configuration](#configuration)
     - [Console Tool](#console-tool)
     - [Continuous Integration (CI)](#continuous-integration-ci)
     - [Convertor](#convertor)
@@ -55,7 +56,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Configuration](#configuration)
   - [LLMs](#llms)
   - [Third Party APIs](#third-party-apis)
   - [Extensions](#extensions)
@@ -137,6 +137,13 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Rector](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
 - [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
 - [UBench](https://github.com/devster/ubench) - A simple micro-benchmark library.
+
+## Configuration
+*Libraries and tools for configuration.*
+
+- [PHP Dotenv](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
+- [Symfony Dotenv](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
+- [Yo! Symfony TOML](https://github.com/yosymfony/toml) - A PHP parser for [TOML](https://github.com/toml-lang/toml).
 
 #### Console Tool
 
@@ -667,13 +674,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-## Configuration
-*Libraries and tools for configuration.*
-
-- [PHP Dotenv](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
-- [Symfony Dotenv](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
-- [Yo! Symfony TOML](https://github.com/yosymfony/toml) - A PHP parser for [TOML](https://github.com/toml-lang/toml).
 
 ### LLMs
 *Libraries for working with Large Language Models.*
