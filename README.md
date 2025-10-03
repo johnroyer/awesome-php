@@ -54,6 +54,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
   - [Platforms](#platforms)
     - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [E-commerce](#e-commerce)
+    - [File Server](#file-server)
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
@@ -687,6 +688,10 @@ Parser and renderer for HTML, CSS, Markdown
 - [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
 - [Swap](https://github.com/florianv/swap) - An exchange rates library.
 - [Sylius](https://sylius.com/) - An open source e-commerce solution.
+
+#### File Server
+
+- [NextCloud](https://github.com/nextcloud/server) - safe home for all your data (AGPLv3)
 
 #### Forum
 
