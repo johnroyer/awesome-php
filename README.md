@@ -623,6 +623,7 @@ Parser and renderer for HTML, CSS, Markdown
 
 - [CakePHP](https://cakephp.org/) - A rapid application development framework.
 - [CodeIgniter](https://codeigniter.com/) - A powerful PHP framework with a very small footprint.
+- [FuelPHP](https://github.com/fuel/fuel) - simple, flexible, community driven PHP 5.3+ (MIT)
 - [Laminas](https://getlaminas.org/) - A framework comprised of individual components (previously Zend Framework).
 - [Laravel](https://laravel.com/) - A web application framework with expressive, elegant syntax.
 - [Nette](https://nette.org) - A web framework comprised of mature components.
