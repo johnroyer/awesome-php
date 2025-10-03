@@ -12,6 +12,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Continuous Integration (CI)](#continuous-integration-ci)
     - [Convertor](#convertor)
     - [Crawler](#crawler)
+    - [Data Structure](#data-structure)
     - [Database](#database)
     - [Date and Time](#date-and-time)
     - [Dependency Injection](#dependency-injection)
@@ -50,7 +51,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Data Structure and Storage](#data-structure-and-storage)
   - [Notifications](#notifications)
   - [Deployment](#deployment)
   - [Internationalisation and Localisation](#internationalisation-and-localisation)
@@ -178,6 +178,21 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [ByteUnits](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
 - [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 - [Jane](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
+
+### Data Structure and Storage
+*Libraries that implement data structure or storage techniques.*
+
+- [CakePHP Collection](https://github.com/cakephp/collection) - A simple collections library.
+- [Fractal](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
+- [Ginq](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
+- [JsonMapper](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
+- [JSON Machine](https://github.com/halaxa/json-machine) - Provides iteration over huge JSONs using simple `foreach`
+- [Knapsack](https://github.com/DusanKasan/Knapsack) - Collection library inspired by Clojure's sequences.
+- [msgpack.php](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
+- [PINQ](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
+- [Serializer](https://github.com/schmittjoh/serializer) - A library for serializing and de-serializing data.
+- [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
+- [Laminas Serializer](https://github.com/laminas/laminas-serializer) - Another library for serialising and de-serialising data.
 
 #### Database
 
@@ -622,21 +637,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Data Structure and Storage
-*Libraries that implement data structure or storage techniques.*
-
-- [CakePHP Collection](https://github.com/cakephp/collection) - A simple collections library.
-- [Fractal](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
-- [Ginq](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
-- [JsonMapper](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
-- [JSON Machine](https://github.com/halaxa/json-machine) - Provides iteration over huge JSONs using simple `foreach`
-- [Knapsack](https://github.com/DusanKasan/Knapsack) - Collection library inspired by Clojure's sequences.
-- [msgpack.php](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
-- [PINQ](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
-- [Serializer](https://github.com/schmittjoh/serializer) - A library for serializing and de-serializing data.
-- [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
-- [Laminas Serializer](https://github.com/laminas/laminas-serializer) - Another library for serialising and de-serialising data.
 
 ### Notifications
 *Libraries for working with notification software.*
