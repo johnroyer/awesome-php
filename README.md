@@ -23,6 +23,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Event](#event)
     - [File](#File)
     - [Geolocation](#geolocation)
+    - [Globalization](#globalization)
     - [HTTP](#http)
     - [Image](#image)
     - [JSON](#json)
@@ -53,7 +54,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Internationalisation and Localisation](#internationalisation-and-localisation)
   - [Serverless](#serverless)
   - [Configuration](#configuration)
   - [LLMs](#llms)
@@ -307,6 +307,13 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
 - [GeoTools](https://github.com/thephpleague/geotools) - A library of geo-related tools.
 - [PHPGeo](https://github.com/mjaschen/phpgeo) - A simple geo library.
+
+### Globalization
+
+Include internationalization (I18n), localization (L10n) and translation
+
+- [Aura.Intl](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
+- [CakePHP I18n](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers.
 
 #### HTTP
 
@@ -653,12 +660,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Internationalisation and Localisation
-*Libraries for Internationalization (I18n) and Localization (L10n).*
-
-- [Aura.Intl](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
-- [CakePHP I18n](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers.
 
 ### Serverless
 *Libraries and tools to help build serverless web applications.*
