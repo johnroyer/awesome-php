@@ -28,7 +28,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [HTTP](#http)
     - [Image](#image)
     - [JSON](#json)
-    - [LLMs](#llms)
+    - [LLM](#llm)
     - [Logging](#logging)
     - [Math](#math)
     - [Middleware](#middleware)
@@ -351,7 +351,7 @@ Include internationalization (I18n), localization (L10n) and translation
 - [JSONMapper](https://github.com/JsonMapper/JsonMapper) - A library for mapping JSON to PHP objects.
 - [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
 
-### LLMs
+### LLM
 
 - [Instructor for PHP](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
 - [LLPhant](https://github.com/LLPhant/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
