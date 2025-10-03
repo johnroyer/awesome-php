@@ -39,6 +39,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Router](#router)
     - [Search](#search)
     - [Security](#security)
+    - [Serverless](#serverless)
     - [Static Analysis](#static-analysis)
     - [Stream](#stream)
     - [Task Runner and Scheduler](#task-runner-and-scheduler)
@@ -54,7 +55,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Serverless](#serverless)
   - [Configuration](#configuration)
   - [LLMs](#llms)
   - [Third Party APIs](#third-party-apis)
@@ -487,6 +487,13 @@ Parser and renderer for HTML, CSS, Markdown
 - [phpass](https://www.openwall.com/phpass/) - A portable password hashing framework.
 - [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
 
+#### Serverless
+
+- [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
+- [OpenWhisk](https://openwhisk.apache.org/) - An open-source serverless cloud platform.
+- [Serverless Framework](https://www.serverless.com/framework) - An open-source framework for building serverless applications.
+- [Laravel Vapor](https://vapor.laravel.com/) - A serverless deployment platform for Laravel, powered by AWS.
+
 #### Static Analysis
 
 - [Exakat](https://github.com/exakat/exakat) - A static analysis engine for PHP.
@@ -660,14 +667,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Serverless
-*Libraries and tools to help build serverless web applications.*
-
-- [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
-- [OpenWhisk](https://openwhisk.apache.org/) - An open-source serverless cloud platform.
-- [Serverless Framework](https://www.serverless.com/framework) - An open-source framework for building serverless applications.
-- [Laravel Vapor](https://vapor.laravel.com/) - A serverless deployment platform for Laravel, powered by AWS.
 
 ## Configuration
 *Libraries and tools for configuration.*
