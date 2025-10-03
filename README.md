@@ -57,12 +57,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Miscellaneous](#miscellaneous)
-  - [Development Environment](#development-environment)
-  - [Virtual Machines](#virtual-machines)
-  - [Text Editors and IDEs](#text-editors-and-ides)
-  - [Web Applications](#web-applications)
-  - [Infrastructure](#infrastructure)
   - [Ecosystem](#ecosystem)
     - [Build Tool](#build-tool)
     - [Development Environment](#development-environment)
@@ -198,6 +192,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Serializer](https://github.com/schmittjoh/serializer) - A library for serializing and de-serializing data.
 - [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
 - [Laminas Serializer](https://github.com/laminas/laminas-serializer) - Another library for serialising and de-serialising data.
+- [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
 
 #### Database
 
@@ -257,6 +252,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [phpDox](https://phpdox.net/) - A documentation generator for PHP projects (that is not limited to API documentation).
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
 - [Drest](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
+- [Annotations](https://github.com/doctrine/annotations) - An annotation library (part of Doctrine).
 
 #### Email
 
@@ -490,6 +486,8 @@ Parser and renderer for HTML, CSS, Markdown
 - [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
 - [phpass](https://www.openwall.com/phpass/) - A portable password hashing framework.
 - [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
+- [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
+- [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 
 #### Serverless
 
@@ -616,6 +614,10 @@ Parser and renderer for HTML, CSS, Markdown
 - [OpenAI Client for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
 - [PHP Mistral AI SDK](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
 - [Jieba-PHP](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
+- [Ganesha](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
+- [Hprose-PHP](https://github.com/hprose/hprose-php) - A cross-language RPC.
+- [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
+- [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 
 ### Frameworks
 *Web development frameworks.*
@@ -641,12 +643,14 @@ Parser and renderer for HTML, CSS, Markdown
 - [LaravelS](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
 - [Livewire](https://livewire.laravel.com/) - Powerful, dynamic, front-end UIs without leaving PHP.
 - [Swoole](https://github.com/swoole/swoole-src) - Coroutine-based concurrency library for PHP (Apache)
+- [BotMan](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chatbots.
 
 ### Extensions
 
 - [PHP CPP](https://www.php-cpp.com/) - A C++ library for developing PHP extensions.
 - [Zephir](https://github.com/zephir-lang/zephir ) - A compiled language between PHP and C++ for developing PHP extensions.
 - [Swoole](https://github.com/swoole/swoole-src) - Coroutine-based concurrency library for PHP (Apache)
+- [ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust (Apache / MIT)
 
 ### Platforms
 
@@ -693,19 +697,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
 
-### Miscellaneous
-*Useful libraries or utilities that don't fit into the categories above.*
-
-- [Annotations](https://github.com/doctrine/annotations) - An annotation library (part of Doctrine).
-- [BotMan](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chatbots.
-- [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
-- [Ganesha](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
-- [Hprose-PHP](https://github.com/hprose/hprose-php) - A cross-language RPC.
-- [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
-- [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
-- [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
-- [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
-
 ## Ecosystem
 
 ### Build Tool
@@ -731,6 +722,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Puppet](https://www.puppet.com) - A server automation framework and application.
 - [Takeout](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
 - [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
+- [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
 
 ### Dependency Management
 
