@@ -15,6 +15,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Data Structure](#data-structure)
     - [Database](#database)
     - [Date and Time](#date-and-time)
+    - [Deployment](#deployment)
     - [Dependency Injection](#dependency-injection)
     - [Documentation](#documentation)
     - [Email](#email)
@@ -52,7 +53,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Forum](#forum)
     - [Photo and Video](#photo-and-video)
     - [Static Site Generators](#static-site-generators)
-  - [Deployment](#deployment)
   - [Internationalisation and Localisation](#internationalisation-and-localisation)
   - [Serverless](#serverless)
   - [Configuration](#configuration)
@@ -226,6 +226,12 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Chronos](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
 - [Moment.php](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
 - [Yasumi](https://github.com/azuyalabs/yasumi) - A library to help you calculate the dates and names of holidays.
+
+#### Deployment
+*Libraries for project deployment.*
+
+- [Deployer](https://github.com/deployphp/deployer) - A deployment tool.
+- [Rocketeer](https://github.com/rocketeers/rocketeer) - A fast and easy deployer for the PHP world.
 
 #### Dependency Injection
 
@@ -500,6 +506,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Jobby](https://github.com/jobbyphp/jobby) - A PHP cron job manager without modifying crontab.
 - [Robo](https://github.com/consolidation/Robo) - A PHP Task runner with object-orientated configurations.
 - [Task](https://github.com/taskphp/task) - A pure PHP task runner inspired by Grunt and Gulp.
+- [Envoy](https://github.com/laravel/envoy) - A tool to run SSH tasks with PHP.
 
 #### Template
 
@@ -646,13 +653,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 - [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 - [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-
-### Deployment
-*Libraries for project deployment.*
-
-- [Deployer](https://github.com/deployphp/deployer) - A deployment tool.
-- [Envoy](https://github.com/laravel/envoy) - A tool to run SSH tasks with PHP.
-- [Rocketeer](https://github.com/rocketeers/rocketeer) - A fast and easy deployer for the PHP world.
 
 ### Internationalisation and Localisation
 *Libraries for Internationalization (I18n) and Localization (L10n).*
