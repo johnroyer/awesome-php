@@ -840,6 +840,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [PHP Watch](https://php.watch/) - PHP articles, news, upcoming changes, RFCs and more.
 - [Unit Testing Tips](https://testing-tips.sarvendev.com/) - Unit Testing Tips by examples in PHP.
 - [PHP Internals Book](https://www.phpinternalsbook.com/) - An online book about PHP internals, written by three core developers.
+- [Mastering PHP](https://linu.us/series/mastering-php)
 
 ### Books
 
