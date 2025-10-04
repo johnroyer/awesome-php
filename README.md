@@ -31,6 +31,8 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Logging](#logging)
     - [Math](#math)
     - [Middleware](#middleware)
+    - [Multi-Proccesses](#multi-proccesses)
+    - [Multi-Thread](#multi-threads)
     - [Navigation](#navigation)
     - [Notifications](#notifications)
     - [Office](#office)
@@ -361,6 +363,17 @@ Include internationalization (I18n), localization (L10n) and translation
 - [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
 - [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
 
+#### Multi-Proccesses
+
+- [amphp/process](https://github.com/amphp/process) - An async process dispatcher for Amp (MIT)
+- [console-parallelization](https://github.com/webmozarts/console-parallelization) - Enables the parallelization of Symfony Console commands (MIT)
+
+#### Multi-Threads
+
+- [amphp/parallel](https://github.com/amphp/parallel) - An advanced parallelization library for PHP, enabling efficient multitasking, optimizing resource use, and application responsiveness through multiple CPU threads (MIT)
+- [ext-pmmpthread](https://github.com/pmmp/ext-pmmpthread) - Fork of https://github.com/krakjoe/pthreads with a revamped API and PHP 8.1+ support (PHP)
+
+
 #### Navigation
 
 - [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
@@ -623,6 +636,7 @@ Parser and renderer for HTML, CSS, Markdown
 
 ### Framework
 
+- [AMP](https://github.com/amphp/amp) - non-blocking concurrency framework for PHP applications (MIT)
 - [CakePHP](https://cakephp.org/) - A rapid application development framework.
 - [CodeIgniter](https://codeigniter.com/) - A powerful PHP framework with a very small footprint.
 - [FuelPHP](https://github.com/fuel/fuel) - simple, flexible, community driven PHP 5.3+ (MIT)
@@ -776,6 +790,7 @@ Parser and renderer for HTML, CSS, Markdown
 
 ### Server
 
+- [amphp/http-server](https://github.com/amphp/http-server) - An advanced async HTTP server library for PHP, perfect for real-time apps and APIs with high concurrency demands (MIT)
 - [appserver.io](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
 - [php-pm](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
 - [RoadRunner](https://github.com/roadrunner-server/roadrunner) - High-performance PHP application server, load-balancer and process manager.
