@@ -288,7 +288,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Prooph Event Store](https://github.com/prooph/event-store) - An event source component to persist event messages
 - [PHP Defer](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
 - [Ratchet](https://github.com/ratchetphp/Ratchet) - A web socket library.
-- [ReactPHP](https://github.com/reactphp/reactphp) - An event driven non-blocking I/O library.
 - [RxPHP](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
 - [Swoole](https://github.com/swoole/swoole-src) - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
 - [Workerman](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
@@ -633,6 +632,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
 - [Spiral](https://spiral.dev/) - A high-performance PHP/Go framework.
 - [Symfony](https://symfony.com/) - A set of reusable components and a web framework.
+- [ReactPHP](https://github.com/reactphp/reactphp) - An event driven non-blocking I/O library.
 - [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
 - [Laravel Zero](https://laravel-zero.com) - A micro-framework for console applications.
 - [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
