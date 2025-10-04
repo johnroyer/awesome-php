@@ -151,7 +151,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Cron Expression](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
 - [GetOpt](https://github.com/getopt-php/getopt-php) - A command line opt parser.
 - [GetOptionKit](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
-- [PsySH](https://github.com/bobthecow/psysh) - Another PHP REPL.
+- [PsySH](https://github.com/bobthecow/psysh) - runtime developer console, interactive debugger and REPL for PHP (MIT)
 - [ShellWrap](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
 
 #### Continuous Integration (CI)
