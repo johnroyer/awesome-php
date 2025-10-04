@@ -632,7 +632,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
 - [Spiral](https://spiral.dev/) - A high-performance PHP/Go framework.
 - [Symfony](https://symfony.com/) - A set of reusable components and a web framework.
-- [ReactPHP](https://github.com/reactphp/reactphp) - An event driven non-blocking I/O library.
+- [ReactPHP](https://github.com/reactphp/reactphp) - Event-driven, non-blocking I/O with PHP (MIT)
 - [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
 - [Laravel Zero](https://laravel-zero.com) - A micro-framework for console applications.
 - [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
