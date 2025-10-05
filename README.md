@@ -94,8 +94,8 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Json Web Token](https://github.com/lcobucci/jwt) - Json Tokens to authenticate and transmit information.
 - [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
 - [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
-- [OAuth2 Server](https://bshaffer.github.io/oauth2-server-php-docs/) - Another OAuth2 server implementation.
-- [OAuth2 Server](https://oauth2.thephpleague.com/) - An OAuth2 authentication server, resource server and client library.
+- [bshaffer/oauth2-server-php](https://bshaffer.github.io/oauth2-server-php-docs/) - Another OAuth2 server implementation.
+- [league/oauth2-server](https://oauth2.thephpleague.com/) - An OAuth2 authentication server, resource server and client library.
 - [Opauth](https://github.com/opauth/opauth) - A multi-provider authentication framework.
 - [Paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens.
 - [PHP oAuthLib](https://github.com/daviddesberg/PHPoAuthLib) - Another OAuth library.
