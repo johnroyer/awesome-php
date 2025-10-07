@@ -75,7 +75,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Utility](#utility)
   - [Resources](#resources)
     - [Web Service](#web-service)
-    - [Tutorial / Learning](#tutorial-learning)
+    - [Tutorial / Learning](#tutorial--learning)
     - [Books](#books)
     - [Videos](#videos)
     - [Conferences](#conferences)
