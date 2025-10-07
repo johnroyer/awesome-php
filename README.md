@@ -242,7 +242,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Auryn](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
 - [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 - [Disco](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
-- [PHP-DI](https://php-di.org/) - A dependency injection container that supports autowiring.
+- [PHP-DI](https://github.com/PHP-DI/PHP-DI) - dependency injection container for humans (MIT)
 - [Pimple](https://github.com/silexphp/Pimple) - A tiny dependency injection container.
 - [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
 
