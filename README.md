@@ -206,10 +206,9 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [CakePHP ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern.
 - [Cycle ORM](https://github.com/cycle/orm) - PHP DataMapper, ORM.
 - [Doctrine Extensions](https://github.com/doctrine-extensions/DoctrineExtensions ) - A collection of Doctrine behavioural extensions.
-- [Doctrine](https://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
+- [doctrine/orm](https://github.com/doctrine/orm) - A comprehensive DBAL and ORM (MIT)
 - [Laravel Eloquent](https://github.com/illuminate/database) - A simple ORM.
 - [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
-- [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
 - [RedBean](https://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
 - [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 - [Spot2](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
@@ -635,6 +634,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Hprose-PHP](https://github.com/hprose/hprose-php) - A cross-language RPC.
 - [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
 - [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
+- [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
 
 ### Framework
 
