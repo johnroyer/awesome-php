@@ -286,7 +286,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Pawl](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
 - [Prooph Event Store](https://github.com/prooph/event-store) - An event source component to persist event messages
 - [PHP Defer](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
-- [Ratchet](https://github.com/ratchetphp/Ratchet) - A web socket library.
 - [RxPHP](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
 - [Swoole](https://github.com/swoole/swoole-src) - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
 - [Workerman](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
@@ -795,6 +794,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [php-pm](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
 - [RoadRunner](https://github.com/roadrunner-server/roadrunner) - High-performance PHP application server, load-balancer and process manager.
 - [FrankenPHP](https://github.com/php/frankenphp) - The modern PHP app server written in Golang (MIT)
+- [Ratchet](https://github.com/ratchetphp/Ratchet) - Asynchronous WebSocket server (MIT)
 - [Restler](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
 
 ### Editor and IDE
