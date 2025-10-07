@@ -115,11 +115,10 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 #### Code Quality
 
-- [CaptainHook](https://github.com/captainhook-git/captainhook) - An easy-to-use and flexible Git hook library.
 - [PHP CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
 - [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A coding standards fixer library.
 - [PHP CS Fixer Configurator](https://mlocati.github.io/php-cs-fixer-configurator/) - A web application to help configure PHP CS Fixer rule sets.
-- [PHP Mess Detector](https://github.com/phpmd/phpmd) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
+- [PHPMD](https://github.com/phpmd/phpmd) - a spin-off project of PHP Depend and aims (BSDv3)
 - [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 - [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
 - [Laravel Pint](https://github.com/laravel/pint) - A coding standards fixer library for Laravel.
@@ -136,7 +135,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
 - [UBench](https://github.com/devster/ubench) - A simple micro-benchmark library.
 
-## Configuration
+#### Configuration
 
 - [PHP Dotenv](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
 - [Symfony Dotenv](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
@@ -183,7 +182,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 - [Jane](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
 
-### Data Structure and Storage
+#### Data Structure and Storage
 
 - [CakePHP Collection](https://github.com/cakephp/collection) - A simple collections library.
 - [Fractal](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
@@ -235,6 +234,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 - [Deployer](https://github.com/deployphp/deployer) - A deployment tool.
 - [Rocketeer](https://github.com/rocketeers/rocketeer) - A fast and easy deployer for the PHP world.
+- [CaptainHook](https://github.com/captainhook-git/captainhook) - An easy-to-use and flexible Git hook library.
 
 #### Dependency Injection
 
