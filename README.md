@@ -277,7 +277,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 #### Event
 
-- [Amp](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
 - [Broadway](https://github.com/broadway/broadway) - An event source and CQRS library.
 - [CakePHP Event](https://github.com/cakephp/event) - An event dispatcher library.
 - [Elephant.io](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
