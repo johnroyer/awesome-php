@@ -251,7 +251,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
 - [daux.io](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
 - [phpDocumentor](https://github.com/phpdocumentor/phpdocumentor) - Documentation Generator for PHP (MIT)
-- [phpDox](https://phpdox.net/) - A documentation generator for PHP projects (that is not limited to API documentation).
+- [phpDox](https://github.com/theseer/phpdox) - Documentation generator for PHP Code using standard technology (BSDv3)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
 - [Drest](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
 - [Annotations](https://github.com/doctrine/annotations) - An annotation library (part of Doctrine).
