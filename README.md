@@ -52,7 +52,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Validator](#validator)
     - [Video](#video)
     - [Misc](#misc)
-  - [Frameworks](#frameworks)
+  - [Frameworks](#framework)
   - [Extensions](#extensions)
   - [Platforms](#platforms)
     - [Analytics](#analytics)
