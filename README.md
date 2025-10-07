@@ -206,7 +206,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [CakePHP ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern.
 - [Cycle ORM](https://github.com/cycle/orm) - PHP DataMapper, ORM.
 - [Doctrine Extensions](https://github.com/doctrine-extensions/DoctrineExtensions ) - A collection of Doctrine behavioural extensions.
-- [Doctrine](https://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
+- [doctrine/orm](https://github.com/doctrine/orm) - A comprehensive DBAL and ORM (MIT)
 - [Laravel Eloquent](https://github.com/illuminate/database) - A simple ORM.
 - [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 - [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
