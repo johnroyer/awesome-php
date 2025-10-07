@@ -287,7 +287,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Prooph Event Store](https://github.com/prooph/event-store) - An event source component to persist event messages
 - [PHP Defer](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
 - [RxPHP](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
-- [Workerman](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
 
 #### File
 
@@ -661,6 +660,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Swoole](https://github.com/swoole/swoole-src) - Coroutine-based concurrency library for PHP (Apache)
 - [BotMan](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chatbots.
 - [TinnkPHP](https://github.com/top-think/framework) - simple, lightweight framework (Apache2)
+- [Workerman](https://github.com/walkor/Workerman) - An asynchronous event driven PHP socket framework (MIT)
 
 ### Extensions
 
