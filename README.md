@@ -266,7 +266,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 - [PHP IMAP](https://github.com/barbushin/php-imap) - A library to access mailboxes via POP3, IMAP and NNTP.
 - [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/en-us), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
-- [SwiftMailer](https://swiftmailer.symfony.com/docs/introduction.html) - A mailer solution.
+- [SwiftMailer](https://github.com/swiftmailer/swiftmailer) - Comprehensive mailing tools (MIT)
 - [Symfony Mailer](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
 
 #### Encode Decode
@@ -277,21 +277,16 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 #### Event
 
-- [Amp](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
 - [Broadway](https://github.com/broadway/broadway) - An event source and CQRS library.
 - [CakePHP Event](https://github.com/cakephp/event) - An event dispatcher library.
 - [Elephant.io](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 - [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 - [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
 - [Fast CGI Client](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket.
-- [FrankenPHP](https://frankenphp.dev/) - A modern PHP app server written in Go.
 - [Pawl](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
 - [Prooph Event Store](https://github.com/prooph/event-store) - An event source component to persist event messages
 - [PHP Defer](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
-- [Ratchet](https://github.com/ratchetphp/Ratchet) - A web socket library.
 - [RxPHP](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
-- [Swoole](https://github.com/swoole/swoole-src) - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
-- [Workerman](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
 
 #### File
 
@@ -665,6 +660,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Swoole](https://github.com/swoole/swoole-src) - Coroutine-based concurrency library for PHP (Apache)
 - [BotMan](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chatbots.
 - [TinnkPHP](https://github.com/top-think/framework) - simple, lightweight framework (Apache2)
+- [Workerman](https://github.com/walkor/Workerman) - An asynchronous event driven PHP socket framework (MIT)
 
 ### Extensions
 
@@ -797,6 +793,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [php-pm](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
 - [RoadRunner](https://github.com/roadrunner-server/roadrunner) - High-performance PHP application server, load-balancer and process manager.
 - [FrankenPHP](https://github.com/php/frankenphp) - The modern PHP app server written in Golang (MIT)
+- [Ratchet](https://github.com/ratchetphp/Ratchet) - Asynchronous WebSocket server (MIT)
 - [Restler](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
 
 ### Editor and IDE
