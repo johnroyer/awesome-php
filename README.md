@@ -500,6 +500,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
 - [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 - [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
+- [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) - Two Factor Authentication (TFA / 2FA) (MIT)
 
 #### Serverless
 
