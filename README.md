@@ -242,7 +242,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Auryn](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
 - [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 - [Disco](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
-- [PHP-DI](https://php-di.org/) - A dependency injection container that supports autowiring.
+- [PHP-DI](https://github.com/PHP-DI/PHP-DI) - dependency injection container for humans (MIT)
 - [Pimple](https://github.com/silexphp/Pimple) - A tiny dependency injection container.
 - [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
 
@@ -250,8 +250,8 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 - [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
 - [daux.io](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
-- [phpDocumentor](https://phpdoc.org/) - A documentation generator.
-- [phpDox](https://phpdox.net/) - A documentation generator for PHP projects (that is not limited to API documentation).
+- [phpDocumentor](https://github.com/phpdocumentor/phpdocumentor) - Documentation Generator for PHP (MIT)
+- [phpDox](https://github.com/theseer/phpdox) - Documentation generator for PHP Code using standard technology (BSDv3)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
 - [Drest](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
 - [Annotations](https://github.com/doctrine/annotations) - An annotation library (part of Doctrine).
