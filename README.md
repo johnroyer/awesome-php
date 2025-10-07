@@ -52,7 +52,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Validator](#validator)
     - [Video](#video)
     - [Misc](#misc)
-  - [Frameworks](#frameworks)
+  - [Frameworks](#framework)
   - [Extensions](#extensions)
   - [Platforms](#platforms)
     - [Analytics](#analytics)
@@ -71,11 +71,11 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Server](#server)
     - [Editor and IDE](#editor-and-ide)
     - [Virtual Machines](#virtual-machines)
-    - [Web Application](#web-aplication)
+    - [Web Application](#web-application)
     - [Utility](#utility)
   - [Resources](#resources)
     - [Web Service](#web-service)
-    - [Tutorial / Learning](#tutorial-learning)
+    - [Tutorial / Learning](#tutorial--learning)
     - [Books](#books)
     - [Videos](#videos)
     - [Conferences](#conferences)
@@ -182,7 +182,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 - [Jane](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
 
-#### Data Structure and Storage
+#### Data Structure
 
 - [CakePHP Collection](https://github.com/cakephp/collection) - A simple collections library.
 - [Fractal](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
