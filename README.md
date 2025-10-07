@@ -71,7 +71,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Server](#server)
     - [Editor and IDE](#editor-and-ide)
     - [Virtual Machines](#virtual-machines)
-    - [Web Application](#web-aplication)
+    - [Web Application](#web-application)
     - [Utility](#utility)
   - [Resources](#resources)
     - [Web Service](#web-service)
