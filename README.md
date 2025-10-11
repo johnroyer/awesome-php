@@ -301,9 +301,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 - [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 - [Parquet](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
-- [PHPPresentation](https://github.com/PHPOffice/PHPPresentation) - A pure PHP library for reading and writing presentations documents (LGPLv3)
-- [PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents (LGPLv3)
-- [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (MIT)
 
 ### Geolocation
 
@@ -417,9 +414,9 @@ SDK, client API
 
 #### Office
 
-- [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation) - A library for working with Microsoft PowerPoint Presentations.
-- [PHPWord](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
-- [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).
+- [PHPPresentation](https://github.com/PHPOffice/PHPPresentation) - A pure PHP library for reading and writing presentations documents (LGPLv3)
+- [PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents (LGPLv3)
+- [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (MIT)
 - [OpenSpout](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
 
 #### Parser
