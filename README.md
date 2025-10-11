@@ -301,9 +301,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 - [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 - [Parquet](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
-- [PHPPresentation](https://github.com/PHPOffice/PHPPresentation) - A pure PHP library for reading and writing presentations documents (LGPLv3)
-- [PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents (LGPLv3)
-- [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (MIT)
 
 ### Geolocation
 
@@ -384,7 +381,6 @@ SDK, client API
 
 - [PSR-15 Middlewares](https://github.com/middlewares/psr15-middlewares) - Inspiring collection of handy middlewares.
 - [Relay](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
-- [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
 - [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
 
 #### Multi-Proccesses
@@ -418,9 +414,11 @@ SDK, client API
 
 #### Office
 
-- [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation) - A library for working with Microsoft PowerPoint Presentations.
-- [PHPWord](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
-- [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).
+- [lowrapper](https://github.com/mnvx/lowrapper) - PHP wrapper over LibreOffice converter (MIT)
+- [PHPPresentation](https://github.com/PHPOffice/PHPPresentation) - A pure PHP library for reading and writing presentations documents (LGPLv3)
+- [PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents (LGPLv3)
+- [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (MIT)
+- [Office Convertor](https://github.com/ncjoes/office-converter) - PHP Wrapper for LibreOffice (MIT)
 - [OpenSpout](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
 
 #### Parser
@@ -696,6 +694,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal).
 - [Concrete5](https://www.concretecms.com/) - A CMS targeting users with a minimum of technical skills.
 - [CraftCMS](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
+- [DigiDocu](https://github.com/harish81/digidocu) - Open Source Documents Management System Built with Laravel 10 (GPL)
 - [Drupal](https://new.drupal.org/home) - An enterprise level CMS.
 - [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 - [Joomla](https://www.joomla.org/) - Another leading CMS.
