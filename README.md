@@ -319,7 +319,7 @@ Include internationalization (I18n), localization (L10n) and translation
 
 - [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
 - [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
-- [HTTPlug](http://httplug.io) - An HTTP client abstraction without binding to a specific implementation.
+- [HTTPlug](https://github.com/php-http/httplug) - HTTPlug, the HTTP client abstraction for PHP (MIT)
 - [Nyholm PSR-7](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation. Very strict and very fast.
 - [PHP VCR](https://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
 - [Requests](https://github.com/WordPress/Requests) - A simple HTTP library.
