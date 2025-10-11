@@ -186,6 +186,8 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 #### Data Science
 
+datamining, machine learning
+
 - [PHP-ML](https://github.com/jorgecasas/php-ml) - PHP Machine Learning library (MIT)
 - [PHP-MLX](https://github.com/php-ai/php-mlx) - PHP-MLX (php-ml next generation) - Machine Learning library for PHP (MIT liked)
 
