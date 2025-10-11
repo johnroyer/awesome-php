@@ -320,8 +320,8 @@ Include internationalization (I18n), localization (L10n) and translation
 - [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
 - [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
 - [HTTPlug](https://github.com/php-http/httplug) - HTTPlug, the HTTP client abstraction for PHP (MIT)
-- [Nyholm PSR-7](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation. Very strict and very fast.
-- [PHP VCR](https://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
+- [Nyholm PSR-7](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation (MIT)
+- [PHP VCR](https://github.com/php-vcr/php-vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests (MIT)
 - [Requests](https://github.com/WordPress/Requests) - A simple HTTP library.
 - [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
 - [Symfony HTTP Client](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
