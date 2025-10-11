@@ -190,6 +190,7 @@ datamining, machine learning
 
 - [PHP-ML](https://github.com/jorgecasas/php-ml) - PHP Machine Learning library (MIT)
 - [PHP-MLX](https://github.com/php-ai/php-mlx) - PHP-MLX (php-ml next generation) - Machine Learning library for PHP (MIT liked)
+- [Rubix ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language (MIT)
 
 #### Data Structure
 
