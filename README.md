@@ -173,6 +173,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 #### Convertor
 
+- [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
 - [Hyphenation](https://github.com/heiglandreas/Org_Heigl_Hyphenator) - Text-Hyphenation based on the TeX-hyphenation Algorithm
 - [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 - [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
@@ -185,8 +186,11 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 #### Data Science
 
+datamining, machine learning
+
 - [PHP-ML](https://github.com/jorgecasas/php-ml) - PHP Machine Learning library (MIT)
 - [PHP-MLX](https://github.com/php-ai/php-mlx) - PHP-MLX (php-ml next generation) - Machine Learning library for PHP (MIT liked)
+- [Rubix ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language (MIT)
 
 #### Data Structure
 
@@ -440,7 +444,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
 - [Stringy](https://github.com/voku/Stringy) - A string manipulation library with multibyte support.
 - [Agent](https://github.com/jenssegers/agent) - A PHP desktop/mobile user agent parser, based on Mobiledetect.
-- [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
 - [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 - [Symfony HTML Sanitizer](https://github.com/symfony/html-sanitizer) - An HTML sanitizer library.
 - [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
