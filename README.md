@@ -326,6 +326,25 @@ Include internationalization (I18n), localization (L10n) and translation
 
 #### Intergration
 
+SDK, client API
+
+- [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
+- [AsyncAWS](https://async-aws.com/) - An unofficial asynchronous PHP AWS SDK.
+- [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
+- [Ganesha](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
+- [Github](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
+- [Instructor for PHP](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
+- [Jieba-PHP](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
+- [LLPhant](https://github.com/LLPhant/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
+- [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
+- [OpenAI Client](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
+- [OpenAI Client for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
+- [PHP Mistral AI SDK](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
+- [Square](https://github.com/square/connect-php-sdk) - The official Square PHP SDK for payments and other Square APIs.
+- [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
+- [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
+
+
 #### Image
 
 - [Color Extractor](https://github.com/thephpleague/color-extractor) - A library for extracting colours from images.
@@ -614,21 +633,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
 - [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
 - [Lock](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
-- [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
-- [AsyncAWS](https://async-aws.com/) - An unofficial asynchronous PHP AWS SDK.
-- [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
-- [Github](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
-- [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
-- [Square](https://github.com/square/connect-php-sdk) - The official Square PHP SDK for payments and other Square APIs.
-- [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
-- [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
-- [Instructor for PHP](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
-- [LLPhant](https://github.com/LLPhant/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
-- [OpenAI Client](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
-- [OpenAI Client for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
-- [PHP Mistral AI SDK](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
-- [Jieba-PHP](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
-- [Ganesha](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
 - [Hprose-PHP](https://github.com/hprose/hprose-php) - A cross-language RPC.
 - [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
 - [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
