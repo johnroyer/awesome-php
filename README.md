@@ -27,6 +27,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Globalization](#globalization)
     - [HTTP](#http)
     - [Image](#image)
+    - [Intergration](#intergration)
     - [JSON](#json)
     - [Logging](#logging)
     - [Math](#math)
@@ -322,6 +323,8 @@ Include internationalization (I18n), localization (L10n) and translation
 - [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
 - [Symfony HTTP Client](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
 - [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
+
+#### Intergration
 
 #### Image
 
