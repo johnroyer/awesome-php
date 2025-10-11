@@ -183,6 +183,11 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 - [Jane](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
 
+#### Data Science
+
+- [PHP-ML](https://github.com/jorgecasas/php-ml) - PHP Machine Learning library (MIT)
+- [PHP-MLX](https://github.com/php-ai/php-mlx) - PHP-MLX (php-ml next generation) - Machine Learning library for PHP (MIT liked)
+
 #### Data Structure
 
 - [CakePHP Collection](https://github.com/cakephp/collection) - A simple collections library.
