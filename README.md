@@ -303,7 +303,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 ### Geolocation
 
 - [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
-- [GeoCoder](https://geocoder-php.org/) - A geocoding library.
+- [GeoCoder](https://github.com/geocoder-php/Geocoder) - The most featured Geocoder library written in PHP (MIT)
 - [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
 - [GeoTools](https://github.com/thephpleague/geotools) - A library of geo-related tools.
 - [PHPGeo](https://github.com/mjaschen/phpgeo) - A simple geo library.
