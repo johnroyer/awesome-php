@@ -323,7 +323,7 @@ Include internationalization (I18n), localization (L10n) and translation
 - [Nyholm PSR-7](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation (MIT)
 - [PHP VCR](https://github.com/php-vcr/php-vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests (MIT)
 - [Requests](https://github.com/WordPress/Requests) - Requests for PHP is a humble HTTP request library. It simplifies how you interact with other sites and takes away all your worries (BSD liked)
-- [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
+- [Retrofit](https://github.com/tebru/retrofit-php) - Retrofit implementation in PHP. A REST client for PHP (MIT)
 - [Symfony HTTP Client](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
 - [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
 
