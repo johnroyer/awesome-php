@@ -312,7 +312,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 Include internationalization (I18n), localization (L10n) and translation
 
-- [Aura.Intl](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
+- [Aura.Intl](https://github.com/auraphp/Aura.Intl) - Internationalization tools, particularly message translation (MIT)
 - [CakePHP I18n](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers.
 
 #### HTTP
