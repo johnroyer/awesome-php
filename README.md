@@ -296,6 +296,9 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 - [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 - [Parquet](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
+- [PHPPresentation](https://github.com/PHPOffice/PHPPresentation) - A pure PHP library for reading and writing presentations documents (LGPLv3)
+- [PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents (LGPLv3)
+- [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (MIT)
 
 ### Geolocation
 
