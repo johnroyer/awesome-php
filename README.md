@@ -473,7 +473,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Whoops](https://github.com/filp/whoops) - A pretty error-handling library.
 - [Xdebug](https://github.com/xdebug/xdebug) - Step Debugger and Debugging Aid for PHP (PHP liked)
 - [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
-- [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
+- [Z-Ray](https://www.zend.com/products/z-ray) - enterprise-level PHP debugger that comes with Zend Server (commercial)
 - [Blackfire](https://www.blackfire.io) - A low-overhead code profiler.
 
 #### Queue
