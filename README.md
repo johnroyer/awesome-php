@@ -457,7 +457,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Dompdf](https://github.com/dompdf/dompdf) - A HTML to PDF converter.
 - [Gotenberg](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
 - [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
-- [TCPDF](https://tcpdf.org/) - An open source PHP class for generating PDF documents.
+- [TCPDF](https://github.com/tecnickcom/tcpdf) - Official clone of PHP library to generate PDF documents and barcodes (LGPLv3)
 
 #### Profiling
 
