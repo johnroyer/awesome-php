@@ -466,7 +466,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 - [PCOV](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
 - [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
-- [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
+- [php-debugbar](https://github.com/php-debugbar/php-debugbar) - Debug bar for PHP (MIT)
 - [PHPBench](https://github.com/phpbench/phpbench) - A benchmarking Framework.
 - [PHPSpy](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
 - [Symfony VarDumper](https://github.com/symfony/var-dumper) - A variable dumper component.
