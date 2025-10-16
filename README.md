@@ -461,7 +461,6 @@ Parser and renderer for HTML, CSS, Markdown
 
 #### Profiling
 
-- [APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
 - [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
 - [Kint](https://github.com/kint-php/kint) - A debugging and profiling tool.
 - [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
@@ -675,7 +674,8 @@ Parser and renderer for HTML, CSS, Markdown
 
 ### Extensions
 
-- [PHP CPP](https://www.php-cpp.com/) - A C++ library for developing PHP extensions.
+- [PHP APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
+- [PHP CPP](https://www.php-cpp.com/) - monitoring extension enabling native Application Performance Management (APM) for PHP (PHPv3)
 - [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension. (MIT)
 - [Zephir](https://github.com/zephir-lang/zephir ) - A compiled language between PHP and C++ for developing PHP extensions.
 - [Swoole](https://github.com/swoole/swoole-src) - Coroutine-based concurrency library for PHP (Apache)
