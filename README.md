@@ -41,7 +41,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Queue](#queue)
     - [Profiling](#profiling)
     - [Router](#router)
-    - [Search](#search)
     - [Security](#security)
     - [Serverless](#serverless)
     - [Static Analysis](#static-analysis)
@@ -340,17 +339,21 @@ SDK, client API
 - [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 - [AsyncAWS](https://async-aws.com/) - An unofficial asynchronous PHP AWS SDK.
 - [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
-- [Ganesha](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
+- [Elastica](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.- [Ganesha](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
+- [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - The official client library for [ElasticSearch](https://www.elastic.co/).
 - [Github](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
 - [Instructor for PHP](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
 - [Jieba-PHP](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
 - [LLPhant](https://github.com/LLPhant/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
 - [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
+- [meilisearch-php](https://github.com/meilisearch/meilisearch-php) - PHP client for Meilisearch (MIT)
 - [OpenAI Client](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [OpenAI Client for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
 - [PHP Mistral AI SDK](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
 - [Square](https://github.com/square/connect-php-sdk) - The official Square PHP SDK for payments and other Square APIs.
 - [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
+- [Solarium](https://www.solarium-project.org/) - A client library for [Solr](https://solr.apache.org/).
+- [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](https://sphinxsearch.com/) and [Manticore](https://manticoresearch.com/) search engines.
 - [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
 
 
@@ -492,14 +495,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Klein](https://github.com/klein/klein.php) - A flexible router.
 - [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 - [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
-
-#### Search
-
-- [Elastica](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.
-- [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - The official client library for [ElasticSearch](https://www.elastic.co/).
-- [meilisearch-php](https://github.com/meilisearch/meilisearch-php) - PHP client for Meilisearch (MIT)
-- [Solarium](https://www.solarium-project.org/) - A client library for [Solr](https://solr.apache.org/).
-- [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](https://sphinxsearch.com/) and [Manticore](https://manticoresearch.com/) search engines.
 
 #### Security
 
