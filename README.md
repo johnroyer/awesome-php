@@ -471,7 +471,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [PHPSpy](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
 - [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
 - [Whoops](https://github.com/filp/whoops) - A pretty error-handling library.
-- [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
+- [Xdebug](https://github.com/xdebug/xdebug) - Step Debugger and Debugging Aid for PHP (PHP liked)
 - [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 - [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
 - [Blackfire](https://www.blackfire.io) - A low-overhead code profiler.
