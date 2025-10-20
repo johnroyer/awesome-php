@@ -512,7 +512,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Password Validator](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
 - [Password-Generator](https://github.com/hackzilla/password-generator) - PHP library to generate random passwords.
 - [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
-- [phpass](https://www.openwall.com/phpass/) - A portable password hashing framework.
+- [phpass](https://github.com/openwall/phpass) - Legacy password hashing framework for PHP applications needing to support or having previously supported PHP below 5.5 (Public Domain)
 - [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
 - [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 - [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
