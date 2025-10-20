@@ -499,7 +499,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [AntiXSS](https://github.com/voku/anti-xss) - A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting.
 - [Halite](https://github.com/paragonie/halite) - High-level cryptography interface powered by [libsodium](https://github.com/jedisct1/libsodium) (MIT)
 - [Optimus](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
-- [OWASP](https://owasp.org/) - Explore the world of cyber security.
 - [PHPGGC](https://github.com/ambionics/phpggc) - A library of PHP unserializable payloads along with a tool to generate them.
 - [PHP Encryption](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
 - [PHPSecLib](https://phpseclib.sourceforge.net) - A pure PHP secure communications library.
