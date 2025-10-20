@@ -522,7 +522,6 @@ Parser and renderer for HTML, CSS, Markdown
 
 #### Serverless
 
-- [Laravel Vapor](https://vapor.laravel.com/) - A serverless deployment platform for Laravel, powered by AWS.
 
 #### Static Analysis
 
@@ -843,6 +842,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [CircleCI](https://circleci.com)
 - [Gitlab CI/CD](https://about.gitlab.com/solutions/continuous-integration/)
 - [Jenkins](https://www.jenkins.io/)
+- [Laravel Vapor](https://vapor.laravel.com/) - serverless deployment platform for Laravel, powered by AWS
 - [SemaphoreCI](https://semaphore.io/)
 - [Travis CI](https://www.travis-ci.com)
 - [BugSnag](https://www.bugsnag.com/) - Error and Real User Monitoring.
