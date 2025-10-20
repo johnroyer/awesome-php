@@ -536,7 +536,6 @@ Parser and renderer for HTML, CSS, Markdown
 
 #### Stream
 
-- [ByteStream](https://amphp.org/byte-stream) - An asynchronous stream abstraction.
 - [Streamer](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
 
 #### Task Runner and Scheduler
