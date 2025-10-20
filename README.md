@@ -501,7 +501,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Optimus](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
 - [PHPGGC](https://github.com/ambionics/phpggc) - A library of PHP unserializable payloads along with a tool to generate them.
 - [PHP Encryption](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
-- [PHPSecLib](https://phpseclib.sourceforge.net) - A pure PHP secure communications library.
+- [PHPSecLib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library (MIT)
 - [random_compat](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
 - [Roave Security Advisories](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
 - [Secure Headers](https://github.com/BePsvPT/secure-headers) - A package that adds security related headers to HTTP response.
