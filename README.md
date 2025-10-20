@@ -42,7 +42,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Profiling](#profiling)
     - [Router](#router)
     - [Security](#security)
-    - [Serverless](#serverless)
     - [Static Analysis](#static-analysis)
     - [Stream](#stream)
     - [Task Runner and Scheduler](#task-runner-and-scheduler)
@@ -519,9 +518,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 - [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) - Two Factor Authentication (TFA / 2FA) (MIT)
 - [Laragear/WebAuthn](https://github.com/Laragear/WebAuthn) - Authenticate users with Passkeys: fingerprints, patterns and biometric data (MIT)
-
-#### Serverless
-
 
 #### Static Analysis
 
