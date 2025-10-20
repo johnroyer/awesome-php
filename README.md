@@ -522,7 +522,6 @@ Parser and renderer for HTML, CSS, Markdown
 
 #### Serverless
 
-- [OpenWhisk](https://openwhisk.apache.org/) - An open-source serverless cloud platform.
 - [Serverless Framework](https://www.serverless.com/framework) - An open-source framework for building serverless applications.
 - [Laravel Vapor](https://vapor.laravel.com/) - A serverless deployment platform for Laravel, powered by AWS.
 
