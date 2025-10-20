@@ -338,6 +338,7 @@ SDK, client API
 
 - [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 - [AsyncAWS](https://async-aws.com/) - An unofficial asynchronous PHP AWS SDK.
+- [Bref](https://bref.sh/) - helps you go serverless on AWS with PHP (MIT)
 - [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
 - [Elastica](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.- [Ganesha](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
 - [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - The official client library for [ElasticSearch](https://www.elastic.co/).
@@ -521,7 +522,6 @@ Parser and renderer for HTML, CSS, Markdown
 
 #### Serverless
 
-- [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
 - [OpenWhisk](https://openwhisk.apache.org/) - An open-source serverless cloud platform.
 - [Serverless Framework](https://www.serverless.com/framework) - An open-source framework for building serverless applications.
 - [Laravel Vapor](https://vapor.laravel.com/) - A serverless deployment platform for Laravel, powered by AWS.
