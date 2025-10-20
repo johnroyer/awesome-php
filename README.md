@@ -42,7 +42,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Profiling](#profiling)
     - [Router](#router)
     - [Security](#security)
-    - [Serverless](#serverless)
     - [Static Analysis](#static-analysis)
     - [Stream](#stream)
     - [Task Runner and Scheduler](#task-runner-and-scheduler)
@@ -338,6 +337,7 @@ SDK, client API
 
 - [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 - [AsyncAWS](https://async-aws.com/) - An unofficial asynchronous PHP AWS SDK.
+- [Bref](https://bref.sh/) - helps you go serverless on AWS with PHP (MIT)
 - [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
 - [Elastica](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.- [Ganesha](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
 - [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - The official client library for [ElasticSearch](https://www.elastic.co/).
@@ -519,13 +519,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) - Two Factor Authentication (TFA / 2FA) (MIT)
 - [Laragear/WebAuthn](https://github.com/Laragear/WebAuthn) - Authenticate users with Passkeys: fingerprints, patterns and biometric data (MIT)
 
-#### Serverless
-
-- [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
-- [OpenWhisk](https://openwhisk.apache.org/) - An open-source serverless cloud platform.
-- [Serverless Framework](https://www.serverless.com/framework) - An open-source framework for building serverless applications.
-- [Laravel Vapor](https://vapor.laravel.com/) - A serverless deployment platform for Laravel, powered by AWS.
-
 #### Static Analysis
 
 - [Exakat](https://github.com/exakat/exakat) - A static analysis engine for PHP.
@@ -543,7 +536,6 @@ Parser and renderer for HTML, CSS, Markdown
 
 #### Stream
 
-- [ByteStream](https://amphp.org/byte-stream) - An asynchronous stream abstraction.
 - [Streamer](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
 
 #### Task Runner and Scheduler
@@ -845,6 +837,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [CircleCI](https://circleci.com)
 - [Gitlab CI/CD](https://about.gitlab.com/solutions/continuous-integration/)
 - [Jenkins](https://www.jenkins.io/)
+- [Laravel Vapor](https://vapor.laravel.com/) - serverless deployment platform for Laravel, powered by AWS
 - [SemaphoreCI](https://semaphore.io/)
 - [Travis CI](https://www.travis-ci.com)
 - [BugSnag](https://www.bugsnag.com/) - Error and Real User Monitoring.
