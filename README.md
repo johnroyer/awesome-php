@@ -497,16 +497,14 @@ Parser and renderer for HTML, CSS, Markdown
 #### Security
 
 - [AntiXSS](https://github.com/voku/anti-xss) - A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting.
-- [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium).
+- [Halite](https://github.com/paragonie/halite) - High-level cryptography interface powered by [libsodium](https://github.com/jedisct1/libsodium) (MIT)
 - [Optimus](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
-- [OWASP](https://owasp.org/) - Explore the world of cyber security.
 - [PHPGGC](https://github.com/ambionics/phpggc) - A library of PHP unserializable payloads along with a tool to generate them.
 - [PHP Encryption](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
-- [PHPSecLib](https://phpseclib.sourceforge.net) - A pure PHP secure communications library.
+- [PHPSecLib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library (MIT)
 - [random_compat](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
 - [Roave Security Advisories](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
 - [Secure Headers](https://github.com/BePsvPT/secure-headers) - A package that adds security related headers to HTTP response.
-- [SQLMap](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
 - [Zap](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
 - [GenPhrase](https://github.com/timoh6/GenPhrase) - A library for generating secure random passphrases.
 - [Password Compat](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
@@ -514,7 +512,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Password Validator](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
 - [Password-Generator](https://github.com/hackzilla/password-generator) - PHP library to generate random passwords.
 - [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
-- [phpass](https://www.openwall.com/phpass/) - A portable password hashing framework.
+- [phpass](https://github.com/openwall/phpass) - Legacy password hashing framework for PHP applications needing to support or having previously supported PHP below 5.5 (Public Domain)
 - [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
 - [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 - [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
