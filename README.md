@@ -505,7 +505,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [random_compat](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
 - [Roave Security Advisories](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
 - [Secure Headers](https://github.com/BePsvPT/secure-headers) - A package that adds security related headers to HTTP response.
-- [SQLMap](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
 - [Zap](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
 - [GenPhrase](https://github.com/timoh6/GenPhrase) - A library for generating secure random passphrases.
 - [Password Compat](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
