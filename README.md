@@ -552,7 +552,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Mustache](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
 - [PHPTAL](https://github.com/phptal/PHPTAL) - template engine for XSS-proof well-formed XHTML and HTML5 pages (LGPLv2)
 - [Plates](http://platesphp.com/) - A native PHP templating library.
-- [Smarty](https://www.smarty.net/) - A template engine to complement PHP.
+- [Smarty](https://github.com/smarty-php/smarty) - template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic (LGPLv3)
 - [Twig](https://twig.symfony.com/) - A comprehensive templating language.
 - [Laravel Mix](https://github.com/laravel-mix/laravel-mix ) - An elegant wrapper around Webpack for the 80% use case.
 - [Symfony Asset](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets.
