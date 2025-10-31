@@ -452,6 +452,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 - [Symfony HTML Sanitizer](https://github.com/symfony/html-sanitizer) - An HTML sanitizer library.
 - [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
+- [vanodevium/toml](https://github.com/vanodevium/toml) - library for encoding and decoding TOML (MIT)
 
 #### PDF
 
