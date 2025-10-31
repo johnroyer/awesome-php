@@ -569,7 +569,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Foundry](https://github.com/zenstruck/foundry) - A fixture factory generation library for Doctrine.
 - [Infection](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
 - [Kahlan](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
-- [Mink](https://mink.behat.org/en/latest/) - Web acceptance testing.
 - [Mockery](https://github.com/mockery/mockery) - A mock object library for testing.
 - [Nette Tester](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
 - [ParaTest](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
