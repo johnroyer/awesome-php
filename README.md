@@ -439,6 +439,7 @@ Parser and renderer for HTML, CSS, Markdown
 - [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
 - [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
 - [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
+- [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 - [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
 - [PHP CSS Parser](https://github.com/MyIntervals/PHP-CSS-Parser) - A Parser for CSS Files written in PHP.
 - [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
@@ -600,7 +601,6 @@ Parser and renderer for HTML, CSS, Markdown
 - [Upload](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
 - [Valitron](https://github.com/vlucas/valitron) - Another validation library.
 - [Volan](https://github.com/serkin/Volan) - Another simplified validation library.
-- [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 - [JSON Schema](https://github.com/jsonrainbow/json-schema) - A [JSON Schema](https://json-schema.org/) validation library.
 - [Respect Validation](https://github.com/Respect/Validation) - A simple validation library.
 - [Valinor](https://github.com/CuyZ/Valinor) - A library for mapping to strongly typed value objects.
