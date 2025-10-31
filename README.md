@@ -430,7 +430,7 @@ SDK, client API
 
 #### Parser
 
-Parser and renderer for HTML, CSS, Markdown
+Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 - [Cebe Markdown](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
 - [CommonMark PHP](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
