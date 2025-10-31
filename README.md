@@ -561,6 +561,7 @@ Parser and renderer for HTML, CSS, Markdown
 #### Testing
 
 - [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
+- [AspectMock](https://github.com/Codeception/AspectMock) - The most powerful and flexible mocking framework for PHPUnit / Codeception (MIT)
 - [Atoum](https://github.com/atoum/atoum) - A simple testing library.
 - [Behat](https://docs.behat.org/en/latest/) - A behaviour driven development (BDD) testing framework.
 - [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
