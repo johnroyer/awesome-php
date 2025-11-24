@@ -89,7 +89,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 #### Authentication
 
 - [Aura.Auth](https://github.com/auraphp/Aura.Auth) - Provides a unified interface to local and remote authentication systems (BSDv2)
-- [SocialConnect Auth](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
+- [SocialConnect Auth](https://github.com/socialConnect/auth) - Connect your application(s) with social network(s) (MIT)
 - [Json Web Token](https://github.com/lcobucci/jwt) - Json Tokens to authenticate and transmit information.
 - [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
 - [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
