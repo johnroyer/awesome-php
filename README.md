@@ -92,7 +92,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [SocialConnect Auth](https://github.com/socialConnect/auth) - Connect your application(s) with social network(s) (MIT)
 - [Json Web Token](https://github.com/lcobucci/jwt) - A simple library to work with JSON Web Token and JSON Web Signature (BSDv3)
 - [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - OAuth 1 Client (MIT)
-- [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
+- [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) - Easy integration with OAuth 2.0 service providers (MIT)
 - [bshaffer/oauth2-server-php](https://bshaffer.github.io/oauth2-server-php-docs/) - Another OAuth2 server implementation.
 - [league/oauth2-server](https://oauth2.thephpleague.com/) - An OAuth2 authentication server, resource server and client library.
 - [Opauth](https://github.com/opauth/opauth) - A multi-provider authentication framework.
