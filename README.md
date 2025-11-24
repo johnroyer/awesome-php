@@ -96,7 +96,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [bshaffer/oauth2-server-php](https://github.com/bshaffer/oauth2-server-php) - A library for implementing an OAuth2 Server in php (MIT)
 - [league/oauth2-server](https://github.com/thephpleague/oauth2-server) - A spec compliant, secure by default PHP OAuth 2.0 Server (MIT)
 - [Opauth](https://github.com/opauth/opauth) - Multi-provider authentication framework for PHP (MIT)
-- [Paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens.
+- [Paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens (ISC License)
 - [PHP oAuthLib](https://github.com/daviddesberg/PHPoAuthLib) - Another OAuth library.
 - [Sentinel Social](https://github.com/cartalyst/sentinel-social) - A library for social network authentication.
 - [Sentinel](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorisation library.
