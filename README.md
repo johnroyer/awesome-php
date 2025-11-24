@@ -88,19 +88,19 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 #### Authentication
 
-- [Aura.Auth](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
-- [SocialConnect Auth](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
-- [Json Web Token](https://github.com/lcobucci/jwt) - Json Tokens to authenticate and transmit information.
-- [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
-- [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
-- [bshaffer/oauth2-server-php](https://bshaffer.github.io/oauth2-server-php-docs/) - Another OAuth2 server implementation.
-- [league/oauth2-server](https://oauth2.thephpleague.com/) - An OAuth2 authentication server, resource server and client library.
-- [Opauth](https://github.com/opauth/opauth) - A multi-provider authentication framework.
-- [Paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens.
-- [PHP oAuthLib](https://github.com/daviddesberg/PHPoAuthLib) - Another OAuth library.
-- [Sentinel Social](https://github.com/cartalyst/sentinel-social) - A library for social network authentication.
-- [Sentinel](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorisation library.
-- [TwitterOAuth](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
+- [Aura.Auth](https://github.com/auraphp/Aura.Auth) - Provides a unified interface to local and remote authentication systems (BSDv2)
+- [SocialConnect Auth](https://github.com/socialConnect/auth) - Connect your application(s) with social network(s) (MIT)
+- [Json Web Token](https://github.com/lcobucci/jwt) - A simple library to work with JSON Web Token and JSON Web Signature (BSDv3)
+- [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - OAuth 1 Client (MIT)
+- [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) - Easy integration with OAuth 2.0 service providers (MIT)
+- [bshaffer/oauth2-server-php](https://github.com/bshaffer/oauth2-server-php) - A library for implementing an OAuth2 Server in php (MIT)
+- [league/oauth2-server](https://github.com/thephpleague/oauth2-server) - A spec compliant, secure by default PHP OAuth 2.0 Server (MIT)
+- [Opauth](https://github.com/opauth/opauth) - Multi-provider authentication framework for PHP (MIT)
+- [Paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens (ISC License)
+- [PHP oAuthLib](https://github.com/daviddesberg/PHPoAuthLib) - PHP 5.3+ oAuth 1/2 Client Library (MIT)
+- [Sentinel Social](https://github.com/cartalyst/sentinel-social) - About A Sentinel addon that makes authenticating your users through social networks & third-party OAuth providers in Sentinel an absolute breeze (PSL)
+- [Sentinel](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorization system (BSDv3)
+- [TwitterOAuth](https://github.com/abraham/twitteroauth) - PHP library for use with the Twitter OAuth REST API (MIT)
 
 #### Cache
 
