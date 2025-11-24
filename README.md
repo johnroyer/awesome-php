@@ -94,7 +94,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - OAuth 1 Client (MIT)
 - [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) - Easy integration with OAuth 2.0 service providers (MIT)
 - [bshaffer/oauth2-server-php](https://github.com/bshaffer/oauth2-server-php) - A library for implementing an OAuth2 Server in php (MIT)
-- [league/oauth2-server](https://oauth2.thephpleague.com/) - An OAuth2 authentication server, resource server and client library.
+- [league/oauth2-server](https://github.com/thephpleague/oauth2-server) - A spec compliant, secure by default PHP OAuth 2.0 Server (MIT)
 - [Opauth](https://github.com/opauth/opauth) - A multi-provider authentication framework.
 - [Paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens.
 - [PHP oAuthLib](https://github.com/daviddesberg/PHPoAuthLib) - Another OAuth library.
