@@ -99,7 +99,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens (ISC License)
 - [PHP oAuthLib](https://github.com/daviddesberg/PHPoAuthLib) - PHP 5.3+ oAuth 1/2 Client Library (MIT)
 - [Sentinel Social](https://github.com/cartalyst/sentinel-social) - About A Sentinel addon that makes authenticating your users through social networks & third-party OAuth providers in Sentinel an absolute breeze (PSL)
-- [Sentinel](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorisation library.
+- [Sentinel](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorization system (BSDv3)
 - [TwitterOAuth](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
 
 #### Cache
