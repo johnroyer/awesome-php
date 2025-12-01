@@ -104,7 +104,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 #### Cache
 
-- [APIx Cache](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasizing cache tagging and indexing.
+- [APIx Cache](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasizing cache tagging and indexing (BSDv3)
 - [CacheTool](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
 - [CakePHP Cache](https://github.com/cakephp/cache) - A caching library.
 - [Doctrine Cache](https://github.com/doctrine/cache) - A caching library.
