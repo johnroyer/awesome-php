@@ -109,7 +109,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [CakePHP Cache](https://github.com/cakephp/cache) - Caching library with support for multiple caching backends (MIT)
 - [Doctrine Cache](https://github.com/doctrine/cache) - Doctrine Cache component (MIT)
 - [Metaphore](https://github.com/sobstel/metaphore) - Cache slam defense using a semaphore to prevent dogpile effect (MIT)
-- [Stash](https://github.com/tedious/Stash) - Another library for caching.
+- [Stash](https://github.com/tedious/Stash) - place to keep your cache (BSDv3)
 - [Laminas Cache](https://github.com/laminas/laminas-cache) - Another caching library.
 
 #### Code Quality
