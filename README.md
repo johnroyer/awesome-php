@@ -104,13 +104,13 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 #### Cache
 
-- [APIx Cache](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasizing cache tagging and indexing.
-- [CacheTool](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
-- [CakePHP Cache](https://github.com/cakephp/cache) - A caching library.
-- [Doctrine Cache](https://github.com/doctrine/cache) - A caching library.
-- [Metaphore](https://github.com/sobstel/metaphore) - Cache slam defense using a semaphore to prevent dogpile effect.
-- [Stash](https://github.com/tedious/Stash) - Another library for caching.
-- [Laminas Cache](https://github.com/laminas/laminas-cache) - Another caching library.
+- [APIx Cache](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasizing cache tagging and indexing (BSDv3)
+- [CacheTool](https://github.com/gordalina/cachetool) - CLI App and library to manage apc & opcache (MIT)
+- [CakePHP Cache](https://github.com/cakephp/cache) - Caching library with support for multiple caching backends (MIT)
+- [Doctrine Cache](https://github.com/doctrine/cache) - Doctrine Cache component (MIT)
+- [Metaphore](https://github.com/sobstel/metaphore) - Cache slam defense using a semaphore to prevent dogpile effect (MIT)
+- [Stash](https://github.com/tedious/Stash) - place to keep your cache (BSDv3)
+- [Laminas Cache](https://github.com/laminas/laminas-cache) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output (BSDv3)
 
 #### Code Quality
 
