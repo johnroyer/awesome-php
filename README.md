@@ -125,7 +125,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [GrumPHP](https://github.com/phpro/grumphp) - A PHP code-quality tool (MIT)
 - [PHP AST Viewer](https://github.com/RightCapitalHQ/php-ast-viewer) - tool for viewing the Abstract Syntax Tree of PHP code (MIT)
 - [PHP Magic Number Detector](https://github.com/povils/phpmnd) - help you to detect magic numbers in your PHP code (MIT)
-- [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
+- [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP (BSDv3)
 - [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
 - [Phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
 - [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
