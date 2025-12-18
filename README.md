@@ -115,8 +115,8 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 #### Code Quality
 
 - [PHP CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - tokenizes PHP files and detects violations of a defined set of coding standards (BSDv3)
-- [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A coding standards fixer library.
-- [PHP CS Fixer Configurator](https://mlocati.github.io/php-cs-fixer-configurator/) - A web application to help configure PHP CS Fixer rule sets.
+- [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - automatically fix PHP Coding Standards issues (MIT)
+- [PHP CS Fixer Configurator](https://github.com/mlocati/php-cs-fixer-configurator) - Inspect PHP-CS-Fixer fixers and easily configure them (MIT)
 - [PHPMD](https://github.com/phpmd/phpmd) - a spin-off project of PHP Depend and aims (BSDv3)
 - [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 - [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
