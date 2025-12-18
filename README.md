@@ -129,7 +129,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - Compares two source sets and determines the appropriate semantic versioning to apply (MIT)
 - [Phpactor](https://github.com/phpactor/phpactor) - PHP Language Server with more features than you can shake a stick at (MIT)
 - [PHPLOC](https://github.com/sebastianbergmann/phploc) - tool for quickly measuring the size of a PHP project (BSDv3)
-- [PHPQA](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
+- [PHPQA](https://github.com/EdgedesignCZ/phpqa) - Analyze PHP code with one command (MIT)
 - [Rector](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
 - [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
 - [UBench](https://github.com/devster/ubench) - A simple micro-benchmark library.
