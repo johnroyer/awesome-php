@@ -137,7 +137,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 #### Configuration
 
 - [PHP Dotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically (BSDv3)
-- [Symfony Dotenv](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
+- [Symfony Dotenv](https://github.com/symfony/dotenv)- Registers environment variables from a .env file (MIT)
 - [Yo! Symfony TOML](https://github.com/yosymfony/toml) - A PHP parser for [TOML](https://github.com/toml-lang/toml).
 
 #### Console Tool
