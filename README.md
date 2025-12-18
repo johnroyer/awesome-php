@@ -122,7 +122,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code (BSDv3)
 - [Laravel Pint](https://github.com/laravel/pint) - an opinionated PHP code style fixer for minimalists (MIT)
 - [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker.php) - tool to verify that your files are in harmony with your .editorconfig (MIT)
-- [GrumPHP](https://github.com/phpro/grumphp) - A PHP code-quality tool.
+- [GrumPHP](https://github.com/phpro/grumphp) - A PHP code-quality tool (MIT)
 - [PHP AST Viewer](https://php-ast-viewer.com/) - A tool for viewing the Abstract Syntax Tree of PHP code.
 - [PHP Magic Number Detector](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
 - [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
