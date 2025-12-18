@@ -575,6 +575,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [Mockery](https://github.com/mockery/mockery) - A mock object library for testing.
 - [Nette Tester](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
 - [ParaTest](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
+- [Pest](https://github.com/pestphp/pest) - an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing (MIT)
 - [Phake](https://github.com/phake/phake) - Another mock object library for testing.
 - [PHP-Mock](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
 - [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
