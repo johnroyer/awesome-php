@@ -120,7 +120,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHPMD](https://github.com/phpmd/phpmd) - a spin-off project of PHP Depend and aims (BSDv3)
 - [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - tool that helps PHP programmers adhere to certain coding conventions (LGLPv3)
 - [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code (BSDv3)
-- [Laravel Pint](https://github.com/laravel/pint) - A coding standards fixer library for Laravel.
+- [Laravel Pint](https://github.com/laravel/pint) - an opinionated PHP code style fixer for minimalists (MIT)
 - [Editorconfig-Checker](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
 - [GrumPHP](https://github.com/phpro/grumphp) - A PHP code-quality tool.
 - [PHP AST Viewer](https://php-ast-viewer.com/) - A tool for viewing the Abstract Syntax Tree of PHP code.
