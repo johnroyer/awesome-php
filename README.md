@@ -114,23 +114,23 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 #### Code Quality
 
-- [PHP CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
-- [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A coding standards fixer library.
-- [PHP CS Fixer Configurator](https://mlocati.github.io/php-cs-fixer-configurator/) - A web application to help configure PHP CS Fixer rule sets.
+- [PHP CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - tokenizes PHP files and detects violations of a defined set of coding standards (BSDv3)
+- [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - automatically fix PHP Coding Standards issues (MIT)
+- [PHP CS Fixer Configurator](https://github.com/mlocati/php-cs-fixer-configurator) - Inspect PHP-CS-Fixer fixers and easily configure them (MIT)
 - [PHPMD](https://github.com/phpmd/phpmd) - a spin-off project of PHP Depend and aims (BSDv3)
-- [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
-- [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
-- [Laravel Pint](https://github.com/laravel/pint) - A coding standards fixer library for Laravel.
-- [Editorconfig-Checker](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
-- [GrumPHP](https://github.com/phpro/grumphp) - A PHP code-quality tool.
-- [PHP AST Viewer](https://php-ast-viewer.com/) - A tool for viewing the Abstract Syntax Tree of PHP code.
-- [PHP Magic Number Detector](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
-- [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
-- [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
-- [Phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
-- [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
-- [PHPQA](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
-- [Rector](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
+- [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - tool that helps PHP programmers adhere to certain coding conventions (LGLPv3)
+- [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code (BSDv3)
+- [Laravel Pint](https://github.com/laravel/pint) - an opinionated PHP code style fixer for minimalists (MIT)
+- [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker.php) - tool to verify that your files are in harmony with your .editorconfig (MIT)
+- [GrumPHP](https://github.com/phpro/grumphp) - A PHP code-quality tool (MIT)
+- [PHP AST Viewer](https://github.com/RightCapitalHQ/php-ast-viewer) - tool for viewing the Abstract Syntax Tree of PHP code (MIT)
+- [PHP Magic Number Detector](https://github.com/povils/phpmnd) - help you to detect magic numbers in your PHP code (MIT)
+- [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP (BSDv3)
+- [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - Compares two source sets and determines the appropriate semantic versioning to apply (MIT)
+- [Phpactor](https://github.com/phpactor/phpactor) - PHP Language Server with more features than you can shake a stick at (MIT)
+- [PHPLOC](https://github.com/sebastianbergmann/phploc) - tool for quickly measuring the size of a PHP project (BSDv3)
+- [PHPQA](https://github.com/EdgedesignCZ/phpqa) - Analyze PHP code with one command (MIT)
+- [Rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code (MIT)
 - [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
 - [UBench](https://github.com/devster/ubench) - A simple micro-benchmark library.
 
