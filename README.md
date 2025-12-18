@@ -118,7 +118,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - automatically fix PHP Coding Standards issues (MIT)
 - [PHP CS Fixer Configurator](https://github.com/mlocati/php-cs-fixer-configurator) - Inspect PHP-CS-Fixer fixers and easily configure them (MIT)
 - [PHPMD](https://github.com/phpmd/phpmd) - a spin-off project of PHP Depend and aims (BSDv3)
-- [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
+- [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - tool that helps PHP programmers adhere to certain coding conventions (LGLPv3)
 - [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
 - [Laravel Pint](https://github.com/laravel/pint) - A coding standards fixer library for Laravel.
 - [Editorconfig-Checker](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
