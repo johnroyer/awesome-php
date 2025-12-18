@@ -123,7 +123,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Laravel Pint](https://github.com/laravel/pint) - an opinionated PHP code style fixer for minimalists (MIT)
 - [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker.php) - tool to verify that your files are in harmony with your .editorconfig (MIT)
 - [GrumPHP](https://github.com/phpro/grumphp) - A PHP code-quality tool (MIT)
-- [PHP AST Viewer](https://php-ast-viewer.com/) - A tool for viewing the Abstract Syntax Tree of PHP code.
+- [PHP AST Viewer](https://github.com/RightCapitalHQ/php-ast-viewer) - tool for viewing the Abstract Syntax Tree of PHP code (MIT)
 - [PHP Magic Number Detector](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
 - [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 - [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
