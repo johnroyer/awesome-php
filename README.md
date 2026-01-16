@@ -146,7 +146,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Cilex](https://github.com/Cilex/Cilex) - Cilex a lightweight framework for creating PHP CLI scripts inspired by Silex (MIT)
 - [CLI Menu](https://github.com/php-school/cli-menu) - Build beautiful PHP CLI menus. Simple yet Powerful (MIT)
 - [CLIFramework](https://github.com/c9s/CLIFramework) - A powerful command line application framework for PHP (BSD)
-- [CLImate](https://github.com/thephpleague/climate) - A library for outputting colors and special formatting.
+- [CLImate](https://github.com/thephpleague/climate) - PHP's best friend for the terminal (MIT)
 - [Commando](https://github.com/nategood/commando) - Another simple command line opt parser.
 - [Cron Expression](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
 - [GetOpt](https://github.com/getopt-php/getopt-php) - A command line opt parser.
