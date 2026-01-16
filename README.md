@@ -142,7 +142,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 #### Console Tool
 
-- [Aura.Cli](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
+- [Aura.Cli](https://github.com/auraphp/Aura.Cli) - Command-Line Interface tools (BSDv2)
 - [Cilex](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
 - [CLI Menu](https://github.com/php-school/cli-menu) - A library for building CLI menus.
 - [CLIFramework](https://github.com/c9s/CLIFramework) - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
