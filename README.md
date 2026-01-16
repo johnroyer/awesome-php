@@ -143,7 +143,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 #### Console Tool
 
 - [Aura.Cli](https://github.com/auraphp/Aura.Cli) - Command-Line Interface tools (BSDv2)
-- [Cilex](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
+- [Cilex](https://github.com/Cilex/Cilex) - Cilex a lightweight framework for creating PHP CLI scripts inspired by Silex (MIT)
 - [CLI Menu](https://github.com/php-school/cli-menu) - A library for building CLI menus.
 - [CLIFramework](https://github.com/c9s/CLIFramework) - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
 - [CLImate](https://github.com/thephpleague/climate) - A library for outputting colors and special formatting.
