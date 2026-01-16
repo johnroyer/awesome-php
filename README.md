@@ -148,7 +148,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [CLIFramework](https://github.com/c9s/CLIFramework) - A powerful command line application framework for PHP (BSD)
 - [CLImate](https://github.com/thephpleague/climate) - PHP's best friend for the terminal (MIT)
 - [Commando](https://github.com/nategood/commando) - An Elegant CLI Library for PHP (MIT)
-- [Cron Expression](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
+- [Cron Expression](https://github.com/mtdowling/cron-expression) - Calculate the next or previous run date and determine if a CRON expression is due (MIT)
 - [GetOpt](https://github.com/getopt-php/getopt-php) - A command line opt parser.
 - [GetOptionKit](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
 - [PsySH](https://github.com/bobthecow/psysh) - runtime developer console, interactive debugger and REPL for PHP (MIT)
