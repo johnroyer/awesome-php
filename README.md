@@ -150,7 +150,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Commando](https://github.com/nategood/commando) - An Elegant CLI Library for PHP (MIT)
 - [Cron Expression](https://github.com/mtdowling/cron-expression) - Calculate the next or previous run date and determine if a CRON expression is due (MIT)
 - [GetOpt](https://github.com/getopt-php/getopt-php) - library for command-line argument processing (MIT)
-- [GetOptionKit](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
+- [GetOptionKit](https://github.com/c9s/GetOptionKit) - object-oriented option parser library for PHP, which supports type constraints, flag, multiple flag, multiple values, required value checking (MITT)
 - [PsySH](https://github.com/bobthecow/psysh) - runtime developer console, interactive debugger and REPL for PHP (MIT)
 - [ShellWrap](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
 
