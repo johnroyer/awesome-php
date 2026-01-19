@@ -163,7 +163,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 #### Crawler
 
 - [Chrome PHP](https://github.com/chrome-php/chrome) - Instrument headless chrome/chromium instances from PHP (MIT)
-- [CrawlerDetect](https://github.com/JayBizzle/Crawler-Detect) - A PHP class for detecting bots/crawlers/spiders via the user agent.
+- [CrawlerDetect](https://github.com/JayBizzle/Crawler-Detect) - PHP class for detecting bots/crawlers/spiders via the user agent (MIT)
 - [DiDOM](https://github.com/Imangazaliev/DiDOM) - A super-fast HTML scrapper and parser.
 - [Embed](https://github.com/php-embed/Embed) - An information extractor from any web service or page.
 - [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
