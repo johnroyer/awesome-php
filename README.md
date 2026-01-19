@@ -158,7 +158,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 - [JoliCi](https://github.com/jolicode/JoliCi) - Run your TravisCi builds locally (MIT)
 - [PHPCI](https://github.com/dancryer/phpci) - free and open source continuous integration tool specifically designed for PHP (BSDv2)
-- [Setup PHP](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
+- [Setup PHP](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools (MIT)
 
 #### Crawler
 
