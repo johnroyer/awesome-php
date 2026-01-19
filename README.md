@@ -167,7 +167,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [DiDOM](https://github.com/Imangazaliev/DiDOM) - Simple and fast HTML and XML parser (MIT)
 - [Embed](https://github.com/php-embed/Embed) - Get info from any web service or page (MIT)
 - [PHP Spider](https://github.com/mvdbos/php-spider) - configurable and extensible PHP web spider (MIT)
-- [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
+- [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (MIT)
 
 #### Convertor
 
