@@ -179,7 +179,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHP Conversion](https://github.com/Crisu83/php-conversion) - Library for converting units and sizes (Apachev2)
 - [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - handling physical quantities and the units of measure in which they're represented (MIT)
 - [ByteUnits](https://github.com/gabrielelana/byte-units) - parse, format and convert byte units (MIT)
-- [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
+- [Hateoas](https://github.com/willdurand/Hateoas) - implementing representations for HATEOAS REST web services (MIT)
 - [Jane](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
 
 #### Data Science
