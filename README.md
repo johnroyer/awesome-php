@@ -176,7 +176,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Slugify](https://github.com/cocur/slugify) - Converts a string to a slug. Includes integrations for Symfony, Silex, Laravel, Zend Framework 2, Twig, Nette and Latte (MIT)
 - [SQL Formatter](https://github.com/jdorn/sql-formatter/) - lightweight php class for formatting sql statements. Handles automatic indentation and syntax highlighting (MIT)
 - [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - library for manipulating and converting colors (unknown)
-- [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
+- [PHP Conversion](https://github.com/Crisu83/php-conversion) - Library for converting units and sizes (Apachev2)
 - [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
 - [ByteUnits](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
 - [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
