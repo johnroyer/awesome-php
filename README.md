@@ -171,7 +171,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 
 #### Convertor
 
-- [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
+- [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library (MIT)
 - [Hyphenation](https://github.com/heiglandreas/Org_Heigl_Hyphenator) - Text-Hyphenation based on the TeX-hyphenation Algorithm
 - [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 - [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
