@@ -223,7 +223,7 @@ datamining, machine learning
 - [Spot2](https://github.com/spotorm/spot2) - Spot v2.x DataMapper built on top of Doctrine's Database Abstraction Layer (BSDv3)
 - [Doctrine Migrations](https://github.com/doctrine/migrations/) - Doctrine Database Migrations Library (MIT)
 - [Migrations](https://github.com/icomefromthenet/Migrations) - php 5.3 Migration Manager (MIT)
-- [Phinx](https://github.com/cakephp/phinx) - Another database migration library.
+- [Phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone (MIT)
 - [PHPMig](https://github.com/davedevelopment/phpmig) - Another migration management library.
 - [Ruckusing](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
 - [MongoDB](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
