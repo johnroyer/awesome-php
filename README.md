@@ -237,7 +237,7 @@ datamining, machine learning
 - [Carbon](https://github.com/briannesbitt/Carbon) - simple PHP API extension for DateTime (MIT)
 - [Chronos](https://github.com/cakephp/chronos) - standalone DateTime library originally based off of Carbon (MIT)
 - [Moment.php](https://github.com/fightbulc/moment.php) - Parse, validate, manipulate, and display dates in PHP w/ i18n support (MIT)
-- [Yasumi](https://github.com/azuyalabs/yasumi) - A library to help you calculate the dates and names of holidays.
+- [Yasumi](https://github.com/azuyalabs/yasumi) - The easy PHP Library for calculating holidays (MIT)
 
 #### Deployment
 
