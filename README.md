@@ -192,7 +192,7 @@ datamining, machine learning
 
 #### Data Structure
 
-- [CakePHP Collection](https://github.com/cakephp/collection) - A simple collections library.
+- [CakePHP Collection](https://github.com/cakephp/collection) - Collection library in CakePHP (MIT)
 - [convert_mbox_to_eml_files](https://github.com/uzulla/convert_mbox_to_eml_files) - Split huge mbox file to many .eml(.emlx) file (unknow)
 - [Fractal](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
 - [Ginq](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
