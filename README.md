@@ -205,7 +205,7 @@ datamining, machine learning
 - [Serializer](https://github.com/schmittjoh/serializer) - Library for (de-)serializing data of any complexity (supports JSON, and XML) (MIT)
 - [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP (BSDv2)
 - [Laminas Serializer](https://github.com/laminas/laminas-serializer) - Serialize and deserialize PHP structures to a variety of representations (BSDv3)
-- [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
+- [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP (MIT)
 
 #### Database
 
