@@ -228,7 +228,7 @@ datamining, machine learning
 - [Ruckusing](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite (LGPL)
 - [MongoDB](https://github.com/mongodb/mongo-php-driver) - The Official MongoDB PHP driver (Apachev2)
 - [PHPMongo](https://github.com/sokil/php-mongo) - MongoDB ODM, Part of [PHPMongoKit](https://github.com/PHPMongoKit) (MIT)
-- [Predis](https://github.com/predis/predis) - A feature-complete Redis library.
+- [Predis](https://github.com/predis/predis) - flexible and feature-complete Redis/Valkey client for PHP (MIT)
 
 #### Date and Time
 
