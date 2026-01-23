@@ -220,7 +220,7 @@ datamining, machine learning
 - [Pomm](https://github.com/chanmix51/Pomm) - Object Model Manager for Postgresql (MIT, mixed)
 - [RedBean](https://github.com/gabordemooij/redbean) - ORM layer that creates models, config and database on the fly (BSD & GPLv2 ([ref](https://www.redbeanphp.com/index.php?p=/license)))
 - [Slimdump](https://github.com/webfactory/slimdump) - tool for creating configurable dumps of large MySQL-databases (MIT)
-- [Spot2](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
+- [Spot2](https://github.com/spotorm/spot2) - Spot v2.x DataMapper built on top of Doctrine's Database Abstraction Layer (BSDv3)
 - [Doctrine Migrations](https://www.doctrine-project.org/projects/migrations.html) - A migration library for Doctrine.
 - [Migrations](https://github.com/icomefromthenet/Migrations) - A migration management library.
 - [Phinx](https://github.com/cakephp/phinx) - Another database migration library.
