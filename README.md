@@ -210,7 +210,7 @@ datamining, machine learning
 
 - [Atlas.Orm](https://github.com/atlasphp/Atlas.Orm) - data mapper implementation for your persistence model in PHP (MIT)
 - [Aura.Sql](https://github.com/auraphp/Aura.Sql) - SQL database access through PDO (MIT)
-- [Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
+- [Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server (MIT)
 - [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
 - [CakePHP ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern.
 - [Cycle ORM](https://github.com/cycle/orm) - PHP DataMapper, ORM.
