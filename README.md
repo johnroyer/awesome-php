@@ -243,7 +243,7 @@ datamining, machine learning
 
 - [Deployer](https://github.com/deployphp/deployer) - deployment tool with support for popular frameworks out of the box (MIT)
 - [Rocketeer](https://github.com/rocketeers/rocketeer) - Send your projects up in the clouds (MIT)
-- [CaptainHook](https://github.com/captainhook-git/captainhook) - An easy-to-use and flexible Git hook library.
+- [CaptainHook](https://github.com/captainhook-git/captainhook) - very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze (MIT)
 
 #### Dependency Injection
 
