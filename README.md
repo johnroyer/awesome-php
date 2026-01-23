@@ -198,7 +198,7 @@ datamining, machine learning
 - [Ginq](https://github.com/akanehara/ginq) - `LINQ to Object` inspired DSL for PHP (MIT)
 - [JsonMapper](https://github.com/cweiske/jsonmapper) - Map nested JSON structures onto PHP classes (OSLv3)
 - [JSON Machine](https://github.com/halaxa/json-machine) - Efficient, easy-to-use, and fast PHP JSON stream parser (Apachev2)
-- [Knapsack](https://github.com/DusanKasan/Knapsack) - Collection library inspired by Clojure's sequences.
+- [Knapsack](https://github.com/DusanKasan/Knapsack) - Collection pipeline library for PHP (MIT)
 - [mbox-splitter](https://github.com/devgiants/mbox-splitter) - Allow to split mbox filesn smaller files to allow POST import (GPLv2)
 - [msgpack.php](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
 - [PINQ](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
