@@ -234,7 +234,7 @@ datamining, machine learning
 #### Date and Time
 
 - [CalendR](https://github.com/yohang/CalendR) - A modern, object-oriented calendar management library (MIT)
-- [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
+- [Carbon](https://github.com/briannesbitt/Carbon) - simple PHP API extension for DateTime (MIT)
 - [Chronos](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
 - [Moment.php](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
 - [Yasumi](https://github.com/azuyalabs/yasumi) - A library to help you calculate the dates and names of holidays.
