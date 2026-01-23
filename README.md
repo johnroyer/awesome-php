@@ -760,6 +760,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
 - [PHPMon](https://phpmon.app/) - A macOS menu bar app for managing PHP installations (works with [Laravel Valet](https://laravel.com/docs/master/valet)).
 - [Puppet](https://www.puppet.com) - A server automation framework and application.
+- [Laravel Sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application (MIT)
 - [Takeout](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
 - [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
 - [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
