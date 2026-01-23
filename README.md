@@ -16,7 +16,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Data Structure](#data-structure)
     - [Database](#database)
     - [Date and Time](#date-and-time)
-    - [Deployment](#deployment)
     - [Dependency Injection](#dependency-injection)
     - [Documentation](#documentation)
     - [Email](#email)
@@ -238,12 +237,6 @@ datamining, machine learning
 - [Chronos](https://github.com/cakephp/chronos) - standalone DateTime library originally based off of Carbon (MIT)
 - [Moment.php](https://github.com/fightbulc/moment.php) - Parse, validate, manipulate, and display dates in PHP w/ i18n support (MIT)
 - [Yasumi](https://github.com/azuyalabs/yasumi) - The easy PHP Library for calculating holidays (MIT)
-
-#### Deployment
-
-- [Deployer](https://github.com/deployphp/deployer) - deployment tool with support for popular frameworks out of the box (MIT)
-- [Rocketeer](https://github.com/rocketeers/rocketeer) - Send your projects up in the clouds (MIT)
-- [CaptainHook](https://github.com/captainhook-git/captainhook) - very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze (MIT)
 
 #### Dependency Injection
 
@@ -746,10 +739,12 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
 - [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
 
-### Development Environment
+### Development tool / environment
 
 - [Ansible](https://www.redhat.com/en/ansible-collaborative) - A radically simple orchestration framework.
+- [CaptainHook](https://github.com/captainhook-git/captainhook) - very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze (MIT)
 - [DDEV](https://github.com/ddev/ddev) - a local web development environment system for PHP.
+- [Deployer](https://github.com/deployphp/deployer) - deployment tool with support for popular frameworks out of the box (MIT)
 - [Docker](https://www.docker.com/) - A containerization platform.
 - [Docker PHP Extension Installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
 - [Docksal](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
@@ -760,6 +755,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
 - [PHPMon](https://phpmon.app/) - A macOS menu bar app for managing PHP installations (works with [Laravel Valet](https://laravel.com/docs/master/valet)).
 - [Puppet](https://www.puppet.com) - A server automation framework and application.
+- [Rocketeer](https://github.com/rocketeers/rocketeer) - Send your projects up in the clouds (MIT)
 - [Laravel Sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application (MIT)
 - [Takeout](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
 - [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
