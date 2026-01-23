@@ -196,7 +196,7 @@ datamining, machine learning
 - [convert_mbox_to_eml_files](https://github.com/uzulla/convert_mbox_to_eml_files) - Split huge mbox file to many .eml(.emlx) file (unknow)
 - [Fractal](https://github.com/thephpleague/fractal) - Output complex, flexible, AJAX/RESTful data structures (MIT)
 - [Ginq](https://github.com/akanehara/ginq) - `LINQ to Object` inspired DSL for PHP (MIT)
-- [JsonMapper](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
+- [JsonMapper](https://github.com/cweiske/jsonmapper) - Map nested JSON structures onto PHP classes (OSLv3)
 - [JSON Machine](https://github.com/halaxa/json-machine) - Provides iteration over huge JSONs using simple `foreach`
 - [Knapsack](https://github.com/DusanKasan/Knapsack) - Collection library inspired by Clojure's sequences.
 - [mbox-splitter](https://github.com/devgiants/mbox-splitter) - Allow to split mbox filesn smaller files to allow POST import (GPLv2)
