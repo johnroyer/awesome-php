@@ -224,7 +224,7 @@ datamining, machine learning
 - [Doctrine Migrations](https://github.com/doctrine/migrations/) - Doctrine Database Migrations Library (MIT)
 - [Migrations](https://github.com/icomefromthenet/Migrations) - php 5.3 Migration Manager (MIT)
 - [Phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone (MIT)
-- [PHPMig](https://github.com/davedevelopment/phpmig) - Another migration management library.
+- [PHPMig](https://github.com/davedevelopment/phpmig) - Simple migrations system for php (MIT)
 - [Ruckusing](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
 - [MongoDB](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
 - [PHPMongo](https://github.com/sokil/php-mongo) - A MongoDB ORM.
