@@ -218,7 +218,7 @@ datamining, machine learning
 - [doctrine/orm](https://github.com/doctrine/orm) - A comprehensive DBAL and ORM (MIT)
 - [Laravel Eloquent](https://github.com/illuminate/database) - Subtree split of the Illuminate Database component (MIT)
 - [Pomm](https://github.com/chanmix51/Pomm) - Object Model Manager for Postgresql (MIT, mixed)
-- [RedBean](https://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
+- [RedBean](https://github.com/gabordemooij/redbean) - ORM layer that creates models, config and database on the fly (BSD & GPLv2 ([ref](https://www.redbeanphp.com/index.php?p=/license)))
 - [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 - [Spot2](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
 - [Doctrine Migrations](https://www.doctrine-project.org/projects/migrations.html) - A migration library for Doctrine.
