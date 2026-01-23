@@ -214,7 +214,7 @@ datamining, machine learning
 - [Baum](https://github.com/etrepat/baum) - implementation of the Nested Set pattern for Laravel's Eloquent ORM (MIT)
 - [CakePHP ORM](https://github.com/cakephp/orm) - flexible, lightweight and powerful Object-Relational Mapper for PHP, implemented using the DataMapper pattern (MIT)
 - [Cycle ORM](https://github.com/cycle/orm) - PHP DataMapper, ORM (MIT)
-- [Doctrine Extensions](https://github.com/doctrine-extensions/DoctrineExtensions ) - A collection of Doctrine behavioural extensions.
+- [Doctrine Extensions](https://github.com/doctrine-extensions/DoctrineExtensions ) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable (MIT)
 - [doctrine/orm](https://github.com/doctrine/orm) - A comprehensive DBAL and ORM (MIT)
 - [Laravel Eloquent](https://github.com/illuminate/database) - A simple ORM.
 - [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
