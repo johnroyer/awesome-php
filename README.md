@@ -213,7 +213,7 @@ datamining, machine learning
 - [Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server (MIT)
 - [Baum](https://github.com/etrepat/baum) - implementation of the Nested Set pattern for Laravel's Eloquent ORM (MIT)
 - [CakePHP ORM](https://github.com/cakephp/orm) - flexible, lightweight and powerful Object-Relational Mapper for PHP, implemented using the DataMapper pattern (MIT)
-- [Cycle ORM](https://github.com/cycle/orm) - PHP DataMapper, ORM.
+- [Cycle ORM](https://github.com/cycle/orm) - PHP DataMapper, ORM (MIT)
 - [Doctrine Extensions](https://github.com/doctrine-extensions/DoctrineExtensions ) - A collection of Doctrine behavioural extensions.
 - [doctrine/orm](https://github.com/doctrine/orm) - A comprehensive DBAL and ORM (MIT)
 - [Laravel Eloquent](https://github.com/illuminate/database) - A simple ORM.
