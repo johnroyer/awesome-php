@@ -201,7 +201,7 @@ datamining, machine learning
 - [Knapsack](https://github.com/DusanKasan/Knapsack) - Collection pipeline library for PHP (MIT)
 - [mbox-splitter](https://github.com/devgiants/mbox-splitter) - Allow to split mbox filesn smaller files to allow POST import (GPLv2)
 - [msgpack.php](https://github.com/rybakit/msgpack.php) - pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format (MIT)
-- [PINQ](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
+- [PINQ](https://github.com/TimeToogo/Pinq) - real LINQ library for PHP (MIT)
 - [Serializer](https://github.com/schmittjoh/serializer) - A library for serializing and de-serializing data.
 - [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
 - [Laminas Serializer](https://github.com/laminas/laminas-serializer) - Another library for serialising and de-serialising data.
