@@ -241,7 +241,7 @@ datamining, machine learning
 
 #### Deployment
 
-- [Deployer](https://github.com/deployphp/deployer) - A deployment tool.
+- [Deployer](https://github.com/deployphp/deployer) - deployment tool with support for popular frameworks out of the box (MIT)
 - [Rocketeer](https://github.com/rocketeers/rocketeer) - A fast and easy deployer for the PHP world.
 - [CaptainHook](https://github.com/captainhook-git/captainhook) - An easy-to-use and flexible Git hook library.
 
