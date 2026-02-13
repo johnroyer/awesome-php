@@ -240,14 +240,14 @@ datamining, machine learning
 
 #### Dependency Injection
 
-- [Aura.Di](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
-- [Acclimate](https://github.com/AcclimateContainer/acclimate-container) - A common interface to dependency injection containers and service locators.
-- [Auryn](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
-- [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
-- [Disco](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
+- [Aura.Di](https://github.com/auraphp/Aura.Di) - Dependency Injection System (MIT)
+- [Acclimate](https://github.com/AcclimateContainer/acclimate-container) - Adapters for PHP framework containers to an interoperable interface (MIT)
+- [Auryn](https://github.com/rdlowrey/Auryn) - IoC Dependency Injector (MIT)
+- [Container](https://github.com/thephpleague/container) - Small but powerful dependency injection container (MIT)
+- [Disco](https://github.com/bitExpert/disco) - PSR-11 compatible Dependency Injection Container for PHP (Apachev2)
 - [PHP-DI](https://github.com/PHP-DI/PHP-DI) - dependency injection container for humans (MIT)
-- [Pimple](https://github.com/silexphp/Pimple) - A tiny dependency injection container.
-- [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
+- [Pimple](https://github.com/silexphp/Pimple) - small PHP dependency injection container (MIT)
+- [Symfony DI](https://github.com/symfony/dependency-injection) - Allows you to standardize and centralize the way objects are constructed in your application (MIT)
 
 #### Documentation
 
