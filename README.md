@@ -255,7 +255,7 @@ datamining, machine learning
 - [daux.io](https://github.com/dauxio/daux.io) - documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly (MIT)
 - [phpDocumentor](https://github.com/phpdocumentor/phpdocumentor) - Documentation Generator for PHP (MIT)
 - [phpDox](https://github.com/theseer/phpdox) - Documentation generator for PHP Code using standard technology (BSDv3)
-- [zircote/swagger-php](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
+- [zircote/swagger-php](https://github.com/zircote/swagger-php) - swagger annotation and parsing library (Apachev2)
 - [Drest](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
 - [Annotations](https://github.com/doctrine/annotations) - An annotation library (part of Doctrine).
 
