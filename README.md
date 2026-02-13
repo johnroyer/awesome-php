@@ -251,7 +251,7 @@ datamining, machine learning
 
 #### Documentation
 
-- [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
+- [APIGen](https://github.com/apigen/apigen) - PHP 7.1 ready Smart and Simple Documentation for your PHP project (MIT)
 - [daux.io](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
 - [phpDocumentor](https://github.com/phpdocumentor/phpdocumentor) - Documentation Generator for PHP (MIT)
 - [phpDox](https://github.com/theseer/phpdox) - Documentation generator for PHP Code using standard technology (BSDv3)
