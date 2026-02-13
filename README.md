@@ -256,7 +256,7 @@ datamining, machine learning
 - [phpDocumentor](https://github.com/phpdocumentor/phpdocumentor) - Documentation Generator for PHP (MIT)
 - [phpDox](https://github.com/theseer/phpdox) - Documentation generator for PHP Code using standard technology (BSDv3)
 - [zircote/swagger-php](https://github.com/zircote/swagger-php) - swagger annotation and parsing library (Apachev2)
-- [Drest](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
+- [Drest](https://github.com/leedavis81/drest) - Quickly and easily expose Doctrine entities as REST resource endpoints with the use of simple configuration with annotations, yaml, json or a PHP array (MIT)
 - [Annotations](https://github.com/doctrine/annotations) - An annotation library (part of Doctrine).
 
 #### Email
