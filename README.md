@@ -264,7 +264,7 @@ datamining, machine learning
 - [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - enables you to convert HTML-pages/files into HTML-pages/files with inline styles (BSDv3)
 - [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - parsing plain text email content (MIT)
 - [Email Validator](https://github.com/nojacko/email-validator) - valid email addresses using a number of methods (MIT)
-- [Fetch](https://github.com/tedious/Fetch) - An IMAP library.
+- [Fetch](https://github.com/tedious/Fetch) - IMAP library for PHP (BSDv3)
 - [Mautic](https://github.com/mautic/mautic) - Email marketing automation
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 - [PHP IMAP](https://github.com/barbushin/php-imap) - A library to access mailboxes via POP3, IMAP and NNTP.
