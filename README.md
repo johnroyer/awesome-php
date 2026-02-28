@@ -261,7 +261,7 @@ datamining, machine learning
 
 #### Email
 
-- [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
+- [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - enables you to convert HTML-pages/files into HTML-pages/files with inline styles (BSDv3)
 - [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 - [Email Validator](https://github.com/nojacko/email-validator) - A small email address validation library.
 - [Fetch](https://github.com/tedious/Fetch) - An IMAP library.
