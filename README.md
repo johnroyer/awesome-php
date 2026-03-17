@@ -276,7 +276,7 @@ datamining, machine learning
 
 - [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - Extensive, portable and performant handling of UTF-8 and grapheme clusters (ApacheV2, GPLv2)
 - [Portable ASCII](https://github.com/voku/portable-ascii) - Portable ASCII library - performance optimized (ascii) string functions (MIT)
-- [Portable UTF-8](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
+- [Portable UTF-8](https://github.com/voku/portable-utf8) - Portable UTF-8 library - performance optimized (unicode) string functions (Apachev2, GPLv2)
 
 #### Event
 
