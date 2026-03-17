@@ -289,7 +289,7 @@ datamining, machine learning
 - [Pawl](https://github.com/ratchetphp/Pawl) - Asynchronous WebSocket client (MIT)
 - [Prooph Event Store](https://github.com/prooph/event-store) - PHP 7.4 EventStore Implementation (BSDv3)
 - [PHP Defer](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP (MIT)
-- [RxPHP](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
+- [RxPHP](https://github.com/ReactiveX/RxPHP) - Reactive extensions for PHP (MIT)
 
 #### File
 
