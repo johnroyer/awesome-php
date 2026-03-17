@@ -274,7 +274,7 @@ datamining, machine learning
 
 #### Encode Decode
 
-- [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
+- [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - Extensive, portable and performant handling of UTF-8 and grapheme clusters (ApacheV2, GPLv2)
 - [Portable ASCII](https://github.com/voku/portable-ascii) - A library to convert strings to ASCII.
 - [Portable UTF-8](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
 
