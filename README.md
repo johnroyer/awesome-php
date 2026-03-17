@@ -293,7 +293,7 @@ datamining, machine learning
 
 #### File
 
-- [CSV](https://github.com/thephpleague/csv) - A CSV data manipulation library.
+- [CSV](https://github.com/thephpleague/csv) - CSV data manipulation made easy (MIT)
 - [Flysystem](https://github.com/thephpleague/Flysystem) - Abstraction for local and remote filesystems.
 - [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 - [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
