@@ -295,7 +295,7 @@ datamining, machine learning
 
 - [CSV](https://github.com/thephpleague/csv) - CSV data manipulation made easy (MIT)
 - [Flysystem](https://github.com/thephpleague/Flysystem) - Abstraction for local and remote filesystems (MIT)
-- [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
+- [Gaufrette](https://github.com/KnpLabs/Gaufrette) - provides a filesystem abstraction layer (MIT)
 - [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 - [Parquet](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
 
