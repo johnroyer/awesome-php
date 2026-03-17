@@ -284,7 +284,7 @@ datamining, machine learning
 - [CakePHP Event](https://github.com/cakephp/event) - The event dispatcher library for CakePHP (MIT)
 - [Elephant.io](https://github.com/ElephantIO/elephant.io) - Send events to a socket.io server through PHP (MIT)
 - [Evenement](https://github.com/igorw/evenement) - simple event dispatching library for PHP (MIT)
-- [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
+- [Event](https://github.com/thephpleague/event) - Event package for your app and domain (MIT)
 - [Fast CGI Client](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket.
 - [Pawl](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
 - [Prooph Event Store](https://github.com/prooph/event-store) - An event source component to persist event messages
