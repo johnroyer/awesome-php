@@ -280,7 +280,7 @@ datamining, machine learning
 
 #### Event
 
-- [Broadway](https://github.com/broadway/broadway) - An event source and CQRS library.
+- [Broadway](https://github.com/broadway/broadway) - Infrastructure and testing helpers for creating CQRS and event sourced applications (MIT)
 - [CakePHP Event](https://github.com/cakephp/event) - An event dispatcher library.
 - [Elephant.io](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 - [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
