@@ -287,7 +287,7 @@ datamining, machine learning
 - [Event](https://github.com/thephpleague/event) - Event package for your app and domain (MIT)
 - [Fast CGI Client](https://github.com/hollodotme/fast-cgi-client) - fast CGI client for sending requests (a)synchronously to PHP-FPM (MIT)
 - [Pawl](https://github.com/ratchetphp/Pawl) - Asynchronous WebSocket client (MIT)
-- [Prooph Event Store](https://github.com/prooph/event-store) - An event source component to persist event messages
+- [Prooph Event Store](https://github.com/prooph/event-store) - PHP 7.4 EventStore Implementation (BSDv3)
 - [PHP Defer](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
 - [RxPHP](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
 
