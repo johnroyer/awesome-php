@@ -297,7 +297,7 @@ datamining, machine learning
 - [Flysystem](https://github.com/thephpleague/Flysystem) - Abstraction for local and remote filesystems (MIT)
 - [Gaufrette](https://github.com/KnpLabs/Gaufrette) - provides a filesystem abstraction layer (MIT)
 - [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - archive manager with unified interface for different formats (MIT)
-- [Parquet](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
+- [Parquet](https://github.com/flow-php/parquet) - PHP ETL - parquet library (MIT)
 
 ### Geolocation
 
