@@ -282,7 +282,7 @@ datamining, machine learning
 
 - [Broadway](https://github.com/broadway/broadway) - Infrastructure and testing helpers for creating CQRS and event sourced applications (MIT)
 - [CakePHP Event](https://github.com/cakephp/event) - The event dispatcher library for CakePHP (MIT)
-- [Elephant.io](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
+- [Elephant.io](https://github.com/ElephantIO/elephant.io) - Send events to a socket.io server through PHP (MIT)
 - [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 - [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
 - [Fast CGI Client](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket.
