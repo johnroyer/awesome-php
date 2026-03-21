@@ -270,7 +270,7 @@ datamining, machine learning
 - [PHP IMAP](https://github.com/barbushin/php-imap) - Manage mailboxes, filter/get/delete emails in PHP (MIT)
 - [Stampie](https://github.com/Stampie/Stampie) - Library for using online Email providers (MIT)
 - [SwiftMailer](https://github.com/swiftmailer/swiftmailer) - Comprehensive mailing tools (MIT)
-- [Symfony Mailer](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
+- [Symfony Mailer](https://github.com/symfony/mailer) - Helps sending emails (MIT)
 
 #### Encode Decode
 
