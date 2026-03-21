@@ -301,7 +301,7 @@ datamining, machine learning
 
 ### Geolocation
 
-- [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
+- [Country List](https://github.com/umpirsky/country-list) - List of all countries with names and ISO 3166-1 codes in all languages and data formats (MIT)
 - [GeoCoder](https://github.com/geocoder-php/Geocoder) - The most featured Geocoder library written in PHP (MIT)
 - [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
 - [GeoTools](https://github.com/thephpleague/geotools) - A library of geo-related tools.
