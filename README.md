@@ -305,7 +305,7 @@ datamining, machine learning
 - [GeoCoder](https://github.com/geocoder-php/Geocoder) - The most featured Geocoder library written in PHP (MIT)
 - [GeoJSON](https://github.com/jmikola/geojson) - GeoJSON implementation for PHP (MIT)
 - [GeoTools](https://github.com/thephpleague/geotools) - Geo-related tools PHP 7.3+ library built atop Geocoder and React libraries (MIT)
-- [PHPGeo](https://github.com/mjaschen/phpgeo) - A simple geo library.
+- [PHPGeo](https://github.com/mjaschen/phpgeo) - Simple Yet Powerful Geo Library for PHP (MIT)
 
 ### Globalization
 
