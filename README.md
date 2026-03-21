@@ -267,7 +267,7 @@ datamining, machine learning
 - [Fetch](https://github.com/tedious/Fetch) - IMAP library for PHP (BSDv3)
 - [Mautic](https://github.com/mautic/mautic) - Open Source Marketing Automation Software (GPLv3)
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) - classic email sending library for PHP (LGPLv2)
-- [PHP IMAP](https://github.com/barbushin/php-imap) - A library to access mailboxes via POP3, IMAP and NNTP.
+- [PHP IMAP](https://github.com/barbushin/php-imap) - Manage mailboxes, filter/get/delete emails in PHP (MIT)
 - [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/en-us), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
 - [SwiftMailer](https://github.com/swiftmailer/swiftmailer) - Comprehensive mailing tools (MIT)
 - [Symfony Mailer](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
