@@ -367,7 +367,7 @@ SDK, client API
 
 - [JSON Lint](https://github.com/Seldaek/jsonlint) - JSON Lint for PHP (MIT)
 - [JSONMapper](https://github.com/JsonMapper/JsonMapper) - Map nested JSON structures to PHP classes (MIT)
-- [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
+- [HAL](https://github.com/blongden/hal) - application/hal builder / formatter for PHP 5.4+ (MIT)
 
 #### Logging
 
