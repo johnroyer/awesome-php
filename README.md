@@ -324,7 +324,7 @@ Include internationalization (I18n), localization (L10n) and translation
 - [Requests](https://github.com/WordPress/Requests) - Requests for PHP is a humble HTTP request library. It simplifies how you interact with other sites and takes away all your worries (BSD liked)
 - [Retrofit](https://github.com/tebru/retrofit-php) - Retrofit implementation in PHP. A REST client for PHP (MIT)
 - [Symfony HTTP Client](https://github.com/symfony/http-client) - Provides powerful methods to fetch HTTP resources synchronously or asynchronously (MIT)
-- [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
+- [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR HTTP Message implementations (BSDv3)
 
 #### Intergration
 
