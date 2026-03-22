@@ -316,7 +316,7 @@ Include internationalization (I18n), localization (L10n) and translation
 
 #### HTTP
 
-- [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
+- [Buzz](https://github.com/kriswallsmith/Buzz) - PHP's lightweight HTTP client (MIT)
 - [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
 - [HTTPlug](https://github.com/php-http/httplug) - HTTPlug, the HTTP client abstraction for PHP (MIT)
 - [Nyholm PSR-7](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation (MIT)
