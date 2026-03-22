@@ -312,7 +312,7 @@ datamining, machine learning
 Include internationalization (I18n), localization (L10n) and translation
 
 - [Aura.Intl](https://github.com/auraphp/Aura.Intl) - Internationalization tools, particularly message translation (MIT)
-- [CakePHP I18n](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers.
+- [CakePHP I18n](https://github.com/cakephp/i18n) - Provides support for message translation and localization for dates and numbers (MIT)
 
 #### HTTP
 
