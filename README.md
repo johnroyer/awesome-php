@@ -348,7 +348,7 @@ SDK, client API
 - [Square](https://github.com/square/connect-php-sdk) - client library for the Square Connect APIs (Apachev2)
 - [Stripe](https://github.com/stripe/stripe-php) - library for the Stripe API (MIT)
 - [Solarium](https://github.com/solariumphp/solarium) - Solr client library (BSDv2)
-- [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
+- [Twilio](https://github.com/twilio/twilio-php) - library for communicating with the Twilio REST API and generating TwiML (MIT)
 
 
 #### Image
