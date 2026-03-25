@@ -339,7 +339,7 @@ SDK, client API
 - [Ganesha](https://github.com/ackintosh/ganesha) - Circuit Breaker pattern implementation for PHP applications (MIT)
 - [Github](https://github.com/KnpLabs/php-github-api) - simple PHP GitHub API client, Object Oriented, tested and documented (MIT)
 - [Instructor for PHP](https://github.com/cognesy/instructor-php) - Unified LLM API, structured data outputs with LLMs, and agent SDK (MIT)
-- [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
+- [Mailgun](https://github.com/mailgun/mailgun-php) Mailgun's Official SDK (MIT)
 - [meilisearch-php](https://github.com/meilisearch/meilisearch-php) - PHP client for Meilisearch (MIT)
 - [OpenAI Client](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [OpenAI Client for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
