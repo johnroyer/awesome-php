@@ -347,7 +347,7 @@ SDK, client API
 - [Square](https://github.com/square/connect-php-sdk) - client library for the Square Connect APIs (Apachev2)
 - [Stripe](https://github.com/stripe/stripe-php) - library for the Stripe API (MIT)
 - [Solarium](https://github.com/solariumphp/solarium) - Solr client library (BSDv2)
-- [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](https://sphinxsearch.com/) and [Manticore](https://manticoresearch.com/) search engines.
+- [SphinxQL Query Builder](https://github.com/FoolCode/SphinxQL-Query-Builder) - generates SphinxQL, a SQL dialect, which is used to query the Sphinx search engine (Apachev2)
 - [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
 
 
