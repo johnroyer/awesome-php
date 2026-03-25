@@ -330,7 +330,7 @@ Include internationalization (I18n), localization (L10n) and translation
 
 SDK, client API
 
-- [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
+- [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - Official repository of the AWS SDK (Apachev2)
 - [AsyncAWS](https://async-aws.com/) - An unofficial asynchronous PHP AWS SDK.
 - [Bref](https://bref.sh/) - helps you go serverless on AWS with PHP (MIT)
 - [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
