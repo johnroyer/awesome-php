@@ -341,7 +341,7 @@ SDK, client API
 - [Instructor for PHP](https://github.com/cognesy/instructor-php) - Unified LLM API, structured data outputs with LLMs, and agent SDK (MIT)
 - [Mailgun](https://github.com/mailgun/mailgun-php) Mailgun's Official SDK (MIT)
 - [meilisearch-php](https://github.com/meilisearch/meilisearch-php) - PHP client for Meilisearch (MIT)
-- [OpenAI Client](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
+- [OpenAI Client](https://github.com/openai-php/client) - supercharged community-maintained PHP API client that allows you to interact with OpenAI API (MIT)
 - [OpenAI Client for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
 - [PHP Mistral AI SDK](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
 - [Square](https://github.com/square/connect-php-sdk) - The official Square PHP SDK for payments and other Square APIs.
