@@ -344,7 +344,7 @@ SDK, client API
 - [OpenAI Client](https://github.com/openai-php/client) - supercharged community-maintained PHP API client that allows you to interact with OpenAI API (MIT)
 - [OpenAI Client for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API (MIT)
 - [PHP Mistral AI SDK](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects (ISC)
-- [Square](https://github.com/square/connect-php-sdk) - The official Square PHP SDK for payments and other Square APIs.
+- [Square](https://github.com/square/connect-php-sdk) - client library for the Square Connect APIs (Apachev2)
 - [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 - [Solarium](https://www.solarium-project.org/) - A client library for [Solr](https://solr.apache.org/).
 - [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](https://sphinxsearch.com/) and [Manticore](https://manticoresearch.com/) search engines.
