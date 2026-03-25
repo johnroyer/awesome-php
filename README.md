@@ -202,6 +202,7 @@ datamining, machine learning
 - [msgpack.php](https://github.com/rybakit/msgpack.php) - pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format (MIT)
 - [PINQ](https://github.com/TimeToogo/Pinq) - real LINQ library for PHP (MIT)
 - [Serializer](https://github.com/schmittjoh/serializer) - Library for (de-)serializing data of any complexity (supports JSON, and XML) (MIT)
+- [SphinxQL Query Builder](https://github.com/FoolCode/SphinxQL-Query-Builder) - generates SphinxQL, a SQL dialect, which is used to query the Sphinx search engine (Apachev2)
 - [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP (BSDv2)
 - [Laminas Serializer](https://github.com/laminas/laminas-serializer) - Serialize and deserialize PHP structures to a variety of representations (BSDv3)
 - [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP (MIT)
@@ -347,7 +348,6 @@ SDK, client API
 - [Square](https://github.com/square/connect-php-sdk) - client library for the Square Connect APIs (Apachev2)
 - [Stripe](https://github.com/stripe/stripe-php) - library for the Stripe API (MIT)
 - [Solarium](https://github.com/solariumphp/solarium) - Solr client library (BSDv2)
-- [SphinxQL Query Builder](https://github.com/FoolCode/SphinxQL-Query-Builder) - generates SphinxQL, a SQL dialect, which is used to query the Sphinx search engine (Apachev2)
 - [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
 
 
