@@ -334,7 +334,8 @@ SDK, client API
 - [AsyncAWS](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses (MIT)
 - [Bref](https://bref.sh/) - helps you go serverless on AWS with PHP (MIT)
 - [createsend-php](https://github.com/campaignmonitor/createsend-php) - library for the Campaign Monitor API (MIT,BSDv2)
-- [Elastica](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.- [Ganesha](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
+- [Elastica](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.
+- [Ganesha](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
 - [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - The official client library for [ElasticSearch](https://www.elastic.co/).
 - [Github](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
 - [Instructor for PHP](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
