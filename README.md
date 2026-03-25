@@ -335,7 +335,7 @@ SDK, client API
 - [Bref](https://bref.sh/) - helps you go serverless on AWS with PHP (MIT)
 - [createsend-php](https://github.com/campaignmonitor/createsend-php) - library for the Campaign Monitor API (MIT,BSDv2)
 - [Elastica](https://github.com/ruflin/Elastica) - PHP client for elasticsearch (MIT)
-- [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - The official client library for [ElasticSearch](https://www.elastic.co/).
+- [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - Official PHP client for Elasticsearch (MIT)
 - [Ganesha](https://github.com/ackintosh/ganesha) - Circuit Breaker pattern implementation for PHP applications (MIT)
 - [Github](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
 - [Instructor for PHP](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
