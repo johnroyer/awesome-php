@@ -338,7 +338,7 @@ SDK, client API
 - [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - Official PHP client for Elasticsearch (MIT)
 - [Ganesha](https://github.com/ackintosh/ganesha) - Circuit Breaker pattern implementation for PHP applications (MIT)
 - [Github](https://github.com/KnpLabs/php-github-api) - simple PHP GitHub API client, Object Oriented, tested and documented (MIT)
-- [Instructor for PHP](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
+- [Instructor for PHP](https://github.com/cognesy/instructor-php) - Unified LLM API, structured data outputs with LLMs, and agent SDK (MIT)
 - [Jieba-PHP](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
 - [LLPhant](https://github.com/LLPhant/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
 - [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
