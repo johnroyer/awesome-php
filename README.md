@@ -339,7 +339,6 @@ SDK, client API
 - [Ganesha](https://github.com/ackintosh/ganesha) - Circuit Breaker pattern implementation for PHP applications (MIT)
 - [Github](https://github.com/KnpLabs/php-github-api) - simple PHP GitHub API client, Object Oriented, tested and documented (MIT)
 - [Instructor for PHP](https://github.com/cognesy/instructor-php) - Unified LLM API, structured data outputs with LLMs, and agent SDK (MIT)
-- [Jieba-PHP](https://github.com/fukuball/jieba-php) - Chinese text segmentation: built to be the best PHP Chinese word segmentation module (MIT)
 - [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
 - [meilisearch-php](https://github.com/meilisearch/meilisearch-php) - PHP client for Meilisearch (MIT)
 - [OpenAI Client](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
@@ -375,6 +374,7 @@ SDK, client API
 
 #### Machine Learning / LLM
 
+- [Jieba-PHP](https://github.com/fukuball/jieba-php) - Chinese text segmentation: built to be the best PHP Chinese word segmentation module (MIT)
 - [LLPhant](https://github.com/LLPhant/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
 
 #### Math
