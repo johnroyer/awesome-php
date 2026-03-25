@@ -346,7 +346,7 @@ SDK, client API
 - [PHP Mistral AI SDK](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects (ISC)
 - [Square](https://github.com/square/connect-php-sdk) - client library for the Square Connect APIs (Apachev2)
 - [Stripe](https://github.com/stripe/stripe-php) - library for the Stripe API (MIT)
-- [Solarium](https://www.solarium-project.org/) - A client library for [Solr](https://solr.apache.org/).
+- [Solarium](https://github.com/solariumphp/solarium) - Solr client library (BSDv2)
 - [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](https://sphinxsearch.com/) and [Manticore](https://manticoresearch.com/) search engines.
 - [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
 
