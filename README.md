@@ -357,7 +357,7 @@ SDK, client API
 - [Glide](https://github.com/thephpleague/glide) - Wonderfully easy on-demand image manipulation library with an HTTP based API (MIT)
 - [Image Hash](https://github.com/jenssegers/imagehash) - Perceptual image hashing (MIT)
 - [Image Optimizer](https://github.com/psliwa/image-optimizer) - Image optimization / compression library (MIT)
-- [Imagine](https://imagine.readthedocs.io/en/latest/index.html) - An image manipulation library.
+- [Imagine](https://github.com/php-imagine/Imagine) - PHP Object Oriented image manipulation library (MIT,Adobe ICC)
 - [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
 - [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
 - [PHP QR Code](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader.
