@@ -354,7 +354,7 @@ SDK, client API
 #### Image
 
 - [Color Extractor](https://github.com/thephpleague/color-extractor) - Extract colors from an image like a human would do (MIT)
-- [Glide](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
+- [Glide](https://github.com/thephpleague/glide) - Wonderfully easy on-demand image manipulation library with an HTTP based API (MIT)
 - [Image Hash](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
 - [Image Optimizer](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
 - [Imagine](https://imagine.readthedocs.io/en/latest/index.html) - An image manipulation library.
