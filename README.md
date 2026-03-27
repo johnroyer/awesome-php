@@ -370,7 +370,7 @@ SDK, client API
 
 #### Logging
 
-- [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
+- [Monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services (MIT)
 
 #### Machine Learning / LLM
 
