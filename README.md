@@ -358,7 +358,7 @@ SDK, client API
 - [Image Hash](https://github.com/jenssegers/imagehash) - Perceptual image hashing (MIT)
 - [Image Optimizer](https://github.com/psliwa/image-optimizer) - Image optimization / compression library (MIT)
 - [Imagine](https://github.com/php-imagine/Imagine) - PHP Object Oriented image manipulation library (MIT,Adobe ICC)
-- [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
+- [Intervention Image](https://github.com/Intervention/image) - Image Processing (MIT)
 - [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
 - [PHP QR Code](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader.
 
