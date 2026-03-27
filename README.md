@@ -360,7 +360,7 @@ SDK, client API
 - [Imagine](https://github.com/php-imagine/Imagine) - PHP Object Oriented image manipulation library (MIT,Adobe ICC)
 - [Intervention Image](https://github.com/Intervention/image) - Image Processing (MIT)
 - [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - PHP5.3+ library that helps you to manage images based on GD library (MIT)
-- [PHP QR Code](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader.
+- [PHP QR Code](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader with a user-friendly API (MIT,Apachev2)
 
 #### JSON
 
