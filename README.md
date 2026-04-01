@@ -380,7 +380,7 @@ SDK, client API
 #### Math
 
 - [Brick Math](https://github.com/brick/math) - Arbitrary-precision arithmetic library for PHP (MIT)
-- [MathPHP](https://github.com/markrogoyski/math-php) - A math library for PHP.
+- [MathPHP](https://github.com/markrogoyski/math-php) - Features descriptive statistics and regressions; Continuous and discrete probability distributions; Linear algebra with matrices and vectors, Numerical analysis; special mathematical functions; Algebra (MIT)
 - [DecimalObject](https://github.com/php-collective/decimal-object) - A value object to handle decimals/floats easily and more precisely.
 
 #### Middleware
