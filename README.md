@@ -407,7 +407,7 @@ SDK, client API
 
 #### Notifications
 
-- [JoliNotif](https://github.com/jolicode/JoliNotif) - A cross-platform library for desktop notification (support for Growl, notify-send, toaster, etc)
+- [JoliNotif](https://github.com/jolicode/JoliNotif) - Send notifications to your desktop directly from your PHP script (MIT)
 - [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - A standalone library for device push notifications.
 - [Notificato](https://github.com/mac-cain13/notificato) - A library for handling push notifications.
 - [Notificator](https://github.com/namshi/notificator) - A lightweight notification library.
