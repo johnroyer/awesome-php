@@ -410,7 +410,7 @@ SDK, client API
 - [JoliNotif](https://github.com/jolicode/JoliNotif) - Send notifications to your desktop directly from your PHP script (MIT)
 - [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - Standalone PHP library for easy devices notifications push (MIT)
 - [Notificato](https://github.com/mac-cain13/notificato) - Takes care of Apple push notifications (APNS) in your PHP projects (MIT)
-- [Notificator](https://github.com/namshi/notificator) - A lightweight notification library.
+- [Notificator](https://github.com/namshi/notificator) - very lightweight library to handle notifications the smart way (unknown)
 - [Php-pushwoosh](https://github.com/gomoob/php-pushwoosh) - A PHP Library to easily send push notifications with the Pushwoosh REST Web Services.
 
 #### Network
