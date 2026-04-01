@@ -403,7 +403,7 @@ SDK, client API
 #### Navigation
 
 - [KnpMenu](https://github.com/KnpLabs/KnpMenu) - Menu Library for PHP (MIT)
-- [Menu](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
+- [Menu](https://github.com/spatie/menu) - Html menu generator (MIT)
 
 #### Notifications
 
