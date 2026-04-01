@@ -387,7 +387,7 @@ SDK, client API
 
 - [PSR-15 Middlewares](https://github.com/middlewares/psr15-middlewares) - Collection of PSR-15 middlewares officially developed by Middlewares organization (MIT)
 - [Relay](https://github.com/relayphp/Relay.Relay) - PSR-15 server request handler (MIT)
-- [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
+- [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - PSR-7 middleware foundation for building and dispatching middleware pipelines (BSDv3)
 
 #### Multi-Proccesses
 
