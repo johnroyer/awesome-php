@@ -375,7 +375,7 @@ SDK, client API
 #### Machine Learning / LLM
 
 - [Jieba-PHP](https://github.com/fukuball/jieba-php) - Chinese text segmentation: built to be the best PHP Chinese word segmentation module (MIT)
-- [LLPhant](https://github.com/LLPhant/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
+- [LLPhant](https://github.com/LLPhant/LLPhant) - comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain (MIT)
 
 #### Math
 
