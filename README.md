@@ -379,7 +379,7 @@ SDK, client API
 
 #### Math
 
-- [Brick Math](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
+- [Brick Math](https://github.com/brick/math) - Arbitrary-precision arithmetic library for PHP (MIT)
 - [MathPHP](https://github.com/markrogoyski/math-php) - A math library for PHP.
 - [DecimalObject](https://github.com/php-collective/decimal-object) - A value object to handle decimals/floats easily and more precisely.
 
