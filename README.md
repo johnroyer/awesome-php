@@ -431,7 +431,7 @@ SDK, client API
 
 Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
-- [Cebe Markdown](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
+- [Cebe Markdown](https://github.com/cebe/markdown) - super fast, highly extensible markdown parser for PHP (MIT)
 - [CommonMark PHP](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
 - [Decoda](https://github.com/milesj/decoda) - A lightweight markup parser library.
 - [Essence](https://github.com/essence/essence) - A library for extracting web media.
