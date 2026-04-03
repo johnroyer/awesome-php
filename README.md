@@ -436,7 +436,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [Decoda](https://github.com/milesj/decoda) - lightweight lexical string parser for BBCode styled markup (MIT)
 - [Essence](https://github.com/essence/essence) - Extracts information about web pages, like youtube videos, twitter statuses or blog articles (BSDv2)
 - [Embera](https://github.com/mpratt/Embera) - Oembed consumer library, that gives you information about urls. It helps you replace urls to youtube or vimeo (MIT)
-- [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
+- [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP (MIT)
 - [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
 - [JSON Schema](https://github.com/jsonrainbow/json-schema) - A [JSON Schema](https://json-schema.org/) validation library.
 - [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
