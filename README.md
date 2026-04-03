@@ -415,7 +415,7 @@ SDK, client API
 
 #### Network
 
-- [IP](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
+- [IP](https://github.com/darsyn/ip) - Immutable value object for IPv4 and IPv6 addresses, including helper methods and Doctrine support (MIT)
 - [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
 
 #### Office
