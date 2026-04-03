@@ -425,7 +425,7 @@ SDK, client API
 - [PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents (LGPLv3)
 - [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (MIT)
 - [Office Convertor](https://github.com/ncjoes/office-converter) - PHP Wrapper for LibreOffice (MIT)
-- [OpenSpout](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
+- [OpenSpout](https://github.com/openspout/openspout) - Read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way (MIT,Apachv2)
 
 #### Parser
 
