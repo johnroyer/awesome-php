@@ -445,7 +445,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [PHP Markdown](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber (BSDv3)
 - [Shiki PHP](https://github.com/spatie/shiki-php) - Code highlighting with Shiki in PHP (MIT)
 - [VObject](https://github.com/sabre-io/vobject) - allows you to easily parse and manipulate iCalendar and vCard objects (BSDv3)
-- [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
+- [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - library for parsing user agent strings for [ua-parser](https://github.com/tobie/ua-parser) project (MIT)
 - [Stringy](https://github.com/voku/Stringy) - A string manipulation library with multibyte support.
 - [Agent](https://github.com/jenssegers/agent) - A PHP desktop/mobile user agent parser, based on Mobiledetect.
 - [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
