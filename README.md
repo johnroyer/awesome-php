@@ -434,7 +434,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [Cebe Markdown](https://github.com/cebe/markdown) - super fast, highly extensible markdown parser for PHP (MIT)
 - [CommonMark PHP](https://github.com/thephpleague/commonmark) - Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs (BSDv3)
 - [Decoda](https://github.com/milesj/decoda) - lightweight lexical string parser for BBCode styled markup (MIT)
-- [Essence](https://github.com/essence/essence) - A library for extracting web media.
+- [Essence](https://github.com/essence/essence) - Extracts information about web pages, like youtube videos, twitter statuses or blog articles (BSDv2)
 - [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
 - [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
 - [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
