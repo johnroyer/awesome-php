@@ -441,7 +441,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [JSON Schema](https://github.com/jsonrainbow/json-schema) - JSON Schema for PHP (MIT)
 - [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - powerful schema validator (MIT)
 - [Parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser (MIT)
-- [PHP CSS Parser](https://github.com/MyIntervals/PHP-CSS-Parser) - A Parser for CSS Files written in PHP.
+- [PHP CSS Parser](https://github.com/MyIntervals/PHP-CSS-Parser) - Parser for CSS Files written in PHP. Allows extraction of CSS files into a data structure, manipulation of said structure and output as (optimized) CSS (MIT)
 - [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
 - [Shiki PHP](https://github.com/spatie/shiki-php) - A [Shiki](https://github.com/shikijs/shiki) code highlighting package in PHP.
 - [VObject](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
