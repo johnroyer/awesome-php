@@ -456,7 +456,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 #### PDF
 
 - [Browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string (MIT)
-- [Dompdf](https://github.com/dompdf/dompdf) - A HTML to PDF converter.
+- [Dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP(LGPL)
 - [Gotenberg](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
 - [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 - [TCPDF](https://github.com/tecnickcom/tcpdf) - Official clone of PHP library to generate PDF documents and barcodes (LGPLv3)
