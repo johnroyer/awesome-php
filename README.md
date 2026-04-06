@@ -725,10 +725,6 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [phpBB](https://github.com/phpbb/phpbb) - a popular open-source bulletin board (GPLv2)
 - [Vanilla](https://github.com/vanilla/vanilla) - powerfully simple discussion forum you can easily customize to make as unique as your community (GPLv2)
 
-#### Photo and Video
-
-- [Lychee](https://github.com/LycheeOrg/Lychee) - Great looking and easy-to-use photo-management-system (MIT)
-
 ### Static Site Generators
 
 - [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
