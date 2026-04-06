@@ -338,6 +338,7 @@ SDK, client API
 - [Elastica](https://github.com/ruflin/Elastica) - PHP client for elasticsearch (MIT)
 - [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - Official PHP client for Elasticsearch (MIT)
 - [Ganesha](https://github.com/ackintosh/ganesha) - Circuit Breaker pattern implementation for PHP applications (MIT)
+- [Gotenberg](https://github.com/gotenberg/gotenberg-php) - PHP client for interacting with Gotenberg
 - [Github](https://github.com/KnpLabs/php-github-api) - simple PHP GitHub API client, Object Oriented, tested and documented (MIT)
 - [Instructor for PHP](https://github.com/cognesy/instructor-php) - Unified LLM API, structured data outputs with LLMs, and agent SDK (MIT)
 - [Mailgun](https://github.com/mailgun/mailgun-php) Mailgun's Official SDK (MIT)
@@ -457,7 +458,6 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 - [Browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string (MIT)
 - [Dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP(LGPL)
-- [Gotenberg](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
 - [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 - [TCPDF](https://github.com/tecnickcom/tcpdf) - Official clone of PHP library to generate PDF documents and barcodes (LGPLv3)
 
