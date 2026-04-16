@@ -448,7 +448,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [VObject](https://github.com/sabre-io/vobject) - allows you to easily parse and manipulate iCalendar and vCard objects (BSDv3)
 - [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - library for parsing user agent strings for [ua-parser](https://github.com/tobie/ua-parser) project (MIT)
 - [Stringy](https://github.com/voku/Stringy) - string manipulation library with multibyte support, performance optimized (MIT)
-- [Agent](https://github.com/jenssegers/agent) - A PHP desktop/mobile user agent parser, based on Mobiledetect.
+- [Agent](https://github.com/jenssegers/agent) - desktop/mobile user agent parser with support for Laravel, based on Mobiledetect (MIT)
 - [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 - [Symfony HTML Sanitizer](https://github.com/symfony/html-sanitizer) - An HTML sanitizer library.
 - [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
