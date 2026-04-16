@@ -451,7 +451,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [Agent](https://github.com/jenssegers/agent) - desktop/mobile user agent parser with support for Laravel, based on Mobiledetect (MIT)
 - [HTML Purifier](https://github.com/ezyang/htmlpurifier) - Standards compliant HTML filter (LGPL)
 - [Symfony HTML Sanitizer](https://github.com/symfony/html-sanitizer) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document's DOM (MIT)
-- [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
+- [Negotiation](https://github.com/willdurand/Negotiation) - Content Negotiation tools (MIT)
 - [vanodevium/toml](https://github.com/vanodevium/toml) - library for encoding and decoding TOML (MIT)
 
 #### PDF
