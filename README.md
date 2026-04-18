@@ -472,7 +472,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [PHPBench](https://github.com/phpbench/phpbench) - benchmarking Framework (MIT)
 - [PHPSpy](https://github.com/adsr/phpspy) - low-overhead sampling profiler for PHP 7+ (MIT)
 - [Tracy](https://github.com/nette/tracy) - addictive tool to ease debugging PHP code for cool developers (dual Licensing: BSD or GPL)
-- [Whoops](https://github.com/filp/whoops) - A pretty error-handling library.
+- [Whoops](https://github.com/filp/whoops) - PHP errors for cool kids (MIT)
 - [Xdebug](https://github.com/xdebug/xdebug) - Step Debugger and Debugging Aid for PHP (PHP liked)
 - [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 - [Z-Ray](https://www.zend.com/products/z-ray) - enterprise-level PHP debugger that comes with Zend Server (commercial)
