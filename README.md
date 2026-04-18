@@ -474,7 +474,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [Tracy](https://github.com/nette/tracy) - addictive tool to ease debugging PHP code for cool developers (dual Licensing: BSD or GPL)
 - [Whoops](https://github.com/filp/whoops) - PHP errors for cool kids (MIT)
 - [Xdebug](https://github.com/xdebug/xdebug) - Step Debugger and Debugging Aid for PHP (PHP liked)
-- [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
+- [XHProf](https://github.com/phacility/xhprof) - function-level hierarchical profiler for PHP and has a simple HTML based user interface (Apachev2)
 - [Z-Ray](https://www.zend.com/products/z-ray) - enterprise-level PHP debugger that comes with Zend Server (commercial)
 - [Blackfire](https://www.blackfire.io) - fastest way to spot bottlenecks in your PHP & Python code (commercial)
 
