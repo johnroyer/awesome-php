@@ -466,7 +466,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [Barbushin PHP Console](https://github.com/barbushin/php-console) - Handle PHP errors, dump variables, execute PHP code remotely in Google Chromew (MIT)
 - [Kint](https://github.com/kint-php/kint) - Advanced PHP dumper (MIT)
 - [Metrics](https://github.com/beberlei/metrics) - Simple library that abstracts different metrics collectors (unknown)
-- [PCOV](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
+- [PCOV](https://github.com/krakjoe/pcov) - CodeCoverage compatible driver (PHP)
 - [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
 - [php-debugbar](https://github.com/php-debugbar/php-debugbar) - Debug bar for PHP (MIT)
 - [PHPBench](https://github.com/phpbench/phpbench) - A benchmarking Framework.
