@@ -345,6 +345,7 @@ SDK, client API
 - [meilisearch-php](https://github.com/meilisearch/meilisearch-php) - PHP client for Meilisearch (MIT)
 - [OpenAI Client](https://github.com/openai-php/client) - supercharged community-maintained PHP API client that allows you to interact with OpenAI API (MIT)
 - [OpenAI Client for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API (MIT)
+- [Pheanstalk](https://github.com/pheanstalk/pheanstalk) - client for beanstalkd queue (MIT)
 - [PHP Mistral AI SDK](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects (ISC)
 - [Square](https://github.com/square/connect-php-sdk) - client library for the Square Connect APIs (Apachev2)
 - [Stripe](https://github.com/stripe/stripe-php) - library for the Stripe API (MIT)
@@ -482,7 +483,6 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 - [Bernard](https://github.com/bernardphp/bernard) - multi-backend PHP library for creating background jobs for later processing (MIT)
 - [BunnyPHP](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library (MIT)
-- [Pheanstalk](https://github.com/pheanstalk/pheanstalk) - A Beanstalkd client library.
 - [PHP AMQP](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
 - [Tarantool Queue](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
 - [Thumper](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
