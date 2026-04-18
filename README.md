@@ -351,6 +351,7 @@ SDK, client API
 - [Square](https://github.com/square/connect-php-sdk) - client library for the Square Connect APIs (Apachev2)
 - [Stripe](https://github.com/stripe/stripe-php) - library for the Stripe API (MIT)
 - [Solarium](https://github.com/solariumphp/solarium) - Solr client library (BSDv2)
+- [Tarantool Queue](https://github.com/tarantool-php/queue) - bindings for Tarantool Queue (MIT)
 - [Twilio](https://github.com/twilio/twilio-php) - library for communicating with the Twilio REST API and generating TwiML (MIT)
 
 
@@ -484,7 +485,6 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 - [Bernard](https://github.com/bernardphp/bernard) - multi-backend PHP library for creating background jobs for later processing (MIT)
 - [BunnyPHP](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library (MIT)
-- [Tarantool Queue](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
 - [Thumper](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
 - [Enqueue](https://github.com/php-enqueue/enqueue-dev) - A message queue packages for PHP that supports RabbitMQ, AMQP, STOMP, Amazon SQS, Redis and Doctrine transports.
 
