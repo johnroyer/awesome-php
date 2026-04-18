@@ -470,7 +470,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [PHP Console](https://github.com/Seldaek/php-console) - PHP debug console (BSDv3)
 - [php-debugbar](https://github.com/php-debugbar/php-debugbar) - Debug bar for PHP (MIT)
 - [PHPBench](https://github.com/phpbench/phpbench) - benchmarking Framework (MIT)
-- [PHPSpy](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
+- [PHPSpy](https://github.com/adsr/phpspy) - low-overhead sampling profiler for PHP 7+ (MIT)
 - [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
 - [Whoops](https://github.com/filp/whoops) - A pretty error-handling library.
 - [Xdebug](https://github.com/xdebug/xdebug) - Step Debugger and Debugging Aid for PHP (PHP liked)
