@@ -485,7 +485,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 - [Bernard](https://github.com/bernardphp/bernard) - multi-backend PHP library for creating background jobs for later processing (MIT)
 - [BunnyPHP](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library (MIT)
-- [Thumper](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
+- [Thumper](https://github.com/php-amqplib/Thumper) - implements several messaging patterns for RabbitMQ (MIT)
 - [Enqueue](https://github.com/php-enqueue/enqueue-dev) - A message queue packages for PHP that supports RabbitMQ, AMQP, STOMP, Amazon SQS, Redis and Doctrine transports.
 
 #### Router
