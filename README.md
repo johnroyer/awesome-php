@@ -464,7 +464,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 #### Profiling
 
 - [Barbushin PHP Console](https://github.com/barbushin/php-console) - Handle PHP errors, dump variables, execute PHP code remotely in Google Chromew (MIT)
-- [Kint](https://github.com/kint-php/kint) - A debugging and profiling tool.
+- [Kint](https://github.com/kint-php/kint) - Advanced PHP dumper (MIT)
 - [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 - [PCOV](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
 - [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
