@@ -481,7 +481,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 #### Queue
 
 - [Bernard](https://github.com/bernardphp/bernard) - multi-backend PHP library for creating background jobs for later processing (MIT)
-- [BunnyPHP](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
+- [BunnyPHP](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library (MIT)
 - [Pheanstalk](https://github.com/pheanstalk/pheanstalk) - A Beanstalkd client library.
 - [PHP AMQP](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
 - [Tarantool Queue](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
