@@ -467,7 +467,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [Kint](https://github.com/kint-php/kint) - Advanced PHP dumper (MIT)
 - [Metrics](https://github.com/beberlei/metrics) - Simple library that abstracts different metrics collectors (unknown)
 - [PCOV](https://github.com/krakjoe/pcov) - CodeCoverage compatible driver (PHP)
-- [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
+- [PHP Console](https://github.com/Seldaek/php-console) - PHP debug console (BSDv3)
 - [php-debugbar](https://github.com/php-debugbar/php-debugbar) - Debug bar for PHP (MIT)
 - [PHPBench](https://github.com/phpbench/phpbench) - A benchmarking Framework.
 - [PHPSpy](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
