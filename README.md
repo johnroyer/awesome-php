@@ -490,7 +490,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 #### Router
 
-- [Aura.Router](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
+- [Aura.Router](https://github.com/auraphp/Aura.Router) - web router implementation for PHP (MIT)
 - [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
 - [Klein](https://github.com/klein/klein.php) - A flexible router.
 - [Pux](https://github.com/c9s/Pux) - Another fast routing library.
