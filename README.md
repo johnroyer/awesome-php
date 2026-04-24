@@ -494,7 +494,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [Fast Route](https://github.com/nikic/FastRoute) - Fast request router for PHP (BSDv3)
 - [klein.php](https://github.com/klein/klein.php) - fast & flexible router (MIT)
 - [Pux](https://github.com/c9s/Pux) - fast PHP router with out-of-box controller helpers (MIT)
-- [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
+- [Route](https://github.com/thephpleague/route) - fast PSR-7 based routing and dispatch component, with PSR-15 middleware support, built on top of FastRoute (MIT)
 
 #### Security
 
