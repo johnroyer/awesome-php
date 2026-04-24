@@ -498,27 +498,27 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 #### Security
 
-- [AntiXSS](https://github.com/voku/anti-xss) - A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting.
-- [Halite](https://github.com/paragonie/halite) - High-level cryptography interface powered by [libsodium](https://github.com/jedisct1/libsodium) (MIT)
-- [Optimus](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
-- [PHPGGC](https://github.com/ambionics/phpggc) - A library of PHP unserializable payloads along with a tool to generate them.
-- [PHP Encryption](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
+- [AntiXSS](https://github.com/voku/anti-xss) - Protection against Cross-site scripting (XSS) via PHP (MIT)
+- [Halite](https://github.com/paragonie/halite) - High-level cryptography interface powered by libsodium (MPL-2.0)
+- [Optimus](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method for PHP (MIT)
+- [PHPGGC](https://github.com/ambionics/phpggc) - Library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically (Apachev2)
+- [PHP Encryption](https://github.com/defuse/php-encryption) - Simple Encryption in PHP (MIT)
 - [PHPSecLib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library (MIT)
-- [random_compat](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
-- [Roave Security Advisories](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
-- [Secure Headers](https://github.com/BePsvPT/secure-headers) - A package that adds security related headers to HTTP response.
-- [Zap](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
-- [GenPhrase](https://github.com/timoh6/GenPhrase) - A library for generating secure random passphrases.
-- [Password Compat](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
-- [Password Policy](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
-- [Password Validator](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
-- [Password-Generator](https://github.com/hackzilla/password-generator) - PHP library to generate random passwords.
-- [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
-- [phpass](https://github.com/openwall/phpass) - Legacy password hashing framework for PHP applications needing to support or having previously supported PHP below 5.5 (Public Domain)
-- [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
-- [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
-- [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
-- [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) - Two Factor Authentication (TFA / 2FA) (MIT)
+- [random_compat](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()` (MIT)
+- [Roave Security Advisories](https://github.com/Roave/SecurityAdvisories) - Security advisories as a simple composer exclusion list, updated daily (MIT)
+- [Secure Headers](https://github.com/BePsvPT/secure-headers) - PHP Secure Headers (MIT)
+- [Zap](https://github.com/zaproxy/zaproxy) - ZAP by Checkmarx Core project (Apachev2)
+- [GenPhrase](https://github.com/timoh6/GenPhrase) - Secure passphrase generator for PHP applications (MIT)
+- [Password Compat](https://github.com/ircmaxell/password_compat) - Compatibility with the password_* functions that ship with PHP 5.5 (MIT)
+- [Password Policy](https://github.com/ircmaxell/password-policy) - Password policy enforcer for PHP and JavaScript (MIT)
+- [Password Validator](https://github.com/jeremykendall/password-validator) - Validates passwords against PHP's password_hash function using PASSWORD_DEFAULT (MIT)
+- [Password-Generator](https://github.com/hackzilla/password-generator) - PHP Library to generate random passwords (MIT)
+- [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - Library for generating and validating passwords (MIT)
+- [phpass](https://github.com/openwall/phpass) - Legacy password hashing framework for PHP applications needing to support or having previously supported PHP below 5.5 (CC-PDDC)
+- [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - Realistic PHP password strength estimate library based on Zxcvbn JS (MIT)
+- [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's new noCAPTCHA (reCAPTCHA v2 & v3) (MIT)
+- [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false (MIT)
+- [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) - PHP library for Two Factor Authentication (TFA / 2FA) (MIT)
 - [Laragear/WebAuthn](https://github.com/Laragear/WebAuthn) - Authenticate users with Passkeys: fingerprints, patterns and biometric data (MIT)
 
 #### Static Analysis
