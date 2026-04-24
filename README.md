@@ -523,18 +523,18 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 #### Static Analysis
 
-- [Exakat](https://github.com/exakat/exakat) - A static analysis engine for PHP.
-- [Deptrac](https://github.com/qossmic/deptrac) - A static code analysis tool that helps to enforce rules for dependencies between software layers.
-- [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
-- [phan](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
-- [PHP Architecture Tester](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
-- [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
-- [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
-- [PHPDoc Parser](https://github.com/phpstan/phpdoc-parser) - Next-gen phpDoc parser with support for intersection types and generics
-- [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
-- [PHP Migration](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
-- [PHPStan](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
-- [Psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications.
+- [Exakat](https://github.com/exakat/exakat) - Automated code reviewing engine for PHP (AGPL)
+- [Deptrac](https://github.com/qossmic/deptrac) - Static code analysis to find violations in a dependency graph (MIT)
+- [Mondrian](https://github.com/Trismegiste/Mondrian) - Static PHP code analysis tool using Graph Theory (MIT)
+- [phan](https://github.com/phan/phan) - Static analyzer for PHP that prefers to avoid false-positives and attempts to prove incorrectness rather than correctness (MIT)
+- [PHP Architecture Tester](https://github.com/carlosas/phpat) - Easy architecture testing tool for PHP (MIT)
+- [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) - PHP Compatibility check for PHP_CodeSniffer (LGPLv3)
+- [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - Static code analysis to find violations in a dependency graph (MIT)
+- [PHPDoc Parser](https://github.com/phpstan/phpdoc-parser) - Next-gen phpDoc parser with support for intersection types and generics (MIT)
+- [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP (MIT)
+- [PHP Migration](https://github.com/monque/PHP-Migration) - Static analyzer for PHP version migration and compatibility checking that detects changes introduced in PHP 5.3-7.0 (MIT)
+- [PHPStan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it! (MIT)
+- [Psalm](https://github.com/vimeo/psalm) - Static analysis tool for finding errors and security vulnerabilities in PHP applications (MIT)
 
 #### Stream
 
