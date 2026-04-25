@@ -536,10 +536,6 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [PHPStan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it! (MIT)
 - [Psalm](https://github.com/vimeo/psalm) - Static analysis tool for finding errors and security vulnerabilities in PHP applications (MIT)
 
-#### Stream
-
-- [Streamer](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
-
 #### Task Runner and Scheduler
 
 - [Jobby](https://github.com/jobbyphp/jobby) - A PHP cron job manager without modifying crontab.
