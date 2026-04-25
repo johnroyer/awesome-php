@@ -554,7 +554,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [Twig](https://github.com/twigphp/Twig) - flexible, fast, and secure template language for PHP (BSDv3)
 - [Laravel Mix](https://github.com/laravel-mix/laravel-mix ) - power of webpack, distilled for the rest of us (MIT)
 - [Symfony Asset](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets (MIT)
-- [Symfony Encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing and compiling assets built around Webpack.
+- [Symfony Encore](https://github.com/symfony/webpack-encore) - simple but powerful API for processing & compiling assets built around Webpack (MIT)
 
 #### Testing
 
