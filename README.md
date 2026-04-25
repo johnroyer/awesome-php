@@ -546,7 +546,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 #### Template
 
 - [Latte](https://github.com/nette/latte) - safest & truly intuitive templates for PHP (GPL, BSD)
-- [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
+- [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language (MIT)
 - [Mustache](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
 - [PHPTAL](https://github.com/phptal/PHPTAL) - template engine for XSS-proof well-formed XHTML and HTML5 pages (LGPLv2)
 - [Plates](http://platesphp.com/) - A native PHP templating library.
