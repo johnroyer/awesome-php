@@ -552,7 +552,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [Plates](https://github.com/thephpleague/plates) - Native PHP template system (MIT)
 - [Smarty](https://github.com/smarty-php/smarty) - template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic (LGPLv3)
 - [Twig](https://github.com/twigphp/Twig) - flexible, fast, and secure template language for PHP (BSDv3)
-- [Laravel Mix](https://github.com/laravel-mix/laravel-mix ) - An elegant wrapper around Webpack for the 80% use case.
+- [Laravel Mix](https://github.com/laravel-mix/laravel-mix ) - power of webpack, distilled for the rest of us (MIT)
 - [Symfony Asset](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets.
 - [Symfony Encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing and compiling assets built around Webpack.
 
