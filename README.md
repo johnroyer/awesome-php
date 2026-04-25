@@ -558,30 +558,30 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 #### Testing
 
-- [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
-- [AspectMock](https://github.com/Codeception/AspectMock) - The most powerful and flexible mocking framework for PHPUnit / Codeception (MIT)
-- [Atoum](https://github.com/atoum/atoum) - A simple testing library.
-- [Behat](https://docs.behat.org/en/latest/) - A behaviour driven development (BDD) testing framework.
-- [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
-- [Faker](https://github.com/fakerphp/faker) - A fake data generator library.
-- [Foundry](https://github.com/zenstruck/foundry) - A fixture factory generation library for Doctrine.
-- [Infection](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
-- [Kahlan](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
-- [Mockery](https://github.com/mockery/mockery) - A mock object library for testing.
-- [Nette Tester](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
-- [ParaTest](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
-- [Pest](https://github.com/pestphp/pest) - an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing (MIT)
-- [Phake](https://github.com/phake/phake) - Another mock object library for testing.
-- [PHP-Mock](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
-- [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
-- [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
-- [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
-- [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
-- [PHPUnit Polyfills](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
-- [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
-- [VFS Stream](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
-- [Better Reflection](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
-- [Assert](https://github.com/beberlei/assert) - A validation library with a rich set of assertions. Supports assertion chaining and lazy assertions.
+- [Alice](https://github.com/nelmio/alice) - Expressive fixtures generator (MIT)
+- [AspectMock](https://github.com/Codeception/AspectMock) - most powerful and flexible mocking framework for PHPUnit / Codeception (MIT)
+- [Atoum](https://github.com/atoum/atoum) - modern, simple and intuitive PHP unit testing framework (BSDv3)
+- [Behat](https://github.com/Behat/Behat) - BDD framework for PHP to help you test business expectations (MIT)
+- [Codeception](https://github.com/Codeception/Codeception) - Full-stack testing PHP framework (MIT)
+- [Faker](https://github.com/fakerphp/faker) - PHP library that generates fake data for you (MIT)
+- [Foundry](https://github.com/zenstruck/foundry) - model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine (MIT)
+- [Infection](https://github.com/infection/infection) - PHP Mutation Testing library (BSDv3)
+- [Kahlan](https://github.com/kahlan/kahlan) - PHP Test Framework for Freedom, Truth, and Justice (MIT)
+- [Mockery](https://github.com/mockery/mockery) - simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework (BSDv3)
+- [Nette Tester](https://github.com/nette/tester) - enjoyable unit testing in PHP with code coverage reporter (BSD or GPL)
+- [ParaTest](https://github.com/paratestphp/paratest) - Parallel testing for PHPUnit (MIT)
+- [Pest](https://github.com/pestphp/pest) - elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP (MIT)
+- [Phake](https://github.com/phake/phake) - PHP Mocking Framework (BSDv3)
+- [PHP-Mock](https://github.com/php-mock/php-mock) - Mock built-in PHP functions (e.g. time(), exec() or rand()) (WTFPL)
+- [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine) - MySQL engine written in pure PHP (MIT)
+- [PHPSpec](https://github.com/phpspec/phpspec) - toolset to drive emergent design by specification (MIT)
+- [PHPT](https://github.com/php/php-src) - test tool used by PHP itself (BSDv3)
+- [PHPUnit](https://github.com/sebastianbergmann/phpunit) - PHP Unit Testing framework (BSD-3-Clause)
+- [PHPUnit Polyfills](https://github.com/Yoast/PHPUnit-Polyfills/) - Set of polyfills for changed PHPUnit functionality to allow for creating PHPUnit cross-version compatible tests (BSDv3)
+- [Prophecy](https://github.com/phpspec/prophecy) - Highly opinionated mocking framework (MIT)
+- [VFS Stream](https://github.com/bovigo/vfsStream) - stream wrapper for a virtual file system that may be helpful in unit tests to mock the real file system. It can be used with any unit test framework, like PHPUnit or SimpleTest (BSDv3)
+- [Better Reflection](https://github.com/Roave/BetterReflection) - reflection API that aims to improve and provide more features than PHP's built-in reflection API (MIT)
+- [Assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model
 
 #### URL
 
