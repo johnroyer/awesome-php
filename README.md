@@ -538,10 +538,10 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 #### Task Runner and Scheduler
 
-- [Jobby](https://github.com/jobbyphp/jobby) - A PHP cron job manager without modifying crontab.
-- [Robo](https://github.com/consolidation/Robo) - A PHP Task runner with object-orientated configurations.
-- [Task](https://github.com/taskphp/task) - A pure PHP task runner inspired by Grunt and Gulp.
-- [Envoy](https://github.com/laravel/envoy) - A tool to run SSH tasks with PHP.
+- [Jobby](https://github.com/jobbyphp/jobby) - Manage all your cron jobs without modifying crontab. Handles locking, logging, error emails, and more (MIT)
+- [Robo](https://github.com/consolidation/Robo) - Modern task runner (MIT)
+- [Task](https://github.com/taskphp/task) - Pure PHP task runner (MIT)
+- [Envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP (MIT)
 
 #### Template
 
