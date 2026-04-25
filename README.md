@@ -549,7 +549,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language (MIT)
 - [Mustache](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language (MIT)
 - [PHPTAL](https://github.com/phptal/PHPTAL) - template engine for XSS-proof well-formed XHTML and HTML5 pages (LGPLv2)
-- [Plates](http://platesphp.com/) - A native PHP templating library.
+- [Plates](https://github.com/thephpleague/plates) - Native PHP template system (MIT)
 - [Smarty](https://github.com/smarty-php/smarty) - template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic (LGPLv3)
 - [Twig](https://github.com/twigphp/Twig) - flexible, fast, and secure template language for PHP (BSDv3)
 - [Laravel Mix](https://github.com/laravel-mix/laravel-mix ) - An elegant wrapper around Webpack for the 80% use case.
