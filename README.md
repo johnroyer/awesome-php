@@ -585,11 +585,11 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 #### URL
 
-- [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
-- [Purl](https://github.com/jwage/purl) - A URL manipulation library.
-- [sabre/uri](https://github.com/sabre-io/uri) - A functional URI manipulation library.
-- [Uri](https://github.com/thephpleague/uri) - Another URL manipulation library.
-- [glenscott/url-normalizer](https://github.com/glenscott/url-normalizer) - Syntax based normalization of URI's (MIT)
+- [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - public suffix list based domain parsing (MIT)
+- [Purl](https://github.com/jwage/purl) - simple object oriented URL manipulation library for PHP 7.2+ (MIT)
+- [sabre/uri](https://github.com/sabre-io/uri) - Functions for making sense out of URIs (BSDv3)
+- [Uri](https://github.com/thephpleague/uri) - URI manipulation library (MIT)
+- [glenscott/url-normalizer](https://github.com/glenscott/url-normalizer) - syntax based normalization of URI's (MIT)
 
 #### Validator
 
