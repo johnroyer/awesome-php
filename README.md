@@ -608,24 +608,24 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 #### Misc
 
-- [Finite](https://github.com/yohang/Finite) - A simple PHP finite state machine.
-- [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
-- [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
-- [IterTools PHP](https://github.com/markrogoyski/itertools-php) - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
-- [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
-- [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
-- [RulerZ](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
-- [UUID](https://github.com/ramsey/uuid) - A library for generating UUIDs.
-- [Url highlight](https://github.com/vstelmakh/url-highlight) - A library for parsing URLs from text and converting them into clickable links.
-- [URLify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
-- [Device Detector](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
-- [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
-- [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
-- [Lock](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
-- [Hprose-PHP](https://github.com/hprose/hprose-php) - A cross-language RPC.
-- [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
-- [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
-- [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
+- [Finite](https://github.com/yohang/Finite) - simple PHP finite state machine (MIT)
+- [Functional PHP](https://github.com/lstrojny/functional-php) - primitives for functional programming in PHP (MIT)
+- [Iter](https://github.com/nikic/iter) - iteration primitives using generators (BSDv3)
+- [IterTools PHP](https://github.com/markrogoyski/itertools-php) - PHP iteration tools library (MIT)
+- [Pipeline](https://github.com/thephpleague/pipeline) - pipeline pattern implementation (MIT)
+- [Porter](https://github.com/ScriptFUSION/Porter) - durable and asynchronous data imports for consuming data at scale and publishing testable SDKs (LGPLv3, GPLv3)
+- [RulerZ](https://github.com/K-Phoen/rulerz) - powerful implementation of the Specification pattern in PHP (MIT)
+- [UUID](https://github.com/ramsey/uuid) - PHP library for generating universally unique identifiers (UUIDs) (MIT)
+- [Url highlight](https://github.com/vstelmakh/url-highlight) - parse URLs from string input (MIT)
+- [URLify](https://github.com/jbroadway/urlify) - fast PHP slug generator and transliteration library that converts non-ascii characters for use in URLs (BSDv3)
+- [Device Detector](https://github.com/matomo-org/device-detector) - universal device detection library that parses User Agents and Browser Client Hints to detect devices (LGPLv3)
+- [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - lightweight PHP class for detecting mobile devices (including tablets) (MIT)
+- [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - validators for standards from ISO, International Finance, Public Administrations, GS1, Manufacturing Industry, Phone numbers & Zipcodes for many countries (GPLv3)
+- [Lock](https://github.com/php-lock/lock) - serialized execution of critical code in concurrent situations (MIT)
+- [Hprose-PHP](https://github.com/hprose/hprose-php) - cross-language RPC (MIT)
+- [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) - easy and secure way to serialize closures in PHP (MIT)
+- [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - pagination for PHP (MIT)
+- [ProxyManager](https://github.com/Ocramius/ProxyManager) - OOP proxy wrappers/utilities - generates and manages proxies of your objects (MIT)
 
 ### Framework
 
