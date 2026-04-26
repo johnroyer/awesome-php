@@ -593,14 +593,14 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 #### Validator
 
-- [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
-- [Aura.Filter](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
-- [CakePHP Validation](https://github.com/cakephp/validation) - Another validation library.
-- [Upload](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
-- [Valitron](https://github.com/vlucas/valitron) - Another validation library.
-- [Volan](https://github.com/serkin/Volan) - Another simplified validation library.
-- [Respect Validation](https://github.com/Respect/Validation) - A simple validation library.
-- [Valinor](https://github.com/CuyZ/Valinor) - A library for mapping to strongly typed value objects.
+- [Filterus](https://github.com/ircmaxell/filterus) - simple filtering library for PHP
+- [Aura.Filter](https://github.com/auraphp/Aura.Filter) - validate and sanitize arrays and objects (MIT)
+- [CakePHP Validation](https://github.com/cakephp/validation) - validation library from CakePHP (MIT)
+- [Upload](https://github.com/brandonsavage/Upload) - file uploads with validation and storage strategies (MIT)
+- [Valitron](https://github.com/vlucas/valitron) - simple, elegant, stand-alone validation library with NO dependencies (BSDv3)
+- [Volan](https://github.com/serkin/Volan) - light and extendable schema validation library (MIT)
+- [Respect Validation](https://github.com/Respect/Validation) - the most awesome validation engine ever created for PHP (MIT)
+- [Valinor](https://github.com/CuyZ/Valinor) - Dependency free PHP library that helps to map any input into a strongly-typed structure (MIT)
 
 #### Video
 
