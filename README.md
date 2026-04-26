@@ -630,34 +630,30 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 ### Framework
 
 - [AMP](https://github.com/amphp/amp) - non-blocking concurrency framework for PHP applications (MIT)
-- [CakePHP](https://cakephp.org/) - A rapid application development framework.
-- [CodeIgniter](https://codeigniter.com/) - A powerful PHP framework with a very small footprint.
+- [BotMan](https://github.com/botman/botman) - framework agnostic PHP library to build chat bots (MIT)
+- [CakePHP](https://github.com/cakephp/cakephp) - rapid application development framework (MIT)
+- [CakePHP CRUD](https://github.com/friendsofcake/crud) - production-grade rapid controller development with built in love for API and Search (MIT)
+- [CodeIgniter](https://github.com/codeigniter4/CodeIgniter4) - Open Source PHP Framework (originally from EllisLab) (MIT)
 - [FuelPHP](https://github.com/fuel/fuel) - simple, flexible, community driven PHP 5.3+ (MIT)
-- [Laminas](https://getlaminas.org/) - A framework comprised of individual components (previously Zend Framework).
-- [Laravel](https://laravel.com/) - A web application framework with expressive, elegant syntax.
-- [LLPhant](https://github.com/LLPhant/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
-- [Nette](https://nette.org) - A web framework comprised of mature components.
-- [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
-- [Spiral](https://spiral.dev/) - A high-performance PHP/Go framework.
-- [Symfony](https://symfony.com/) - A set of reusable components and a web framework.
-- [ReactPHP](https://github.com/reactphp/reactphp) - Event-driven, non-blocking I/O with PHP (MIT)
-- [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
-- [Laravel Zero](https://laravel-zero.com) - A micro-framework for console applications.
-- [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
-- [Minicli](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
-- [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
-- [Slim](https://www.slimframework.com/) - Another simple micro framework.
-- [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - A skeleton for Slim.
-- [Slim Twig View](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
-- [Slim PHP View](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
-- [Symfony](https://github.com/symfony/symfony) - for web and console applications and a set of reusable PHP components (MIT)
-- [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
-- [LaravelS](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
-- [Livewire](https://livewire.laravel.com/) - Powerful, dynamic, front-end UIs without leaving PHP.
-- [Swoole](https://github.com/swoole/swoole-src) - Coroutine-based concurrency library for PHP (Apache)
-- [BotMan](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chatbots.
+- [Laminas](https://github.com/laminas) - enterprise-ready PHP Framework and components (BSDv3)
+- [Laravel](https://github.com/laravel/laravel) - web application framework with expressive, elegant syntax (MIT)
+- [Laravel Zero](https://github.com/laravel-zero/laravel-zero) -  micro-framework that provides an elegant starting point for your console application (MIT)
+- [LaravelS](https://github.com/hhxsv5/laravel-s) - out-of-the-box adapter between Laravel/Lumen and Swoole (MIT)
+- [Livewire](https://github.com/livewire/livewire) - full-stack framework for Laravel that takes the pain out of building dynamic UIs (MIT)
+- [LLPhant](https://github.com/LLPhant/LLPhant) - comprehensive PHP Generative AI Framework using OpenAI GPT 4, inspired by Langchain (MIT)
+- [Mezzio](https://github.com/mezzio/mezzio) - PSR-15 Middleware Microframework (BSDv3)
+- [Minicli](https://github.com/minicli/minicli) - minimal framework for command-line applications in PHP (MIT)
+- [Nette](https://github.com/nette/nette) - framework speaks your language and helps you to easily build better websites (GPL, BSD)
+- [Phalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension (BSDv3)
+- [ReactPHP](https://github.com/reactphp/reactphp) - event-driven, non-blocking I/O with PHP (MIT)
+- [Silly](https://github.com/mnapoli/silly) - CLI micro-framework based on Symfony Console (MIT)
+- [Slim](https://github.com/slimphp/Slim) - micro framework that helps you quickly write simple yet powerful web applications and APIs (MIT)
+- [Spiral](https://github.com/spiral/framework) - high-performance PHP framework (MIT)
+- [Swoole](https://github.com/swoole/swoole-src) - coroutine-based concurrency library for PHP (Apache)
+- [Symfony](https://github.com/symfony/symfony) - framework for web and console applications and a set of reusable PHP components (MIT)
 - [TinnkPHP](https://github.com/top-think/framework) - simple, lightweight framework (Apache2)
-- [Workerman](https://github.com/walkor/Workerman) - An asynchronous event driven PHP socket framework (MIT)
+- [Workerman](https://github.com/walkor/Workerman) - asynchronous event driven PHP socket framework (MIT)
+- [Yii2](https://github.com/yiisoft/yii2/) - modern framework designed to be a solid foundation for your PHP application (BSDv3)
 
 ### Extensions
 
