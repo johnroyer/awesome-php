@@ -604,7 +604,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 #### Video
 
-- [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
+- [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - object oriented PHP driver for FFMpeg binary (MIT)
 
 #### Misc
 
