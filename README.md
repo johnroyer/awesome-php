@@ -696,7 +696,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [Brick Money](https://github.com/brick/money) - money and currency library (MIT)
 - [OmniPay](https://github.com/thephpleague/omnipay) - framework agnostic, multi-gateway payment processing library for PHP 5.6+ (MIT)
 - [Payum](https://github.com/payum/payum) - payment processing library supporting Credit card & offsite purchasing, subscriptions and payouts (MIT)
-- [Shopsys Framework](https://github.com/shopsys/shopsys/) - An open source e-commerce platform for in-house development teams
+- [Shopsys Framework](https://github.com/shopsys/shopsys/) - fully functional e-commerce solution for businesses transitioning into tech companies with their own software development team (multiple)
 - [Shopware](https://github.com/shopware/shopware) - open commerce platform based on Symfony Framework and Vue (MIT)
 - [Swap](https://github.com/florianv/swap) - currency conversion library for retrieving exchange rates from 30 providers, with caching and fallback (MIT)
 - [Sylius](https://sylius.com/) - An open source e-commerce solution.
