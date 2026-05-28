@@ -657,12 +657,12 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 ### Extensions
 
-- [PHP APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
+- [PHP APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD (PHPv3)
 - [PHP CPP](https://www.php-cpp.com/) - monitoring extension enabling native Application Performance Management (APM) for PHP (PHPv3)
 - [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension. (MIT)
-- [Zephir](https://github.com/zephir-lang/zephir ) - A compiled language between PHP and C++ for developing PHP extensions.
-- [Swoole](https://github.com/swoole/swoole-src) - Coroutine-based concurrency library for PHP (Apache)
-- [ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust (Apache / MIT)
+- [Zephir](https://github.com/zephir-lang/zephir) - compiled high-level language aimed to ease the creation of C-extensions (MIT)
+- [Swoole](https://github.com/swoole/swoole-src) - coroutine-based concurrency library (Apachev2)
+- [ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust (Apachev2)
 
 ### Platforms
 
