@@ -673,6 +673,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 #### Content Management Systems (CMS)
 
 - [Backdrop](https://github.com/backdrop/backdrop) - A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal)
+- [BookStack](https://codeberg.org/bookstack/bookstack) - platform to create documentation/wiki content built with PHP & Laravel (MIT)
 - [Concrete5](https://www.concretecms.com/) - A CMS targeting users with a minimum of technical skills
 - [CraftCMS](https://github.com/craftcms/cms) - Build bespoke content experiences with Craft (Commercial)
 - [DigiDocu](https://github.com/harish81/digidocu) - Open Source Documents Management System Built with Laravel 10 (GPLv3)
