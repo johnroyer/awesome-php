@@ -668,37 +668,37 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 #### Analytics
 
-- [Matomo](https://github.com/matomo-org/matomo) - leading open-source alternative to Google Analytics (GPLv3)
+- [Matomo](https://github.com/matomo-org/matomo) - leading open-source alternative to Google Analytics, giving you complete control and built-in privacy (GPLv3)
 
 #### Content Management Systems (CMS)
 
-- [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal).
-- [Concrete5](https://www.concretecms.com/) - A CMS targeting users with a minimum of technical skills.
-- [CraftCMS](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
-- [DigiDocu](https://github.com/harish81/digidocu) - Open Source Documents Management System Built with Laravel 10 (GPL)
-- [Drupal](https://new.drupal.org/home) - An enterprise level CMS.
-- [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
-- [Joomla](https://www.joomla.org/) - Another leading CMS.
-- [Kirby](https://getkirby.com/) - A flat-file CMS that adapts to any project.
-- [Magento](https://github.com/magento/magento2) - The most popular e-commerce platform.
-- [Moodle](https://moodle.org/) - An open-source learning platform.
-- [OpenMage](https://github.com/OpenMage/magento-lts) - Fork of EoL Magento 1 e-commerce platform.
-- [Pico CMS](https://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
-- [Statamic](https://statamic.com/) - Build beautiful, easy-to-manage websites.
-- [Sulu](https://sulu.io/) - A user and developer friendly focused CMS and Platform based on the Symfony Framework.
-- [TYPO3](https://typo3.org) - An enterprise level CMS.
-- [WordPress](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
-- [MediaWiki](https://github.com/wikimedia/mediawiki) - collaborative editing software that runs Wikipedia (GPLv2)
+- [Backdrop](https://github.com/backdrop/backdrop) - A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal)
+- [Concrete5](https://www.concretecms.com/) - A CMS targeting users with a minimum of technical skills
+- [CraftCMS](https://github.com/craftcms/cms) - Build bespoke content experiences with Craft (Commercial)
+- [DigiDocu](https://github.com/harish81/digidocu) - Open Source Documents Management System Built with Laravel 10 (GPLv3)
+- [Drupal](https://new.drupal.org/home) - An enterprise level CMS (GPLv2)
+- [Grav](https://github.com/getgrav/grav) - Modern Flat-File CMS powered by PHP, Markdown, Twig, and Symfony (MIT)
+- [Joomla](https://github.com/joomla/joomla-cms) - Home of the Joomla! Content Management System (GPLv2)
+- [Kirby](https://github.com/getkirby/kirby) - file-based CMS that adapts to you (Commercial)
+- [Magento](https://github.com/magento/magento2) - The most popular e-commerce platform (OSLv3)
+- [Moodle](https://github.com/moodle/moodle) - An open-source learning platform (GPLv3)
+- [OpenMage](https://github.com/OpenMage/magento-lts) - official LTS codebase for Magento Community Edition, with security patches and performance improvements (OSLv3)
+- [Pico CMS](https://github.com/picocms/Pico) - stupidly simple, blazing fast, flat file CMS (MIT)
+- [Statamic](https://statamic.com/) - the flat-first, Laravel + Git powered CMS designed for building beautiful, easy to manage websites (Commercial)
+- [Sulu](https://sulu.io/) - highly extensible open-source PHP content management system based on the Symfony framework (MIT)
+- [TYPO3](https://typo3.org) - web content management system released under the GNU GPL (GPLv2)
+- [WordPress](https://github.com/WordPress/WordPress) - open source publishing platform of choice for millions of websites worldwide—from creators and small businesses to enterprises (GPLv2)
+- [MediaWiki](https://github.com/wikimedia/mediawiki) - free and open-source wiki software package (GPLv2)
 
 #### E-commerce
 
-- [Money](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
-- [Brick Money](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
-- [OmniPay](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
-- [Payum](https://github.com/payum/payum) - A payment abstraction library.
-- [Shopsys Framework](https://github.com/shopsys/shopsys/) - An open source e-commerce platform for in-house development teams.
-- [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
-- [Swap](https://github.com/florianv/swap) - An exchange rates library.
+- [Money](https://github.com/moneyphp/money) - implementation of Fowler's Money pattern (MIT)
+- [Brick Money](https://github.com/brick/money) - money and currency library (MIT)
+- [OmniPay](https://github.com/thephpleague/omnipay) - framework agnostic, multi-gateway payment processing library for PHP 5.6+ (MIT)
+- [Payum](https://github.com/payum/payum) - payment processing library supporting Credit card & offsite purchasing, subscriptions and payouts (MIT)
+- [Shopsys Framework](https://github.com/shopsys/shopsys/) - An open source e-commerce platform for in-house development teams
+- [Shopware](https://github.com/shopware/shopware) - open commerce platform based on Symfony Framework and Vue (MIT)
+- [Swap](https://github.com/florianv/swap) - currency conversion library for retrieving exchange rates from 30 providers, with caching and fallback (MIT)
 - [Sylius](https://sylius.com/) - An open source e-commerce solution.
 
 #### ERP / CRM
