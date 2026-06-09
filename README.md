@@ -728,10 +728,10 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 ### Build Tool
 
-- [Box](https://github.com/box-project/box) - A utility to build PHAR files.
-- [Construct](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
-- [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
-- [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
+- [Box](https://github.com/box-project/box) - Fast, zero config application bundler with PHARs (MIT)
+- [Construct](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator for PDS compliant projects or micro-packages (MIT)
+- [Phing](https://github.com/phingofficial/phing) - PHing Is Not GNU make; it's a PHP project build system or build tool based on Apache Ant (LGPLv3)
+- [RMT](https://github.com/liip/RMT) - RMT is a handy tool to help releasing new version of your software (MIT)
 
 ### Development tool / environment
 
