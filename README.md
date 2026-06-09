@@ -720,9 +720,9 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 ### Static Site Generators
 
-- [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
-- [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
-- [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
+- [Couscous](https://github.com/CouscousPHP/Couscous) - Couscous generates a GitHub pages website from your markdown documentation (MIT)
+- [Jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel's Blade (MIT)
+- [Sculpin](https://github.com/sculpin/sculpin) - takes data sources such as text files (Markdown, Textile, etc.) and transforms them using Twig templates to produce a set of static HTML files that can be deployed to almost any hosting platform (MIT)
 
 ## Ecosystem
 
