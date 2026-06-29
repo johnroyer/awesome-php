@@ -657,7 +657,8 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 ### Extensions
 
-- [PHP APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD (PHPv3)
+- [FrankenPHP](https://github.com/php/frankenphp) - [Writing PHP extensions in Go](https://frankenphp.dev/docs/extensions/) (MIT)
+- [PHP APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
 - [PHP CPP](https://www.php-cpp.com/) - monitoring extension enabling native Application Performance Management (APM) for PHP (PHPv3)
 - [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension. (MIT)
 - [Zephir](https://github.com/zephir-lang/zephir) - compiled high-level language aimed to ease the creation of C-extensions (MIT)
