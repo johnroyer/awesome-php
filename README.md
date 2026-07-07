@@ -760,9 +760,9 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 - [Composer Installers](https://github.com/composer/installers) - multi-framework Composer library installer (MIT)
 - [Composer](https://getcomposer.org/) - Dependency Manager for PHP (MIT)
-- [Pie](https://github.com/php/pie) - The official PHP installer for extensions.
-- [Phive](https://phar.io/) - A PHAR manager.
-- [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.* [Composed](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
+- [Pie](https://github.com/php/pie) - official PHP installer for extensions (BSDv3)
+- [Phive](https://github.com/phar-io/phive) - Phar Installation and Verification Environment (BSDv3)
+- [Pickle](https://github.com/FriendsOfPHP/pickle) - installs PHP extensions easily on all platforms (BSD)
 - [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
 - [Composer Normalize](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
 - [Composer Patches](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
