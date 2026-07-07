@@ -772,7 +772,6 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [Repman](https://repman.io) - PHP Repository Manager: packagist proxy and host for private packages (MIT)
 - [Satis](https://github.com/composer/satis) - Simple static Composer repository generator (MIT)
 - [Tooly](https://github.com/tommy-muehle/tooly-composer-script) - Simple composer script to manage phar files using project `composer.json` (MIT)
-- [Toran Proxy](https://toranproxy.com) - Composer proxy for speed and reliability
 
 ### PHP Installation
 
