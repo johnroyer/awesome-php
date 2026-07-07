@@ -758,8 +758,8 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 ### Dependency Management
 
-- [Composer Installers](https://github.com/composer/installers) - A  multi-framework Composer library installer.
-- [Composer](https://getcomposer.org/) - A package and dependency manager.
+- [Composer Installers](https://github.com/composer/installers) - multi-framework Composer library installer (MIT)
+- [Composer](https://getcomposer.org/) - Dependency Manager for PHP (MIT)
 - [Pie](https://github.com/php/pie) - The official PHP installer for extensions.
 - [Phive](https://phar.io/) - A PHAR manager.
 - [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.* [Composed](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
