@@ -738,23 +738,23 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 - [Ansible](https://www.redhat.com/en/ansible-collaborative) - A radically simple orchestration framework.
 - [CaptainHook](https://github.com/captainhook-git/captainhook) - very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze (MIT)
-- [DDEV](https://github.com/ddev/ddev) - a local web development environment system for PHP.
+- [DDEV](https://github.com/ddev/ddev) - tool for running local web development environments for PHP and Node.js (Apachev2)
 - [Deployer](https://github.com/deployphp/deployer) - deployment tool with support for popular frameworks out of the box (MIT)
 - [Docker](https://www.docker.com/) - A containerization platform.
-- [Docker PHP Extension Installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
-- [Docksal](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
-- [Expose](https://github.com/exposedev/expose) - An open-source PHP tunneling service.
-- [Lando](https://lando.dev/) - Push-button development environments.
-- [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
-- [Laravel Herd](https://herd.laravel.com/windows) - A one click PHP development environment for macOS and Windows.
-- [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
-- [PHPMon](https://phpmon.app/) - A macOS menu bar app for managing PHP installations (works with [Laravel Valet](https://laravel.com/docs/master/valet)).
+- [Docker PHP Extension Installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (MIT)
+- [Docksal](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux (MIT)
+- [Expose](https://github.com/exposedev/expose) - beautiful, fully open-source, tunneling service (MIT)
+- [Lando](https://lando.dev/) - free and open-source dev tool run by the Lando Alliance, a 501(c)(3) nonprofit
+- [Laravel Homestead](https://laravel.com/docs/master/homestead) - make the entire PHP development experience delightful, including your local development environment
+- [Laravel Herd](https://herd.laravel.com/windows) - One click PHP development environment
+- [Laradock](http://laradock.io/) - full PHP development environment for Docker (MIT)
+- [PHPMon](https://phpmon.app/) - Easily install and configure your development environment (MIT)
 - [Puppet](https://www.puppet.com) - A server automation framework and application.
 - [Rocketeer](https://github.com/rocketeers/rocketeer) - Send your projects up in the clouds (MIT)
 - [Laravel Sail](https://github.com/laravel/sail) - Docker files for running a basic Laravel application (MIT)
-- [Takeout](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
-- [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
-- [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
+- [Takeout](https://github.com/tighten/takeout) - Docker-based development-only dependency manager (MIT)
+- [Vagrant](https://www.vagrantup.com/) - A portable development environment utility
+- [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - Optimizes class loading performance by generating a single PHP file containing all of the autoloaded files (MIT)
 
 ### Dependency Management
 
