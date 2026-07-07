@@ -769,10 +769,10 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [Composer Prefer Lowest Validator](https://github.com/dereuromark/composer-prefer-lowest) - strictly compare the specified minimum versions of your composer.json with the ones actually used by the prefer-lowest composer update command option (MIT)
 - [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to check whether a specific composer package uses imported symbols that aren't part of its direct composer dependencies (MIT)
 - [Composer Unused](https://github.com/composer-unused/composer-unused) - show unused composer dependencies by scanning your code (MIT)
-- [Repman](https://repman.io) - A private PHP package repository manager and Packagist proxy.
-- [Satis](https://github.com/composer/satis) - A static Composer repository generator.
-- [Tooly](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in a project using Composer.
-- [Toran Proxy](https://toranproxy.com) - A Composer proxy for speed and reliability. (:warning: Toran Proxy is being phased out.)
+- [Repman](https://repman.io) - PHP Repository Manager: packagist proxy and host for private packages (MIT)
+- [Satis](https://github.com/composer/satis) - Simple static Composer repository generator (MIT)
+- [Tooly](https://github.com/tommy-muehle/tooly-composer-script) - Simple composer script to manage phar files using project `composer.json` (MIT)
+- [Toran Proxy](https://toranproxy.com) - Composer proxy for speed and reliability
 
 ### PHP Installation
 
