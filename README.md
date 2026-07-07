@@ -763,12 +763,12 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 - [Pie](https://github.com/php/pie) - official PHP installer for extensions (BSDv3)
 - [Phive](https://github.com/phar-io/phive) - Phar Installation and Verification Environment (BSDv3)
 - [Pickle](https://github.com/FriendsOfPHP/pickle) - installs PHP extensions easily on all platforms (BSD)
-- [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
-- [Composer Normalize](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
-- [Composer Patches](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
-- [Composer Prefer Lowest Validator](https://github.com/dereuromark/composer-prefer-lowest) - A plugin to check if minimum dependencies can be installed and tested.
-- [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
-- [Composer Unused](https://github.com/composer-unused/composer-unused) - A CLI Tool to scan for unused composer packages.
+- [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - merge one or more additional `composer.json` files at Composer runtime (MIT)
+- [Composer Normalize](https://github.com/ergebnis/composer-normalize) - provides a composer plugin for normalizing `composer.json` (MIT)
+- [Composer Patches](https://github.com/cweagans/composer-patches) - ppplies a patch from a local or remote file to any dependency installed by Composer (BSDv3)
+- [Composer Prefer Lowest Validator](https://github.com/dereuromark/composer-prefer-lowest) - strictly compare the specified minimum versions of your composer.json with the ones actually used by the prefer-lowest composer update command option (MIT)
+- [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to check whether a specific composer package uses imported symbols that aren't part of its direct composer dependencies (MIT)
+- [Composer Unused](https://github.com/composer-unused/composer-unused) - show unused composer dependencies by scanning your code (MIT)
 - [Repman](https://repman.io) - A private PHP package repository manager and Packagist proxy.
 - [Satis](https://github.com/composer/satis) - A static Composer repository generator.
 - [Tooly](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in a project using Composer.
