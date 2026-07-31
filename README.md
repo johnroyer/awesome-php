@@ -159,15 +159,6 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHPCI](https://github.com/dancryer/phpci) - free and open source continuous integration tool specifically designed for PHP (BSDv2)
 - [Setup PHP](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools (MIT)
 
-#### Crawler
-
-- [Chrome PHP](https://github.com/chrome-php/chrome) - Instrument headless chrome/chromium instances from PHP (MIT)
-- [CrawlerDetect](https://github.com/JayBizzle/Crawler-Detect) - PHP class for detecting bots/crawlers/spiders via the user agent (MIT)
-- [DiDOM](https://github.com/Imangazaliev/DiDOM) - Simple and fast HTML and XML parser (MIT)
-- [Embed](https://github.com/php-embed/Embed) - Get info from any web service or page (MIT)
-- [PHP Spider](https://github.com/mvdbos/php-spider) - configurable and extensible PHP web spider (MIT)
-- [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (MIT)
-
 #### Convertor
 
 - [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library (MIT)
@@ -181,9 +172,14 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [Hateoas](https://github.com/willdurand/Hateoas) - implementing representations for HATEOAS REST web services (MIT)
 - [Jane](https://github.com/janephp/janephp/) - a set of libraries to generate Models & API Clients based on JSON Schema / OpenAPI specs (MIT)
 
-#### Data Science
+#### Crawler
 
-datamining, machine learning
+- [Chrome PHP](https://github.com/chrome-php/chrome) - Instrument headless chrome/chromium instances from PHP (MIT)
+- [CrawlerDetect](https://github.com/JayBizzle/Crawler-Detect) - PHP class for detecting bots/crawlers/spiders via the user agent (MIT)
+- [DiDOM](https://github.com/Imangazaliev/DiDOM) - Simple and fast HTML and XML parser (MIT)
+- [Embed](https://github.com/php-embed/Embed) - Get info from any web service or page (MIT)
+- [PHP Spider](https://github.com/mvdbos/php-spider) - configurable and extensible PHP web spider (MIT)
+- [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (MIT)
 
 - [PHP-ML](https://github.com/jorgecasas/php-ml) - PHP Machine Learning library (MIT)
 - [PHP-MLX](https://github.com/php-ai/php-mlx) - PHP-MLX (php-ml next generation) - Machine Learning library for PHP (MIT liked)
