@@ -26,13 +26,13 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Globalization](#globalization)
     - [HTTP](#http)
     - [Image](#image)
-    - [Intergration](#intergration)
+    - [Integration](#integration)
     - [JSON](#json)
     - [Logging](#logging)
     - [Math](#math)
     - [Middleware](#middleware)
-    - [Multi-Proccesses](#multi-proccesses)
-    - [Multi-Thread](#multi-threads)
+    - [Multi-Processes](#multi-processes)
+    - [Multi-Threads](#multi-threads)
     - [Navigation](#navigation)
     - [Notifications](#notifications)
     - [Office](#office)
@@ -327,7 +327,7 @@ Include internationalization (I18n), localization (L10n) and translation
 - [Symfony HTTP Client](https://github.com/symfony/http-client) - Provides powerful methods to fetch HTTP resources synchronously or asynchronously (MIT)
 - [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR HTTP Message implementations (BSDv3)
 
-#### Intergration
+#### Integration
 
 SDK, client API
 
@@ -393,7 +393,7 @@ SDK, client API
 - [Relay](https://github.com/relayphp/Relay.Relay) - PSR-15 server request handler (MIT)
 - [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - PSR-7 middleware foundation for building and dispatching middleware pipelines (BSDv3)
 
-#### Multi-Proccesses
+#### Multi-Processes
 
 - [amphp/process](https://github.com/amphp/process) - An async process dispatcher for Amp (MIT)
 - [console-parallelization](https://github.com/webmozarts/console-parallelization) - Enables the parallelization of Symfony Console commands (MIT)
