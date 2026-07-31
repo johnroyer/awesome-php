@@ -777,7 +777,7 @@ Parser and renderer for HTML, CSS, Markdown, YAML, TOML
 
 - [Brew PHP Switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher.
 - [HomeBrew](https://brew.sh/) - A package manager for OSX.
-- [PHPBrew](https://github.com/phpbrew/phpbrew) - A PHP version manager and installer.
+- [PHPBrew](https://github.com/phpbrew/phpbrew) - builds and installs multiple version php(s) in your $HOME directory (MIT)
 - [PHP Build](https://github.com/php-build/php-build) - Another PHP version installer.
 - [Static PHP CLI](https://github.com/crazywhalecc/static-php-cli) - Build or [download](https://dl.static-php.dev/static-php-cli/) static versions of PHP CLI and FPM.
 - [PCEL](https://pecl.php.net/) - repository for PHP Extensions, providing a directory of all known extensions
