@@ -13,6 +13,7 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
     - [Continuous Integration (CI)](#continuous-integration-ci)
     - [Convertor](#convertor)
     - [Crawler](#crawler)
+    - [Data Science & Machine Learning](#data-science-machine-learning)
     - [Data Structure](#data-structure)
     - [Database](#database)
     - [Date and Time](#date-and-time)
@@ -181,6 +182,12 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 - [PHP Spider](https://github.com/mvdbos/php-spider) - configurable and extensible PHP web spider (MIT)
 - [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony (MIT)
 
+#### Data Science & Machine Learning
+
+datamining, machine learning, LLM, AI frameworks
+
+- [Jieba-PHP](https://github.com/fukuball/jieba-php) - Chinese text segmentation: built to be the best PHP Chinese word segmentation module (MIT)
+- [LLPhant](https://github.com/LLPhant/LLPhant) - comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain (MIT)
 - [PHP-ML](https://github.com/jorgecasas/php-ml) - PHP Machine Learning library (MIT)
 - [PHP-MLX](https://github.com/php-ai/php-mlx) - PHP-MLX (php-ml next generation) - Machine Learning library for PHP (MIT liked)
 - [Rubix ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language (MIT)
@@ -371,11 +378,6 @@ SDK, client API
 #### Logging
 
 - [Monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services (MIT)
-
-#### Machine Learning / LLM
-
-- [Jieba-PHP](https://github.com/fukuball/jieba-php) - Chinese text segmentation: built to be the best PHP Chinese word segmentation module (MIT)
-- [LLPhant](https://github.com/LLPhant/LLPhant) - comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain (MIT)
 
 #### Math
 
